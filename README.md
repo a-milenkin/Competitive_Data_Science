@@ -1,2 +1,2 @@
-# Competative_Data_Science
+# Competitive_Data_Science
 Материалы по курсу анализу данных
