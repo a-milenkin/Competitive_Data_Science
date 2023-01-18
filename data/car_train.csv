@@ -1,0 +1,2338 @@
+car_id,model,car_type,fuel_type,car_rating,year_to_start,riders,year_to_work,target_1,target_2
+Z16209094a,Smart Coupe,economy,petrol,4.9,2016,30228,2017,1,engine_overheat
+J-1559355B,Renault Kaptur,standart,petrol,4.42,2015,14651,2017,1,electro_bug
+i14360916r,Skoda Rapid,economy,petrol,3.62,2017,56425,2019,0,another_bug
+c47847702x,VW Polo VI,economy,petrol,3.92,2013,19276,2017,0,electro_bug
+D66316453N,VW Polo,economy,petrol,4.08,2013,14816,2021,0,engine_overheat
+f-2311100N,VW Tiguan,economy,petrol,4.64,2017,47197,2019,0,engine_fuel
+m12275476X,VW Tiguan,economy,petrol,2.54,2015,14070,2021,0,engine_ignition
+e-1431476C,Renault Kaptur,standart,petrol,4.84,2014,3856,2017,2,gear_stick
+t-9273754D,Smart Coupe,economy,petrol,5.32,2016,30076,2016,0,engine_overheat
+Z-5831193Z,VW Polo VI,economy,petrol,3.94,2013,19996,2016,0,gear_stick
+V-1900300J,Skoda Rapid,economy,petrol,4.28,2016,35113,2014,0,break_bug
+y21420633B,Skoda Rapid,economy,petrol,3.74,2017,51647,2017,0,wheel_shake
+i50548773n,Kia Rio X-line,economy,petrol,3.1,2013,18987,2016,0,engine_ignition
+d20194548u,Hyundai Solaris,economy,petrol,3.98,2013,20120,2017,0,engine_check
+S18129047D,Renault Kaptur,standart,petrol,5.4,2012,34015,2018,1,engine_check
+K12330955e,VW Tiguan,economy,petrol,5.24,2016,35000,2019,2,engine_fuel
+g19768174N,Smart ForTwo,economy,petrol,3.54,2014,226,2021,0,electro_bug
+n94921067z,Smart ForTwo,economy,petrol,5.1,2015,12998,2016,0,gear_stick
+S66749958V,Kia Rio X-line,economy,petrol,4.6,2012,36490,2018,0,gear_stick
+X-1084724e,Kia Rio X-line,economy,petrol,5.32,2013,18714,2019,0,engine_overheat
+X57547367K,Hyundai Solaris,economy,petrol,4.22,2015,19067,2022,0,wheel_shake
+j24085349g,VW Tiguan,economy,petrol,4.52,2015,13599,2018,0,another_bug
+R-1286000j,Skoda Rapid,economy,petrol,4.58,2015,10431,2019,0,engine_overheat
+Y-1294820K,Renault Kaptur,standart,petrol,4.96,2015,15215,2017,0,engine_check
+Z10636869a,VW Polo VI,economy,petrol,3.7,2015,14941,2016,0,engine_ignition
+y-1144284T,VW Polo,economy,petrol,5.46,2015,19161,2014,0,engine_overheat
+d10810444Q,Kia Sportage,standart,petrol,3.62,2011,60770,2017,0,engine_fuel
+w-7097186C,VW Tiguan,economy,petrol,4.52,2016,29515,2020,0,electro_bug
+P18195568h,Kia Rio,economy,petrol,4.04,2013,13037,2022,1,wheel_shake
+j12387927b,Smart Coupe,economy,petrol,2.48,2015,21830,2019,0,engine_overheat
+L25330938d,VW Tiguan,economy,petrol,4.68,2016,41245,2019,0,engine_overheat
+r30631968j,Renault Kaptur,standart,petrol,4.04,2014,34,2016,0,break_bug
+O-1893997O,Renault Kaptur,standart,petrol,5.62,2015,18350,2019,0,engine_check
+Q-1443299t,Renault Sandero,standart,petrol,5.3,2014,6482,2014,0,engine_overheat
+s-2278509u,Volkswagen ID.4 ,premium,electro,5.02,2016,38528,2018,0,engine_fuel
+v16712960N,Smart ForTwo,economy,petrol,4.06,2016,36810,2018,0,break_bug
+a-8647034O,Kia Rio,economy,petrol,5.28,2014,2663,2018,0,another_bug
+A20502236A,Smart Coupe,economy,petrol,5.18,2013,11832,2016,0,another_bug
+G42584963b,Smart ForTwo,economy,petrol,4.42,2016,38399,2015,0,wheel_shake
+y-3576167V,VW Tiguan,economy,petrol,4.08,2015,18568,2019,0,gear_stick
+x-1578006J,Smart Coupe,economy,petrol,5.44,2015,22341,2017,0,engine_overheat
+d16258506l,Kia Rio,economy,petrol,3.36,2014,6660,2016,0,electro_bug
+z72809010B,VW Polo,economy,petrol,4.68,2013,16860,2018,0,another_bug
+g-1812614G,Audi Q3,premium,petrol,4.16,2013,12564,2019,1,another_bug
+h15278156g,Kia Rio X,economy,petrol,4.2,2015,16467,2021,3,break_bug
+W21507075h,Smart ForTwo,economy,petrol,4.6,2014,2971,2020,0,another_bug
+s17290420K,VW Tiguan,economy,petrol,3.62,2016,38969,2018,0,another_bug
+k-9074548H,Kia Rio X,economy,petrol,4.38,2015,12523,2018,0,electro_bug
+n-1071951P,Skoda Rapid,economy,petrol,5.76,2017,54252,2021,0,gear_stick
+w-5228692b,VW Polo,economy,petrol,4.64,2014,6789,2020,0,electro_bug
+D10638087e,VW Polo,economy,petrol,4.08,2012,35487,2022,0,electro_bug
+z-1949863K,Hyundai Solaris,economy,petrol,4.44,2015,18499,2019,0,engine_fuel
+Q11462493n,VW Polo,economy,petrol,3.26,2013,23903,2015,0,wheel_shake
+E-1525483o,Audi Q3,premium,petrol,3.76,2013,16704,2020,0,break_bug
+U10276674Q,Skoda Rapid,economy,petrol,4.46,2017,54755,2016,0,engine_overheat
+x-1452147j,Nissan Qashqai,standart,petrol,4.36,2014,3095,2021,0,engine_fuel
+S29944584X,Smart ForTwo,economy,petrol,4.52,2013,20894,2015,0,wheel_shake
+A98427281X,Smart ForTwo,economy,petrol,4.78,2016,33309,2017,1,engine_fuel
+G42963206m,Nissan Qashqai,standart,petrol,3.24,2012,34306,2022,0,engine_overheat
+V-1040371P,Hyundai Solaris,economy,petrol,4.68,2014,7085,2020,0,electro_bug
+u61534081M,Kia Rio,economy,petrol,4.02,2011,49311,2020,0,engine_overheat
+n23433359b,Hyundai Solaris,economy,petrol,2.5,2015,10743,2021,0,wheel_shake
+q-1772324O,VW Polo VI,economy,petrol,4.42,2011,55772,2014,0,another_bug
+j-1802951V,Kia Rio X-line,economy,petrol,5.74,2015,17529,2018,0,another_bug
+y-1462727h,Smart ForTwo,economy,petrol,4.12,2016,32718,2015,0,engine_ignition
+Q-6475490A,Renault Kaptur,standart,petrol,4.3,2011,53845,2015,0,gear_stick
+g-1827919u,Kia Sportage,standart,petrol,5.72,2014,6636,2021,0,break_bug
+S-1063857L,Smart ForTwo,economy,petrol,4.14,2015,17484,2021,0,engine_ignition
+f50936712T,Nissan Qashqai,standart,petrol,5.48,2014,1930,2022,0,electro_bug
+p72256143j,Renault Kaptur,standart,petrol,3.66,2012,36176,2016,0,engine_check
+P16946215G,Smart ForFour,economy,petrol,2.56,2017,46045,2020,1,electro_bug
+e-1253819D,Kia Sportage,standart,petrol,4.64,2013,14758,2015,0,engine_overheat
+d-1719763N,Renault Kaptur,standart,petrol,5.78,2011,56728,2020,1,engine_ignition
+a18290954q,Kia Rio,economy,petrol,3.98,2015,14061,2017,0,wheel_shake
+Z-9838478x,Renault Sandero,standart,petrol,3.92,2014,6879,2020,1,electro_bug
+o14828435s,VW Tiguan,economy,petrol,4.06,2015,13796,2018,0,wheel_shake
+x-1479977q,VW Tiguan,economy,petrol,4.74,2015,20822,2018,0,engine_overheat
+G18319185j,Mercedes-Benz GLC,business,petrol,3.32,2015,14924,2019,0,gear_stick
+d12372286F,Smart ForTwo,economy,petrol,3.26,2015,12998,2015,0,engine_overheat
+b-8528629J,Kia Rio X,economy,petrol,5.14,2012,50899,2018,0,engine_fuel
+r43850500Z,Renault Sandero,standart,petrol,3.68,2012,36138,2020,0,engine_fuel
+H-1752148c,Smart ForTwo,economy,petrol,4.42,2015,17222,2015,2,engine_fuel
+d17723544F,Kia Rio X-line,economy,petrol,3.26,2014,1540,2016,0,another_bug
+Z16564364A,VW Polo,economy,petrol,3.16,2013,20082,2022,0,break_bug
+b-5365034Y,VW Polo,economy,petrol,4.98,2015,14099,2019,0,engine_check
+K64336413q,Smart ForTwo,economy,petrol,3.92,2015,14947,2015,0,engine_fuel
+A-1242854j,Hyundai Solaris,economy,petrol,5.72,2014,2395,2018,0,wheel_shake
+w48885547f,Kia Rio,economy,petrol,4.1,2015,21228,2015,0,electro_bug
+d85247611N,VW Polo VI,economy,petrol,2.92,2012,38374,2017,0,wheel_shake
+m-1892514p,Hyundai Solaris,economy,petrol,5.38,2015,8966,2016,0,another_bug
+b-5775041N,Renault Kaptur,standart,petrol,3.0,2014,6800,2019,0,engine_fuel
+Z19190549T,Kia Rio X-line,economy,petrol,3.24,2014,1588,2020,1,wheel_shake
+d-7600403L,Nissan Qashqai,standart,petrol,4.44,2013,16801,2016,0,another_bug
+M-7218950I,Kia Rio X-line,economy,petrol,4.56,2013,11532,2017,1,gear_stick
+i18281175g,Smart ForTwo,economy,petrol,3.02,2013,19106,2016,0,engine_overheat
+d80011314Q,Kia Sportage,standart,petrol,3.8,2013,17867,2018,0,engine_check
+h-9571496Q,VW Polo VI,economy,petrol,4.74,2014,1798,2016,0,break_bug
+V17270328I,Renault Kaptur,standart,petrol,4.24,2012,30192,2018,0,engine_fuel
+q69769932l,Renault Kaptur,standart,petrol,2.74,2015,23544,2019,0,another_bug
+j13686085J,Kia Rio X,economy,petrol,3.14,2015,6275,2019,1,engine_fuel
+k-1902306g,Smart ForTwo,economy,petrol,4.84,2014,1685,2020,0,break_bug
+C-1420423w,Smart ForTwo,economy,petrol,4.82,2015,23007,2014,1,engine_ignition
+K22074464u,VW Polo VI,economy,petrol,4.0,2011,47033,2016,0,engine_fuel
+q46277827A,Renault Sandero,standart,petrol,4.98,2015,20072,2020,0,engine_check
+d-1046480q,Hyundai Solaris,economy,petrol,4.36,2013,13380,2016,0,gear_stick
+h21048848g,Kia Rio,economy,petrol,3.98,2012,41026,2017,1,engine_overheat
+G48676896L,Renault Sandero,standart,petrol,4.06,2015,18174,2016,1,engine_overheat
+y-2783281C,Hyundai Solaris,economy,petrol,5.4,2013,17331,2017,0,another_bug
+s-3202167r,VW Polo VI,economy,petrol,3.18,2011,57556,2020,0,another_bug
+Q44812273k,Smart Coupe,economy,petrol,3.82,2016,33060,2019,0,engine_fuel
+D-4419208m,Hyundai Solaris,economy,petrol,5.12,2013,22943,2020,0,another_bug
+H19744686I,Smart ForTwo,economy,petrol,3.7,2015,14873,2017,0,break_bug
+i-2218402e,Smart ForFour,economy,petrol,4.0,2014,474,2014,0,engine_fuel
+R-2786065j,Kia Sportage,standart,petrol,5.24,2015,21481,2022,1,engine_fuel
+b96735434s,Kia Rio X-line,economy,petrol,2.24,2011,50966,2014,1,another_bug
+N22078553S,VW Tiguan,economy,petrol,2.18,2016,36901,2021,0,wheel_shake
+o99399422f,Kia Rio X-line,economy,petrol,4.1,2015,9456,2016,0,engine_ignition
+T16357316Z,Renault Kaptur,standart,petrol,3.26,2015,12901,2017,0,break_bug
+R-1783904q,Kia Rio,economy,petrol,5.52,2012,40162,2019,0,electro_bug
+x-2393603b,Kia Rio,economy,petrol,4.74,2013,21422,2020,1,engine_fuel
+y15050434X,Smart ForTwo,economy,petrol,4.36,2014,368,2015,1,engine_overheat
+I-1461207l,Mercedes-Benz GLC,business,petrol,4.38,2012,36480,2022,0,another_bug
+r13549873b,Audi A4,premium,petrol,4.42,2017,61807,2020,0,engine_ignition
+F-8936113w,Smart Coupe,economy,petrol,5.76,2013,19263,2021,2,break_bug
+q85246562L,VW Polo VI,economy,petrol,3.76,2013,14049,2020,1,engine_ignition
+k-2290356E,Kia Rio X,economy,petrol,4.74,2011,51205,2018,0,engine_overheat
+K15030303M,Smart Coupe,economy,petrol,4.68,2017,56538,2015,0,another_bug
+A10006110k,MINI CooperSE,business,electro,4.04,2013,18401,2019,1,electro_bug
+B-5439360A,Smart ForTwo,economy,petrol,4.2,2015,19350,2016,0,break_bug
+S36898675K,Smart Coupe,economy,petrol,1.7,2015,25651,2021,0,wheel_shake
+N19017627L,Renault Sandero,standart,petrol,3.64,2015,18299,2017,0,engine_fuel
+d-4850332g,Hyundai Solaris,economy,petrol,5.38,2012,34911,2018,3,engine_check
+k22130724d,Nissan Qashqai,standart,petrol,4.72,2012,28988,2019,0,engine_overheat
+V-2114570s,Kia Rio X-line,economy,petrol,4.94,2015,12427,2017,0,electro_bug
+Q35935102P,Kia Rio X-line,economy,petrol,3.6,2015,22076,2016,1,electro_bug
+p21700418u,VW Polo,economy,petrol,2.9,2012,39011,2016,0,wheel_shake
+m12767571x,VW Tiguan,economy,petrol,4.02,2016,34371,2022,0,engine_check
+N16168690I,Smart Coupe,economy,petrol,3.74,2017,51472,2020,0,wheel_shake
+I16482583l,Kia Rio X,economy,petrol,4.42,2011,48633,2015,0,engine_ignition
+d44002322y,Kia Rio,economy,petrol,3.68,2015,19267,2018,0,engine_fuel
+X-1755442Z,Kia Rio X-line,economy,petrol,4.64,2011,52580,2017,0,engine_fuel
+Z-9863105H,Nissan Qashqai,standart,petrol,4.4,2014,3672,2019,0,electro_bug
+S-8796394Z,Nissan Qashqai,standart,petrol,5.16,2014,2709,2014,0,electro_bug
+g-6754650a,Audi A4,premium,petrol,3.5,2013,17155,2020,0,engine_ignition
+x-5170115g,VW Polo,economy,petrol,4.74,2012,40595,2020,0,break_bug
+c-1535376n,Smart Coupe,economy,petrol,4.06,2013,23274,2016,0,engine_check
+U18231357A,Hyundai Solaris,economy,petrol,2.04,2013,19617,2015,0,another_bug
+D13854111A,Smart Coupe,economy,petrol,4.82,2014,9052,2022,1,engine_overheat
+A-1948317P,VW Polo VI,economy,petrol,5.94,2011,40456,2016,0,wheel_shake
+m-1345724Q,Smart Coupe,economy,petrol,3.2,2017,51697,2022,2,gear_stick
+d-2277082I,Kia Rio,economy,petrol,4.22,2015,19289,2020,0,another_bug
+l-2099165D,Renault Sandero,standart,petrol,5.26,2015,14779,2022,0,gear_stick
+t-7717404L,VW Polo VI,economy,petrol,4.38,2015,13372,2019,0,wheel_shake
+k-8161578F,Kia Rio,economy,petrol,4.16,2014,7041,2019,0,gear_stick
+G-9489810z,Skoda Rapid,economy,petrol,5.1,2016,31479,2015,0,engine_overheat
+n14379547e,Kia Rio,economy,petrol,2.44,2015,11958,2014,0,wheel_shake
+s-5805926f,Mercedes-Benz E200,business,petrol,5.14,2015,8250,2020,0,engine_ignition
+h-2123113T,Renault Sandero,standart,petrol,4.84,2013,18027,2018,1,engine_ignition
+i-2008720T,VW Polo,economy,petrol,4.64,2013,22333,2017,0,electro_bug
+B10869368Z,Renault Sandero,standart,petrol,4.66,2014,2845,2018,1,break_bug
+W-6569869r,VW Polo,economy,petrol,4.94,2014,4764,2021,0,engine_ignition
+X-6435694U,Renault Sandero,standart,petrol,4.84,2013,17498,2019,2,electro_bug
+P-7291812H,Nissan Qashqai,standart,petrol,4.02,2013,18229,2017,0,electro_bug
+r-1401873W,BMW 320i,business,petrol,5.24,2015,16955,2016,0,engine_check
+a12898936W,Skoda Rapid,economy,petrol,4.78,2017,54905,2015,0,break_bug
+x-1960984O,Kia Rio X-line,economy,petrol,5.86,2014,2437,2018,1,engine_check
+f-7568490E,VW Polo,economy,petrol,5.0,2015,18020,2019,0,electro_bug
+X-1477388Y,Volkswagen ID.4 ,premium,electro,4.32,2016,33786,2018,0,break_bug
+W92773502u,Kia Rio X-line,economy,petrol,4.0,2015,26054,2018,1,engine_fuel
+c29288600u,Renault Kaptur,standart,petrol,3.04,2014,8058,2022,0,engine_ignition
+B14246581d,Smart ForTwo,economy,petrol,4.34,2017,50524,2017,0,electro_bug
+x15509192r,Kia Rio,economy,petrol,3.76,2013,16729,2016,1,engine_ignition
+F12569616c,Kia Sportage,standart,petrol,3.0,2011,54456,2018,0,engine_check
+Z-6884094Z,Nissan Qashqai,standart,petrol,4.18,2012,33451,2018,1,engine_overheat
+J-1175702F,Mini Cooper,business,petrol,4.6,2013,17563,2017,0,gear_stick
+b-2276278z,Kia Rio X,economy,petrol,4.4,2015,11434,2020,0,wheel_shake
+O62343854z,Nissan Qashqai,standart,petrol,3.98,2012,34477,2019,0,engine_fuel
+o22142070h,Smart ForFour,economy,petrol,3.7,2013,21780,2019,0,engine_ignition
+f50976844i,BMW 320i,business,petrol,2.7,2014,1289,2017,2,gear_stick
+T-2058806c,Smart ForTwo,economy,petrol,5.04,2013,18250,2018,0,gear_stick
+X89955658R,VW Polo,economy,petrol,4.04,2011,55564,2016,1,engine_ignition
+w82461309V,Kia Rio,economy,petrol,3.68,2013,24041,2020,0,engine_ignition
+f11160159m,Kia Sportage,standart,petrol,4.14,2015,22258,2022,0,engine_ignition
+I82121611W,Smart ForFour,economy,petrol,3.3,2017,49759,2017,2,engine_check
+u-1796640I,Kia Rio X,economy,petrol,4.74,2015,23119,2018,0,engine_ignition
+q-2477368A,Smart Coupe,economy,petrol,4.48,2015,18858,2018,0,break_bug
+r-3444934G,Renault Kaptur,standart,petrol,5.7,2015,13793,2015,0,electro_bug
+p15946588y,Smart ForTwo,economy,petrol,3.3,2017,51470,2017,1,engine_overheat
+D-2258048P,Kia Sportage,standart,petrol,4.92,2011,50807,2018,2,engine_overheat
+W-1803580w,Renault Sandero,standart,petrol,4.62,2013,22090,2014,0,engine_overheat
+d55405871O,VW Tiguan,economy,petrol,4.36,2013,18526,2017,1,engine_overheat
+D19083644a,Smart ForTwo,economy,petrol,2.3,2017,54591,2019,1,engine_fuel
+g10190493K,Kia Sportage,standart,petrol,3.34,2014,2018,2017,0,engine_fuel
+Y46568646b,Hyundai Solaris,economy,petrol,4.26,2012,35671,2019,4,electro_bug
+c-3507574t,Smart ForTwo,economy,petrol,4.7,2014,441,2018,0,engine_ignition
+p15009563g,Hyundai Solaris,economy,petrol,4.58,2013,17851,2022,0,gear_stick
+T18127969L,Fiat 500,business,petrol,3.64,2014,3335,2019,0,engine_ignition
+R13692186I,VW Polo,economy,petrol,1.78,2014,269,2019,0,engine_overheat
+m18230401Q,Kia Rio X,economy,petrol,5.24,2015,18525,2020,0,another_bug
+V-2516819u,Nissan Qashqai,standart,petrol,5.42,2012,43131,2020,0,another_bug
+W-1025515i,Kia Rio X,economy,petrol,4.7,2015,12941,2018,0,break_bug
+G-1955113X,Kia Rio X,economy,petrol,6.28,2011,52060,2018,1,break_bug
+P-4637365d,Kia Sportage,standart,petrol,3.6,2015,13582,2018,1,gear_stick
+R15602498g,Audi A3,premium,petrol,4.72,2013,18282,2020,0,engine_ignition
+l-2384710S,Skoda Rapid,economy,petrol,6.18,2014,5217,2016,0,engine_ignition
+I-2297900L,Smart Coupe,economy,petrol,4.78,2015,17981,2019,0,engine_overheat
+V-2476017z,Kia Rio X-line,economy,petrol,4.82,2015,15001,2017,0,engine_overheat
+n12991975I,VW Tiguan,economy,petrol,2.4,2017,51225,2019,0,engine_ignition
+i-1244809a,Nissan Qashqai,standart,petrol,4.26,2012,36734,2016,0,break_bug
+R15345151D,Kia Rio X-line,economy,petrol,2.6,2015,10302,2017,0,another_bug
+E-2099631y,VW Tiguan,economy,petrol,5.38,2016,32840,2021,0,electro_bug
+V-7160767j,VW Tiguan,economy,petrol,4.46,2014,2739,2020,0,wheel_shake
+W-5028854f,Smart Coupe,economy,petrol,7.54,2017,56256,2021,2,another_bug
+b-8219481B,BMW 320i,business,petrol,4.8,2017,61530,2017,1,gear_stick
+k-1449484K,VW Tiguan,economy,petrol,4.56,2014,2433,2018,1,wheel_shake
+O19969795s,VW Polo,economy,petrol,3.7,2011,59348,2020,0,engine_check
+j10709986k,Kia Rio X,economy,petrol,3.36,2015,14963,2017,1,electro_bug
+R-6026564t,Smart ForFour,economy,petrol,4.44,2015,14891,2021,3,engine_check
+d-9048783B,Kia Rio,economy,petrol,5.6,2013,20343,2016,0,engine_check
+u10882919q,Hyundai Solaris,economy,petrol,3.32,2011,47180,2020,0,wheel_shake
+w66788670U,VW Tiguan,economy,petrol,3.9,2016,31020,2018,1,engine_fuel
+D11136638F,Hyundai Solaris,economy,petrol,4.02,2015,10437,2020,1,engine_fuel
+k59189871y,Skoda Rapid,economy,petrol,3.34,2017,55209,2021,0,engine_check
+l34045606l,Renault Sandero,standart,petrol,2.24,2012,37473,2018,0,break_bug
+H90027844W,Renault Sandero,standart,petrol,4.68,2014,1641,2017,0,engine_ignition
+M-1710962U,Smart ForFour,economy,petrol,2.98,2014,4806,2016,0,engine_ignition
+n14220851E,Smart Coupe,economy,petrol,3.6,2014,244,2019,0,electro_bug
+z19580827P,VW Polo VI,economy,petrol,4.12,2015,13344,2022,0,wheel_shake
+j21345832V,Kia Rio X,economy,petrol,3.46,2011,51923,2016,0,engine_fuel
+D-1005804X,Kia Rio,economy,petrol,7.38,2013,27867,2020,1,another_bug
+m-1018077D,Kia Rio,economy,petrol,3.56,2015,9995,2016,0,another_bug
+d11280657b,Skoda Rapid,economy,petrol,4.32,2016,35973,2017,0,engine_ignition
+Z-1063907D,Kia Rio,economy,petrol,5.64,2015,19263,2018,0,engine_overheat
+t86611636Y,Skoda Rapid,economy,petrol,3.18,2013,19892,2022,2,engine_ignition
+p21243837w,Kia Rio X,economy,petrol,3.66,2011,48207,2017,1,another_bug
+U-1784969q,VW Polo VI,economy,petrol,5.06,2011,49926,2022,0,engine_check
+X97476655k,Kia Rio X-line,economy,petrol,4.86,2013,13979,2018,0,engine_overheat
+l21717470b,Fiat 500,business,petrol,3.68,2014,1558,2019,0,engine_check
+g14585566n,Kia Sportage,standart,petrol,3.86,2014,2088,2017,0,engine_ignition
+t10523503Z,Nissan Qashqai,standart,petrol,4.02,2013,17956,2019,0,break_bug
+E50527216q,Skoda Rapid,economy,petrol,4.86,2017,54763,2019,0,electro_bug
+G-8847776f,VW Polo VI,economy,petrol,5.42,2012,37184,2018,0,engine_fuel
+b-1614764H,VW Tiguan,economy,petrol,4.5,2016,30098,2019,0,gear_stick
+O-2124363U,VW Polo,economy,petrol,5.22,2012,37064,2019,0,electro_bug
+e17623598r,Renault Sandero,standart,petrol,2.7,2011,62118,2018,0,another_bug
+x15717282J,Audi A3,premium,petrol,4.54,2015,16880,2019,0,engine_check
+z14373118M,VW Tiguan,economy,petrol,4.12,2013,20739,2020,0,gear_stick
+n21262747Q,Renault Sandero,standart,petrol,4.94,2011,51816,2019,0,another_bug
+y28698655H,Renault Sandero,standart,petrol,4.06,2012,39124,2022,0,engine_ignition
+E-1303477p,Kia Rio X-line,economy,petrol,6.26,2013,16571,2019,2,gear_stick
+F19886345c,Renault Sandero,standart,petrol,2.66,2015,14146,2015,0,break_bug
+x-4207108J,Renault Sandero,standart,petrol,5.68,2015,21744,2020,0,engine_ignition
+w27336623p,Nissan Qashqai,standart,petrol,3.82,2015,16491,2018,0,engine_overheat
+Z-7482634O,Kia Rio,economy,petrol,3.8,2013,27440,2019,0,gear_stick
+k17331012q,VW Tiguan,economy,petrol,3.14,2013,17038,2019,0,break_bug
+J-1696019A,VW Polo VI,economy,petrol,5.34,2011,50000,2016,0,another_bug
+h19755757A,Smart Coupe,economy,petrol,2.56,2017,49987,2016,0,wheel_shake
+i-7788633L,Kia Rio,economy,petrol,4.18,2012,37655,2016,0,break_bug
+K20270219B,Mercedes-Benz GLC,business,petrol,4.04,2015,23150,2017,1,engine_check
+F-4639831H,Kia Sportage,standart,petrol,5.28,2012,37148,2019,0,engine_check
+w-5235414H,Smart ForTwo,economy,petrol,3.92,2016,25924,2019,0,wheel_shake
+b62139682o,Renault Kaptur,standart,petrol,3.4,2015,18162,2017,0,electro_bug
+W-1818049g,Audi Q3,premium,petrol,4.8,2014,298,2020,0,break_bug
+H35615673q,Smart ForTwo,economy,petrol,3.56,2017,49933,2019,1,engine_check
+u72391434B,Kia Rio X,economy,petrol,4.08,2015,13268,2016,0,engine_check
+L11523062u,Hyundai Solaris,economy,petrol,5.08,2011,50073,2022,1,another_bug
+X-4450516c,Kia Rio X-line,economy,petrol,3.2,2012,39339,2019,0,wheel_shake
+H-2235665D,Smart ForTwo,economy,petrol,4.42,2017,54823,2019,2,gear_stick
+z-3185455W,Kia Rio X,economy,petrol,3.76,2015,13379,2018,0,gear_stick
+A88335117N,Kia Sportage,standart,petrol,3.1,2011,53029,2016,1,gear_stick
+v13769349O,Smart ForFour,economy,petrol,4.22,2013,17170,2019,0,engine_ignition
+K13081340q,VW Polo,economy,petrol,3.32,2012,37545,2015,1,engine_ignition
+J-1842176B,Nissan Qashqai,standart,petrol,5.92,2012,32868,2021,2,another_bug
+Z-1191757z,Smart ForFour,economy,petrol,5.1,2017,49678,2014,0,engine_overheat
+F-2239333A,VW Polo,economy,petrol,5.64,2011,56669,2020,1,wheel_shake
+J21826778q,Nissan Qashqai,standart,petrol,4.08,2015,20811,2017,0,break_bug
+b91048066P,Kia Rio X-line,economy,petrol,3.88,2013,18152,2014,0,engine_check
+L15663387s,Mercedes-Benz GLC,business,petrol,3.84,2015,19115,2017,0,electro_bug
+Z63898400c,Kia Rio X-line,economy,petrol,3.22,2013,14951,2015,0,another_bug
+y-1186114M,Kia Sportage,standart,petrol,6.38,2013,27085,2019,0,gear_stick
+J13858378E,Smart ForTwo,economy,petrol,1.94,2017,46098,2017,3,electro_bug
+B-2080522o,Renault Sandero,standart,petrol,4.34,2011,51008,2022,0,engine_fuel
+v19902021b,Nissan Qashqai,standart,petrol,3.9,2015,13158,2021,0,engine_check
+Z13234820h,Kia Sportage,standart,petrol,4.5,2014,121,2020,0,another_bug
+w-1852262r,VW Polo VI,economy,petrol,4.92,2015,17686,2016,1,engine_fuel
+C16587342w,Skoda Rapid,economy,petrol,4.2,2016,35699,2018,0,gear_stick
+W-4593687a,VW Tiguan,economy,petrol,4.66,2017,45155,2018,1,wheel_shake
+x-7564629E,Skoda Rapid,economy,petrol,4.58,2013,22382,2016,0,engine_fuel
+m-6465046O,Kia Sportage,standart,petrol,4.84,2011,52106,2015,0,gear_stick
+W-5118262z,Kia Rio X-line,economy,petrol,4.7,2014,3329,2019,1,wheel_shake
+m20513225u,Smart ForFour,economy,petrol,4.54,2015,17620,2018,0,wheel_shake
+k-2025928G,VW Polo,economy,petrol,5.68,2014,1142,2020,1,break_bug
+c12561416u,Kia Rio X-line,economy,petrol,3.58,2011,55995,2016,0,engine_overheat
+k-1149285F,Renault Sandero,standart,petrol,5.5,2013,11129,2020,0,gear_stick
+q22216915l,Kia Rio X,economy,petrol,4.5,2012,36059,2016,0,engine_ignition
+W64809322G,Hyundai Solaris,economy,petrol,4.46,2013,16788,2019,1,electro_bug
+A-1419444t,Smart Coupe,economy,petrol,4.78,2017,46976,2022,0,engine_overheat
+C-3738665E,Smart Coupe,economy,petrol,4.06,2015,16648,2021,0,engine_overheat
+d-1044942g,VW Tiguan,economy,petrol,5.3,2016,37295,2020,0,wheel_shake
+e43134769r,Hyundai Solaris,economy,petrol,3.72,2011,47528,2016,0,another_bug
+C-4869070H,Kia Rio X,economy,petrol,5.38,2014,1151,2017,0,gear_stick
+Y19771120P,Renault Sandero,standart,petrol,4.88,2015,12383,2015,2,electro_bug
+D13179032F,Renault Kaptur,standart,petrol,3.08,2014,1138,2017,0,engine_ignition
+t-1019397S,VW Polo VI,economy,petrol,5.36,2013,16537,2015,0,electro_bug
+f96525296M,Kia Rio X,economy,petrol,2.56,2014,247,2016,1,engine_check
+D-1282919w,Kia Rio X,economy,petrol,5.06,2011,54247,2017,0,engine_ignition
+m14509987y,VW Tiguan,economy,petrol,4.04,2015,12218,2020,0,wheel_shake
+v22537157Z,VW Polo VI,economy,petrol,1.3,2013,17357,2017,0,engine_check
+X-1932767m,Skoda Rapid,economy,petrol,4.62,2014,1315,2016,0,engine_check
+C30946780e,Renault Kaptur,standart,petrol,4.16,2014,576,2020,0,engine_check
+J23989544Q,Smart ForFour,economy,petrol,3.22,2016,32818,2020,0,engine_overheat
+E-6604655S,Hyundai Solaris,economy,petrol,4.12,2015,14195,2016,0,engine_fuel
+v-1396457T,VW Polo VI,economy,petrol,5.24,2014,6263,2018,0,engine_overheat
+g23825592a,Kia Rio X-line,economy,petrol,4.0,2012,26390,2018,0,engine_overheat
+M33400192v,Hyundai Solaris,economy,petrol,4.54,2011,56108,2017,1,electro_bug
+j-1149248G,VW Polo,economy,petrol,6.58,2015,11067,2019,3,break_bug
+m-7641486L,Hyundai Solaris,economy,petrol,3.76,2013,21018,2017,0,electro_bug
+k-2617949q,Kia Rio X,economy,petrol,4.02,2015,13143,2020,0,another_bug
+H11138703r,Kia Sportage,standart,petrol,4.28,2014,3522,2016,0,engine_ignition
+D-1120599z,Renault Kaptur,standart,petrol,4.36,2015,20273,2015,0,gear_stick
+M14617395R,VW Polo VI,economy,petrol,4.24,2015,16141,2016,0,engine_overheat
+e14303116X,Smart ForFour,economy,petrol,3.82,2016,36422,2016,0,engine_ignition
+v-1732121a,Renault Kaptur,standart,petrol,4.46,2011,49049,2014,0,another_bug
+U-1899529o,Smart ForFour,economy,petrol,5.9,2017,55155,2021,1,break_bug
+s-9544249B,VW Polo VI,economy,petrol,5.78,2014,4595,2015,0,engine_check
+W11720100q,Kia Rio,economy,petrol,3.76,2012,37275,2016,1,gear_stick
+m-4151789g,Renault Sandero,standart,petrol,4.96,2011,55067,2019,0,engine_overheat
+F22385156C,Mercedes-Benz GLC,business,petrol,3.56,2012,32868,2021,3,electro_bug
+X-1996575K,Tesla Model 3,premium,electro,2.66,2015,16957,2021,1,engine_check
+g11183874P,VW Polo,economy,petrol,4.22,2012,38464,2015,0,another_bug
+b-9559718w,Smart ForTwo,economy,petrol,5.56,2017,56158,2021,0,wheel_shake
+K21118839A,Skoda Rapid,economy,petrol,3.42,2015,20888,2016,0,another_bug
+X-2844518s,Smart Coupe,economy,petrol,4.86,2017,48664,2021,0,engine_ignition
+s-1939664q,Kia Rio X-line,economy,petrol,5.92,2014,2959,2022,0,wheel_shake
+a17802885d,Hyundai Solaris,economy,petrol,4.66,2012,30964,2017,2,wheel_shake
+m-4071688q,Smart ForTwo,economy,petrol,4.58,2013,20735,2021,0,engine_check
+q-3330901k,Hyundai Solaris,economy,petrol,4.18,2011,54543,2020,0,break_bug
+Y-1705068z,Smart Coupe,economy,petrol,5.14,2016,34939,2017,0,engine_overheat
+W-6836811n,Smart ForTwo,economy,petrol,5.14,2014,7509,2016,0,gear_stick
+u58399196m,Kia Rio X-line,economy,petrol,5.08,2012,30907,2016,0,engine_ignition
+o22313269f,VW Tiguan,economy,petrol,3.6,2015,23937,2018,0,wheel_shake
+C10919754f,Skoda Rapid,economy,petrol,4.52,2014,1908,2017,0,engine_fuel
+m-4019099G,Hyundai Solaris,economy,petrol,5.3,2015,14112,2018,1,electro_bug
+a-2102067D,Audi Q3,premium,petrol,4.3,2015,17964,2020,0,engine_overheat
+z30748083x,VW Polo VI,economy,petrol,1.54,2012,44228,2016,0,break_bug
+w-1250035f,Kia Rio X-line,economy,petrol,5.3,2015,16948,2017,1,wheel_shake
+M11365581B,Audi A3,premium,petrol,3.58,2014,1602,2021,0,engine_ignition
+o16971312t,Kia Sportage,standart,petrol,3.64,2015,27739,2016,0,engine_overheat
+g95214033T,Smart ForTwo,economy,petrol,1.68,2013,21659,2016,1,electro_bug
+r-1916191b,Smart Coupe,economy,petrol,5.04,2015,13505,2020,0,electro_bug
+u-6493441a,Kia Rio X,economy,petrol,5.16,2013,23002,2015,0,engine_fuel
+y-5107905N,Smart Coupe,economy,petrol,4.54,2016,27385,2019,1,engine_check
+u-1768136U,Nissan Qashqai,standart,petrol,4.48,2013,19363,2018,0,engine_fuel
+d-4857181C,Hyundai Solaris,economy,petrol,6.26,2015,19455,2018,2,another_bug
+H-8838631H,Skoda Rapid,economy,petrol,4.78,2016,26034,2015,0,break_bug
+m-1682841q,Renault Sandero,standart,petrol,4.82,2015,13656,2019,0,engine_check
+T-4816158p,Kia Rio X-line,economy,petrol,5.02,2014,14,2016,2,engine_check
+q-1423576n,Smart ForTwo,economy,petrol,4.84,2014,9006,2016,0,engine_fuel
+m87128985N,Kia Rio X,economy,petrol,2.14,2011,58369,2020,0,wheel_shake
+C14774858G,Hyundai Solaris,economy,petrol,3.86,2014,3342,2015,0,engine_check
+P-1005484v,Renault Sandero,standart,petrol,5.06,2014,349,2021,0,another_bug
+y-8703326K,Smart ForFour,economy,petrol,4.4,2013,22930,2021,1,engine_ignition
+B17481721b,Kia Rio X-line,economy,petrol,3.84,2015,20617,2017,0,electro_bug
+T88671161B,Smart ForFour,economy,petrol,2.98,2016,34107,2017,0,electro_bug
+J15847830x,VW Polo VI,economy,petrol,2.86,2012,35228,2019,0,gear_stick
+k-1376775g,Renault Kaptur,standart,petrol,5.32,2013,14336,2021,0,engine_fuel
+C16732892K,Hyundai Solaris,economy,petrol,1.32,2011,45714,2020,0,engine_ignition
+T-1477215f,Audi Q3,premium,petrol,5.56,2013,13207,2018,0,engine_overheat
+j-8173232C,Nissan Qashqai,standart,petrol,5.48,2014,1833,2016,0,another_bug
+K-2192188L,Audi Q3,premium,petrol,5.22,2014,3929,2018,0,engine_overheat
+T10580270d,VW Polo VI,economy,petrol,4.32,2013,14867,2022,0,engine_fuel
+s14896809O,Renault Sandero,standart,petrol,3.7,2014,1442,2015,0,engine_fuel
+f-6408484O,VW Tiguan,economy,petrol,4.0,2014,543,2020,1,engine_check
+j17991043Y,VW Tiguan,economy,petrol,4.26,2017,55774,2019,0,break_bug
+z16096597O,VW Polo VI,economy,petrol,3.74,2014,818,2014,0,engine_overheat
+F-5246713K,Skoda Rapid,economy,petrol,5.22,2014,11511,2018,0,wheel_shake
+G-2140269x,Renault Kaptur,standart,petrol,6.4,2014,4123,2018,0,engine_ignition
+m27478087C,Skoda Rapid,economy,petrol,2.64,2016,36654,2022,0,electro_bug
+F-1802311o,Smart Coupe,economy,petrol,4.84,2016,36611,2018,0,break_bug
+B11789591g,Kia Rio X,economy,petrol,5.3,2015,23299,2019,0,gear_stick
+F-7036594J,Hyundai Solaris,economy,petrol,4.26,2011,56370,2019,0,another_bug
+p-3964014X,Renault Sandero,standart,petrol,5.18,2011,62912,2015,0,gear_stick
+R74303122u,Nissan Qashqai,standart,petrol,3.18,2011,54601,2019,0,gear_stick
+q-3570515M,VW Polo VI,economy,petrol,4.94,2014,3999,2018,0,engine_check
+k11515896Y,Kia Rio X-line,economy,petrol,3.16,2012,30845,2019,0,engine_overheat
+Y17641932g,Kia Rio X-line,economy,petrol,3.32,2012,36188,2019,0,break_bug
+A-6398432h,Renault Kaptur,standart,petrol,5.16,2012,36371,2018,0,engine_check
+W62411156D,Kia Sportage,standart,petrol,4.64,2012,41301,2016,2,engine_fuel
+b19930421V,Kia Sportage,standart,petrol,4.64,2012,35968,2017,1,engine_overheat
+E-1500826T,Smart ForFour,economy,petrol,4.96,2013,15261,2017,1,break_bug
+z19916105L,Smart ForFour,economy,petrol,2.44,2017,53465,2017,3,engine_ignition
+G-1806976v,Smart ForFour,economy,petrol,5.5,2017,51045,2016,1,gear_stick
+p-4652600Q,Kia Rio X-line,economy,petrol,4.64,2012,33546,2021,0,break_bug
+r-2156146N,VW Polo VI,economy,petrol,5.54,2013,18162,2015,0,engine_ignition
+m-1420577L,Smart Coupe,economy,petrol,3.82,2014,4353,2020,0,break_bug
+Z-2082517z,Hyundai Solaris,economy,petrol,4.62,2011,51964,2017,0,break_bug
+V-9410203v,Kia Rio X,economy,petrol,6.56,2011,57632,2015,2,engine_overheat
+B17164942e,Smart Coupe,economy,petrol,2.72,2016,38600,2020,2,engine_ignition
+g82854038T,Smart ForFour,economy,petrol,3.62,2017,55865,2019,0,engine_check
+P-7058440J,Renault Sandero,standart,petrol,3.72,2015,18834,2018,0,electro_bug
+C-9730798X,Renault Kaptur,standart,petrol,4.46,2015,15635,2017,0,engine_overheat
+L21342169E,Renault Kaptur,standart,petrol,4.2,2015,13017,2017,0,engine_fuel
+p-1412843B,Renault Sandero,standart,petrol,5.44,2014,3554,2016,1,engine_check
+R-1114277Z,Mercedes-Benz GLC,business,petrol,4.06,2015,17326,2017,0,engine_fuel
+h15419751h,Kia Rio,economy,petrol,4.14,2011,46173,2015,1,wheel_shake
+c15679154x,Renault Sandero,standart,petrol,4.24,2015,13513,2019,0,engine_fuel
+I17744563L,Kia Rio,economy,petrol,3.94,2015,11221,2017,0,wheel_shake
+s-1083109w,Kia Rio X-line,economy,petrol,5.16,2012,38536,2022,0,wheel_shake
+U17543805T,VW Polo,economy,petrol,3.62,2013,17372,2018,0,engine_fuel
+Z-2296094f,Smart Coupe,economy,petrol,3.86,2017,48430,2020,0,gear_stick
+u79195191i,Nissan Qashqai,standart,petrol,3.4,2015,11719,2018,0,engine_fuel
+P12949430H,Kia Sportage,standart,petrol,4.3,2013,13263,2014,0,engine_ignition
+I-2343816C,VW Tiguan,economy,petrol,4.84,2014,3569,2020,1,engine_check
+H-1427574Q,Kia Rio X,economy,petrol,4.52,2015,3985,2017,0,another_bug
+H33428895j,Smart Coupe,economy,petrol,2.1,2014,1248,2017,0,engine_check
+A82209388O,Hyundai Solaris,economy,petrol,2.58,2015,16213,2019,0,engine_overheat
+I-1005761y,Smart ForFour,economy,petrol,4.6,2017,49466,2017,0,wheel_shake
+v21743019H,Skoda Rapid,economy,petrol,4.58,2014,1696,2014,1,engine_check
+t-5124882z,VW Polo VI,economy,petrol,5.58,2013,18672,2016,2,electro_bug
+h92534427e,VW Polo,economy,petrol,3.28,2015,17918,2020,0,engine_check
+h-1146195p,VW Polo,economy,petrol,3.46,2015,4021,2015,0,wheel_shake
+T96855910i,Smart ForFour,economy,petrol,4.06,2017,50900,2018,0,break_bug
+z-4509546a,Renault Kaptur,standart,petrol,4.68,2015,22906,2016,0,engine_fuel
+I50868825a,Skoda Rapid,economy,petrol,4.56,2016,31928,2017,0,engine_overheat
+g-1348277r,Renault Sandero,standart,petrol,6.02,2012,41406,2018,0,another_bug
+j-1633195r,VW Tiguan,economy,petrol,4.64,2013,19419,2019,0,engine_ignition
+r-3946836F,Audi A4,premium,petrol,4.74,2013,12588,2020,0,engine_fuel
+n-1927021w,VW Tiguan,economy,petrol,6.3,2016,37154,2021,0,break_bug
+Y19178128J,Kia Rio,economy,petrol,3.2,2013,14050,2021,0,break_bug
+G18509743z,Kia Rio,economy,petrol,3.14,2014,2814,2022,0,wheel_shake
+o10534739D,Nissan Qashqai,standart,petrol,3.38,2015,20877,2018,0,gear_stick
+v13436930c,Nissan Qashqai,standart,petrol,4.02,2014,226,2015,0,engine_check
+n-1083263z,Smart ForFour,economy,petrol,4.48,2015,18685,2020,0,engine_check
+s12954848R,Smart Coupe,economy,petrol,4.76,2014,697,2015,1,wheel_shake
+z-9670820I,VW Polo VI,economy,petrol,4.8,2015,15048,2020,0,engine_overheat
+J-1234758M,Kia Rio X,economy,petrol,4.66,2013,20757,2014,0,electro_bug
+c51836406e,Renault Sandero,standart,petrol,4.98,2011,56671,2022,0,break_bug
+j-2443705k,VW Polo,economy,petrol,5.56,2014,2140,2020,2,wheel_shake
+m18732711p,Smart ForTwo,economy,petrol,3.48,2013,22254,2018,0,engine_check
+C19096857X,Kia Rio,economy,petrol,4.08,2015,20907,2016,0,engine_overheat
+S-4758601E,Kia Rio,economy,petrol,4.98,2012,38307,2016,1,engine_overheat
+G45276505V,BMW 320i,business,petrol,3.78,2013,14885,2019,0,another_bug
+b-1174160P,Kia Rio X-line,economy,petrol,4.7,2015,17427,2018,0,break_bug
+Z-1417374K,Nissan Qashqai,standart,petrol,4.8,2014,1821,2018,0,break_bug
+N-2014625k,Smart Coupe,economy,petrol,4.46,2015,10205,2016,2,engine_check
+d20729448Z,Smart ForTwo,economy,petrol,4.04,2015,17296,2015,0,electro_bug
+R-1785218p,VW Polo,economy,petrol,4.2,2013,19319,2018,1,wheel_shake
+U17472583r,Renault Kaptur,standart,petrol,4.66,2014,151,2018,0,engine_overheat
+t-4724238p,VW Tiguan,economy,petrol,5.46,2017,62366,2019,0,another_bug
+R-7610630P,Kia Sportage,standart,petrol,4.82,2011,51627,2014,1,engine_ignition
+R-2014591P,Kia Rio X-line,economy,petrol,5.54,2013,19254,2016,0,engine_fuel
+m-4630662O,Smart Coupe,economy,petrol,4.18,2016,32059,2021,0,break_bug
+J57817966V,Skoda Rapid,economy,petrol,3.44,2013,16527,2018,1,engine_overheat
+g-1493372Z,Kia Rio,economy,petrol,5.98,2012,40883,2016,2,engine_check
+Y-2060281L,Nissan Qashqai,standart,petrol,4.16,2015,8872,2022,1,electro_bug
+m14536727w,Hyundai Solaris,economy,petrol,3.88,2015,10163,2020,0,engine_fuel
+v-1507951V,Smart Coupe,economy,petrol,4.64,2017,55723,2016,1,electro_bug
+V-7952131k,Smart Coupe,economy,petrol,5.5,2014,4111,2018,1,wheel_shake
+W-1678713x,Skoda Rapid,economy,petrol,4.76,2017,54343,2021,0,engine_fuel
+r11577214J,Kia Rio,economy,petrol,1.92,2013,22271,2016,3,electro_bug
+N19365702N,Hyundai Solaris,economy,petrol,2.84,2015,8836,2020,1,break_bug
+b48823357D,Mini Cooper,business,petrol,2.94,2015,14533,2021,0,gear_stick
+J40704831U,VW Tiguan,economy,petrol,2.54,2013,15857,2018,0,engine_ignition
+Q-3922801n,Renault Sandero,standart,petrol,4.76,2014,371,2020,0,engine_ignition
+V17181343V,Renault Sandero,standart,petrol,1.98,2011,48662,2018,0,gear_stick
+E-1024190G,Smart ForTwo,economy,petrol,4.46,2016,29023,2017,0,engine_fuel
+V-1631985s,VW Tiguan,economy,petrol,4.68,2014,259,2021,0,wheel_shake
+C46134905H,Kia Rio X,economy,petrol,4.44,2014,124,2020,1,break_bug
+B-1016146M,Skoda Rapid,economy,petrol,4.72,2016,26108,2017,3,wheel_shake
+h20594650f,VW Tiguan,economy,petrol,4.28,2014,3537,2020,0,engine_ignition
+P30930447E,VW Tiguan,economy,petrol,3.42,2017,51379,2019,0,break_bug
+g17214397Z,Smart ForFour,economy,petrol,3.3,2017,46842,2020,0,wheel_shake
+g-2107254S,Kia Sportage,standart,petrol,4.32,2014,388,2019,0,another_bug
+C-8943848u,Kia Sportage,standart,petrol,5.06,2014,2231,2017,0,break_bug
+C11390607c,Renault Kaptur,standart,petrol,3.76,2012,36413,2015,0,gear_stick
+O-1578498U,Hyundai Solaris,economy,petrol,4.12,2013,17857,2018,0,engine_check
+P-1115283u,Smart ForTwo,economy,petrol,4.66,2015,18988,2022,0,gear_stick
+C-1629424x,Fiat 500,business,petrol,4.78,2013,12576,2016,2,engine_fuel
+b-1618655E,Renault Sandero,standart,petrol,5.34,2011,54164,2016,1,engine_overheat
+w-1130659t,Smart Coupe,economy,petrol,4.5,2015,18381,2016,0,engine_overheat
+L63199035U,Kia Rio X,economy,petrol,2.88,2015,19810,2018,3,gear_stick
+E81348551i,VW Polo VI,economy,petrol,2.86,2014,2387,2019,0,engine_overheat
+m37337994Z,Kia Sportage,standart,petrol,4.46,2013,18258,2016,0,engine_check
+u-1667910g,Kia Rio,economy,petrol,4.42,2012,34716,2016,0,another_bug
+E20835455V,Volkswagen ID.4 ,premium,electro,4.02,2014,1553,2022,0,engine_overheat
+A53448961U,Volkswagen ID.4 ,premium,electro,3.5,2015,12117,2022,0,engine_fuel
+m-1066024W,Skoda Rapid,economy,petrol,5.18,2017,46031,2018,0,engine_check
+t-9579155A,Kia Rio X-line,economy,petrol,4.44,2015,22925,2019,0,another_bug
+B-1055600m,Renault Sandero,standart,petrol,3.84,2015,11526,2021,0,break_bug
+S-1908879N,Nissan Qashqai,standart,petrol,5.24,2011,52086,2014,0,engine_ignition
+f-1031754Z,Hyundai Solaris,economy,petrol,5.4,2012,46901,2021,0,engine_check
+K16129267D,Skoda Rapid,economy,petrol,4.24,2017,50478,2015,0,engine_overheat
+q50529719m,Skoda Rapid,economy,petrol,4.7,2014,2106,2016,0,gear_stick
+k-1459178Y,Tesla Model 3,premium,electro,6.44,2016,32785,2020,0,gear_stick
+x-1586521A,Nissan Qashqai,standart,petrol,5.18,2013,17336,2016,0,break_bug
+J43030743O,VW Polo,economy,petrol,3.64,2013,17026,2021,0,break_bug
+m-8700143J,Renault Kaptur,standart,petrol,5.44,2013,16854,2017,1,gear_stick
+l62331391V,Kia Sportage,standart,petrol,3.1,2011,49360,2017,0,electro_bug
+J-9977061N,Smart ForTwo,economy,petrol,4.86,2015,22172,2018,2,wheel_shake
+N15382167I,Smart ForFour,economy,petrol,2.22,2016,31353,2022,1,engine_ignition
+e-8327999v,Nissan Qashqai,standart,petrol,3.94,2011,54055,2019,0,engine_check
+A-1122233S,VW Tiguan,economy,petrol,6.08,2016,30366,2020,0,engine_ignition
+Z-2077566O,Nissan Qashqai,standart,petrol,5.3,2013,20675,2014,1,engine_ignition
+w-1532155v,Nissan Qashqai,standart,petrol,4.92,2014,7558,2019,1,electro_bug
+O-1538477T,Kia Sportage,standart,petrol,5.66,2011,52943,2021,0,another_bug
+s-1173431F,Kia Rio X-line,economy,petrol,5.5,2015,18175,2017,1,another_bug
+Z-6968712X,Nissan Qashqai,standart,petrol,4.48,2015,15633,2021,0,engine_check
+M10845226k,Smart Coupe,economy,petrol,4.42,2014,1109,2018,0,engine_fuel
+z-1648619H,Renault Kaptur,standart,petrol,5.86,2013,21369,2021,1,break_bug
+Z-1414283Q,Kia Rio,economy,petrol,4.32,2014,1747,2019,0,electro_bug
+M17174534H,Kia Rio X-line,economy,petrol,5.16,2015,26201,2017,2,wheel_shake
+s-1263111r,Nissan Qashqai,standart,petrol,5.84,2013,22536,2021,1,gear_stick
+H-2144038l,VW Polo,economy,petrol,6.1,2012,36140,2021,0,another_bug
+x-4756011X,Kia Rio X-line,economy,petrol,4.7,2014,5729,2016,0,engine_overheat
+s73980140P,Kia Sportage,standart,petrol,3.94,2015,19418,2018,0,gear_stick
+N19189886g,Smart ForTwo,economy,petrol,2.04,2017,57445,2016,3,engine_ignition
+v-6392708V,Kia Rio,economy,petrol,3.54,2014,3341,2022,0,electro_bug
+U10712297z,Nissan Qashqai,standart,petrol,3.94,2014,840,2018,0,electro_bug
+l-1350181V,Hyundai Solaris,economy,petrol,4.64,2014,1546,2016,0,wheel_shake
+l19258011n,Audi Q3,premium,petrol,4.04,2015,18282,2020,0,engine_fuel
+r85567773B,Smart Coupe,economy,petrol,4.46,2015,15234,2018,0,break_bug
+b-8083065x,Kia Sportage,standart,petrol,4.9,2015,18244,2016,0,electro_bug
+w-1581417U,Smart Coupe,economy,petrol,5.04,2014,1868,2022,0,wheel_shake
+s-7171445l,Hyundai Solaris,economy,petrol,4.58,2015,18120,2014,0,engine_check
+M55573306q,Kia Rio,economy,petrol,3.66,2013,17267,2016,1,wheel_shake
+V74591296f,Kia Rio X,economy,petrol,3.78,2013,8676,2020,2,engine_ignition
+j-4278776N,Smart Coupe,economy,petrol,4.58,2017,49056,2016,0,another_bug
+Z-1064742y,Nissan Qashqai,standart,petrol,4.66,2015,11960,2017,0,engine_ignition
+S-1390039A,Renault Sandero,standart,petrol,5.18,2015,13175,2017,0,electro_bug
+N19952082h,Smart ForTwo,economy,petrol,3.98,2015,11671,2021,0,break_bug
+T19075255E,VW Polo VI,economy,petrol,5.02,2014,5051,2016,0,wheel_shake
+x19628914j,Renault Kaptur,standart,petrol,2.54,2011,54426,2020,0,another_bug
+X-1671358p,Hyundai Solaris,economy,petrol,4.3,2013,25502,2015,1,engine_fuel
+I11103483d,Smart ForFour,economy,petrol,3.7,2017,55220,2015,0,engine_fuel
+D-1299637p,Nissan Qashqai,standart,petrol,4.94,2015,15997,2017,0,electro_bug
+p11362532G,Renault Sandero,standart,petrol,5.06,2013,16897,2021,0,another_bug
+i50959881t,Kia Rio,economy,petrol,4.44,2013,19819,2014,0,gear_stick
+K78764022R,VW Tiguan,economy,petrol,2.78,2014,1267,2019,0,electro_bug
+j-1315686Z,Skoda Rapid,economy,petrol,4.04,2015,18572,2015,0,engine_fuel
+m-1557260S,Renault Kaptur,standart,petrol,3.24,2011,56571,2019,0,electro_bug
+n59846663M,Kia Rio X,economy,petrol,2.44,2015,18825,2019,1,engine_overheat
+o-2184265F,Hyundai Solaris,economy,petrol,5.12,2014,1303,2021,0,wheel_shake
+F13911890H,Smart ForTwo,economy,petrol,3.36,2016,30511,2016,0,engine_check
+j21897594G,VW Polo VI,economy,petrol,4.32,2012,37558,2017,0,break_bug
+S-6461151b,Smart ForTwo,economy,petrol,6.72,2013,22408,2018,0,another_bug
+v12080053K,VW Polo,economy,petrol,3.54,2015,17147,2020,0,break_bug
+F16432767s,Kia Sportage,standart,petrol,3.84,2015,13354,2019,0,engine_overheat
+l-2034865v,Smart ForFour,economy,petrol,5.3,2016,29273,2018,2,break_bug
+z-1003233A,Renault Sandero,standart,petrol,5.16,2013,16838,2019,0,engine_ignition
+l-9493237z,Renault Kaptur,standart,petrol,4.22,2015,16858,2017,0,engine_fuel
+r46675191f,Renault Sandero,standart,petrol,3.78,2014,1289,2017,1,electro_bug
+r13303585C,Kia Sportage,standart,petrol,3.02,2011,63094,2020,0,engine_fuel
+u-1157731m,Smart ForFour,economy,petrol,4.24,2014,2517,2018,0,engine_check
+J84260053w,VW Polo,economy,petrol,3.88,2011,55319,2017,0,break_bug
+l25312728Z,Nissan Qashqai,standart,petrol,2.98,2015,12979,2016,0,break_bug
+M-9660510I,Kia Rio X,economy,petrol,4.48,2012,36943,2016,0,gear_stick
+e-1114087K,Kia Rio X-line,economy,petrol,6.86,2014,1043,2018,3,engine_check
+I72983800c,Mercedes-Benz GLC,business,petrol,4.08,2012,37408,2017,0,engine_check
+q-7310362e,Mini Cooper,business,petrol,4.52,2014,7323,2019,0,another_bug
+A-1608196J,VW Tiguan,economy,petrol,5.12,2015,14806,2022,1,gear_stick
+a-1200101r,VW Tiguan,economy,petrol,5.06,2015,19640,2021,0,electro_bug
+E65128791Y,Renault Sandero,standart,petrol,4.24,2015,14767,2019,0,break_bug
+y11116647y,Smart ForTwo,economy,petrol,3.6,2016,30890,2014,0,engine_check
+t-4986148P,Kia Rio,economy,petrol,5.34,2014,7482,2020,0,engine_fuel
+k-4275557f,Smart ForFour,economy,petrol,5.62,2017,52575,2018,0,engine_fuel
+z17098431t,Nissan Qashqai,standart,petrol,3.74,2013,19999,2014,1,engine_fuel
+n-2471360t,Kia Sportage,standart,petrol,6.84,2015,25313,2017,0,break_bug
+V50156246S,Skoda Rapid,economy,petrol,2.94,2013,21658,2017,0,another_bug
+X61539289S,Hyundai Solaris,economy,petrol,3.22,2015,16145,2017,0,engine_fuel
+f-3082909s,Nissan Qashqai,standart,petrol,4.58,2015,23653,2016,0,another_bug
+a40815402c,Renault Kaptur,standart,petrol,5.0,2015,18375,2021,0,engine_ignition
+d47100434i,VW Polo,economy,petrol,3.54,2014,1670,2021,0,break_bug
+i19317413T,VW Tiguan,economy,petrol,4.4,2017,53810,2021,1,electro_bug
+r67107338f,Kia Rio X-line,economy,petrol,4.54,2012,33727,2014,0,electro_bug
+a13527769z,Hyundai Solaris,economy,petrol,3.36,2012,37078,2020,0,gear_stick
+U22056924P,Nissan Qashqai,standart,petrol,4.38,2015,12218,2019,0,gear_stick
+g16167624b,Smart ForTwo,economy,petrol,1.38,2016,31595,2017,0,break_bug
+D-1774044c,Kia Rio X,economy,petrol,5.7,2015,23648,2017,1,break_bug
+t92529090j,Skoda Rapid,economy,petrol,3.6,2013,21319,2020,1,engine_check
+Z-1711495s,Kia Sportage,standart,petrol,5.32,2014,2184,2020,0,engine_check
+g-2339374U,Kia Rio,economy,petrol,4.48,2015,15721,2015,0,engine_ignition
+b-1417084c,Skoda Rapid,economy,petrol,5.12,2014,6081,2017,0,gear_stick
+C-1344229D,VW Tiguan,economy,petrol,4.96,2017,57480,2018,0,engine_overheat
+G-1367113F,Kia Rio X-line,economy,petrol,4.24,2015,11721,2019,0,wheel_shake
+p17188909Y,Renault Sandero,standart,petrol,3.96,2014,6976,2015,1,break_bug
+Y35936177u,Renault Sandero,standart,petrol,2.74,2014,3354,2022,1,another_bug
+r-1240754K,VW Polo VI,economy,petrol,7.32,2013,17074,2016,0,engine_overheat
+j-6656658c,VW Polo VI,economy,petrol,7.06,2013,20251,2021,1,engine_check
+d73522815u,Nissan Qashqai,standart,petrol,4.46,2014,616,2017,0,another_bug
+e-3222735f,Hyundai Solaris,economy,petrol,4.52,2012,43621,2020,0,wheel_shake
+o18639680W,VW Tiguan,economy,petrol,3.78,2014,1863,2018,0,engine_ignition
+L22065215T,Smart ForFour,economy,petrol,3.76,2013,21004,2015,0,engine_ignition
+B13383303K,Kia Rio,economy,petrol,3.74,2015,11439,2020,1,engine_ignition
+r-7237568t,Kia Rio,economy,petrol,3.86,2011,52086,2014,0,break_bug
+t-6990338F,VW Polo VI,economy,petrol,5.7,2011,51041,2018,0,engine_overheat
+Y-8038242O,Kia Sportage,standart,petrol,4.16,2012,28975,2018,0,engine_ignition
+g18672646k,Hyundai Solaris,economy,petrol,4.96,2011,54038,2022,0,engine_fuel
+v72452123v,Kia Sportage,standart,petrol,4.18,2015,21318,2015,0,engine_check
+c-1386036x,VW Tiguan,economy,petrol,4.3,2017,54523,2021,0,another_bug
+c-2115574S,VW Polo VI,economy,petrol,5.1,2011,59871,2015,0,engine_check
+I10682240n,Audi A4,premium,petrol,3.56,2015,6543,2019,0,engine_check
+N17880117G,Smart Coupe,economy,petrol,2.84,2015,13487,2019,0,wheel_shake
+m-3255050C,Smart ForFour,economy,petrol,4.9,2017,51071,2014,0,gear_stick
+N-1040433D,Hyundai Solaris,economy,petrol,4.42,2014,1152,2019,0,electro_bug
+g-3702163c,Smart ForTwo,economy,petrol,3.6,2014,6734,2015,2,engine_fuel
+S-2842312l,Kia Rio,economy,petrol,4.78,2015,25914,2017,0,wheel_shake
+D-1963229P,Smart ForTwo,economy,petrol,5.76,2015,25801,2022,0,engine_ignition
+R-3967693U,Renault Kaptur,standart,petrol,4.18,2015,15744,2015,0,another_bug
+L-1724026C,Kia Sportage,standart,petrol,5.22,2012,34200,2016,0,another_bug
+D-6027833m,Mercedes-Benz GLC,business,petrol,4.88,2011,51540,2017,0,engine_ignition
+B-1917791d,Smart Coupe,economy,petrol,4.26,2017,57668,2016,0,electro_bug
+s-2932726X,Kia Rio X-line,economy,petrol,4.82,2014,100,2018,0,engine_overheat
+N14459593T,Skoda Rapid,economy,petrol,4.28,2017,53593,2018,3,engine_overheat
+K20919960H,VW Polo VI,economy,petrol,3.44,2011,54713,2019,1,electro_bug
+R74882980B,VW Polo,economy,petrol,3.1,2015,20202,2015,0,gear_stick
+O-2171481v,VW Polo,economy,petrol,4.9,2014,1236,2019,0,engine_fuel
+u13469240p,Smart ForTwo,economy,petrol,4.14,2017,48250,2020,0,engine_ignition
+P-3388342Y,Kia Sportage,standart,petrol,4.1,2013,16650,2020,0,engine_fuel
+S-2021871y,Renault Sandero,standart,petrol,5.78,2013,17697,2015,0,another_bug
+f47536236V,Skoda Rapid,economy,petrol,3.58,2013,14460,2015,0,engine_check
+W-1124357o,Skoda Rapid,economy,petrol,5.0,2013,20326,2021,0,engine_ignition
+k20397839T,Kia Sportage,standart,petrol,3.84,2015,14707,2020,0,engine_ignition
+q10963617z,Smart ForFour,economy,petrol,3.46,2016,37575,2019,0,engine_ignition
+u74042804Z,Renault Kaptur,standart,petrol,5.12,2014,1487,2014,0,engine_fuel
+k75640370Z,Renault Sandero,standart,petrol,4.46,2014,1170,2018,1,another_bug
+I20072706u,Skoda Rapid,economy,petrol,2.1,2016,40746,2017,0,engine_ignition
+c-5936776W,Smart ForFour,economy,petrol,4.98,2017,51554,2018,1,wheel_shake
+r-1855433I,Mercedes-Benz GLC,business,petrol,4.2,2011,52912,2020,0,engine_overheat
+t-1352539G,VW Tiguan,economy,petrol,5.26,2013,15970,2020,0,break_bug
+V11850522g,Fiat 500,business,petrol,3.62,2015,18315,2021,0,engine_ignition
+t85602289V,Kia Rio X,economy,petrol,3.96,2015,20030,2017,1,engine_fuel
+U11036046Q,Smart Coupe,economy,petrol,4.06,2017,51135,2018,0,engine_check
+F76065790G,Kia Rio X,economy,petrol,3.5,2015,16428,2015,0,engine_check
+F-7994539r,VW Polo,economy,petrol,5.18,2015,11918,2018,0,engine_check
+r-8258004i,Skoda Rapid,economy,petrol,3.8,2015,21327,2017,0,break_bug
+G-1496858h,Nissan Qashqai,standart,petrol,4.86,2012,35741,2019,0,gear_stick
+U-2946228d,VW Tiguan,economy,petrol,4.38,2013,19872,2019,0,engine_overheat
+a10191506z,Kia Rio X,economy,petrol,4.3,2011,51029,2020,1,electro_bug
+r-1971661G,Mini Cooper,business,petrol,5.02,2015,17336,2020,0,engine_overheat
+v20994621E,Kia Rio,economy,petrol,3.88,2011,61772,2015,0,engine_overheat
+Y-1854276u,Kia Rio,economy,petrol,6.04,2011,52699,2016,0,electro_bug
+f-3867041G,Smart ForTwo,economy,petrol,5.12,2013,19722,2016,1,engine_ignition
+i37690058Q,VW Tiguan,economy,petrol,3.86,2015,17525,2019,0,another_bug
+F19655329e,VW Polo VI,economy,petrol,3.44,2015,14221,2016,0,engine_overheat
+e16589933J,Smart ForTwo,economy,petrol,4.02,2017,50738,2020,1,another_bug
+a17493123U,Kia Sportage,standart,petrol,4.32,2013,20144,2017,0,engine_check
+T13246145k,VW Tiguan,economy,petrol,5.32,2014,618,2020,0,wheel_shake
+e-7159803S,Renault Kaptur,standart,petrol,4.26,2014,1598,2022,0,engine_ignition
+R-8326024Z,Smart Coupe,economy,petrol,5.68,2016,30968,2021,0,break_bug
+B13364256Q,Renault Kaptur,standart,petrol,4.0,2014,1306,2016,1,engine_ignition
+G-8735482k,VW Tiguan,economy,petrol,6.14,2017,53679,2022,0,engine_ignition
+B26176940H,Smart ForTwo,economy,petrol,3.72,2015,14593,2020,0,wheel_shake
+F-1521647k,Kia Rio X-line,economy,petrol,5.16,2013,18979,2020,0,engine_ignition
+l52609165Q,VW Polo VI,economy,petrol,3.3,2011,51690,2018,0,electro_bug
+A-1716867j,Skoda Rapid,economy,petrol,5.16,2015,16829,2017,0,engine_fuel
+Z18581700b,Kia Rio X-line,economy,petrol,3.16,2011,55619,2017,1,engine_ignition
+b16421692v,Nissan Qashqai,standart,petrol,4.02,2014,830,2018,0,engine_ignition
+H26198571C,Kia Sportage,standart,petrol,4.38,2015,16848,2015,0,engine_fuel
+d-1431691v,Renault Kaptur,standart,petrol,4.84,2013,22288,2022,0,engine_ignition
+f-1473922q,VW Polo,economy,petrol,5.26,2015,13942,2016,1,wheel_shake
+P-1416305i,Kia Rio,economy,petrol,6.12,2012,45431,2020,2,electro_bug
+I78650306e,VW Polo,economy,petrol,5.62,2012,21772,2019,0,engine_fuel
+f16452762s,Volkswagen ID.4 ,premium,electro,4.2,2016,38745,2021,0,engine_check
+F-2555173U,Skoda Rapid,economy,petrol,4.38,2017,52359,2015,2,engine_fuel
+l-4210224j,Smart ForTwo,economy,petrol,4.8,2016,39258,2020,0,engine_ignition
+w19339248v,VW Polo,economy,petrol,3.82,2012,31490,2018,0,gear_stick
+g27231092F,Hyundai Solaris,economy,petrol,3.76,2013,17904,2021,0,electro_bug
+R63578164i,Kia Rio X,economy,petrol,3.9,2011,54698,2018,0,wheel_shake
+s15239012u,Tesla Model 3,premium,electro,3.68,2013,21343,2017,0,engine_overheat
+A-1637771e,VW Polo,economy,petrol,4.8,2013,18855,2014,1,break_bug
+s69331020P,VW Polo VI,economy,petrol,3.98,2015,19994,2021,0,engine_fuel
+O-1123087f,Smart ForFour,economy,petrol,5.32,2014,4454,2019,1,engine_overheat
+Q11476197K,Renault Sandero,standart,petrol,3.5,2014,5544,2017,0,engine_overheat
+x-5235519P,VW Polo,economy,petrol,4.62,2015,13346,2016,1,gear_stick
+J52256415X,Hyundai Solaris,economy,petrol,3.1,2012,32834,2019,0,gear_stick
+x-4527718i,Skoda Rapid,economy,petrol,4.72,2017,54727,2016,0,break_bug
+n-1453987E,Renault Sandero,standart,petrol,6.18,2015,3220,2018,0,gear_stick
+B-1618952G,VW Polo,economy,petrol,6.04,2011,51685,2014,0,wheel_shake
+P-5705407K,Kia Rio,economy,petrol,3.62,2011,55002,2021,0,electro_bug
+d96023594h,Hyundai Solaris,economy,petrol,2.56,2013,25951,2015,1,another_bug
+q59656547C,Renault Sandero,standart,petrol,3.48,2015,16714,2020,0,gear_stick
+Y35079348c,Hyundai Solaris,economy,petrol,4.7,2014,1312,2017,0,engine_fuel
+D20027074m,Kia Rio X,economy,petrol,3.76,2012,33343,2015,0,another_bug
+k11221735l,Nissan Qashqai,standart,petrol,4.0,2015,17607,2019,0,electro_bug
+K-1276013v,Kia Rio X,economy,petrol,4.68,2014,5053,2019,0,another_bug
+n-7694407f,Renault Kaptur,standart,petrol,4.62,2014,5845,2020,0,gear_stick
+t22704094A,Smart Coupe,economy,petrol,4.94,2016,35766,2016,1,engine_fuel
+X22387041u,Mercedes-Benz E200,business,petrol,4.08,2014,1230,2018,0,another_bug
+P31390183y,Renault Sandero,standart,petrol,3.7,2012,40774,2020,0,engine_fuel
+H16303938M,Audi A4,premium,petrol,3.18,2014,10955,2018,1,break_bug
+y48101757x,VW Tiguan,economy,petrol,4.08,2014,3244,2018,0,gear_stick
+m-2085965x,VW Tiguan,economy,petrol,5.74,2013,22616,2020,2,engine_ignition
+E17636506Q,VW Tiguan,economy,petrol,3.04,2016,38775,2019,0,another_bug
+L-2195474b,Kia Rio X-line,economy,petrol,5.18,2013,16038,2017,0,engine_fuel
+F-3717420g,Kia Sportage,standart,petrol,4.72,2011,52390,2015,0,electro_bug
+R-6779288H,Kia Rio X,economy,petrol,5.58,2013,23983,2018,0,another_bug
+g-8620176u,Volkswagen ID.4 ,premium,electro,5.06,2017,52631,2019,0,engine_check
+Y-1534629K,Kia Sportage,standart,petrol,5.28,2011,49121,2017,0,engine_fuel
+W-1097401R,Smart Coupe,economy,petrol,5.22,2016,38376,2019,0,engine_overheat
+O-1092563w,Kia Rio X-line,economy,petrol,5.2,2012,42799,2017,0,engine_ignition
+t17920179s,Kia Sportage,standart,petrol,2.4,2014,1131,2020,0,engine_check
+D13397927R,VW Polo VI,economy,petrol,4.04,2013,13453,2021,1,electro_bug
+j19663297I,Nissan Qashqai,standart,petrol,3.8,2012,34484,2022,0,engine_ignition
+x16775864z,Skoda Rapid,economy,petrol,4.0,2015,12696,2019,1,electro_bug
+K-8474762Z,Skoda Rapid,economy,petrol,4.4,2014,4490,2020,0,engine_ignition
+p-5253455B,Kia Rio,economy,petrol,6.02,2011,51045,2021,1,engine_overheat
+v-1762202p,Skoda Rapid,economy,petrol,4.46,2017,55042,2019,0,electro_bug
+I20611527w,VW Polo VI,economy,petrol,3.6,2013,12284,2019,0,engine_ignition
+A-3808140d,Kia Rio X-line,economy,petrol,4.02,2015,13971,2018,4,engine_check
+o15354037q,Renault Kaptur,standart,petrol,4.32,2014,757,2021,1,engine_fuel
+S20829995X,Nissan Qashqai,standart,petrol,4.02,2011,51943,2019,0,engine_check
+a-3252702q,Renault Sandero,standart,petrol,5.22,2015,12430,2021,0,engine_overheat
+R-9164185G,Kia Rio X-line,economy,petrol,5.34,2014,6542,2017,0,another_bug
+z-4189914Z,Kia Rio X-line,economy,petrol,5.1,2015,14077,2020,2,wheel_shake
+l13665225s,VW Polo VI,economy,petrol,3.28,2012,30874,2016,0,engine_check
+T14800101Q,Mini Cooper,business,petrol,3.8,2015,16223,2020,0,gear_stick
+w18239583t,Renault Kaptur,standart,petrol,2.0,2012,35295,2020,0,gear_stick
+e32652593E,Audi A3,premium,petrol,4.04,2014,4221,2017,0,gear_stick
+T69421094D,VW Polo VI,economy,petrol,3.44,2014,2151,2017,0,electro_bug
+g13538879M,Nissan Qashqai,standart,petrol,4.28,2015,19517,2020,0,break_bug
+S-1722217a,Renault Kaptur,standart,petrol,5.38,2013,17151,2017,0,gear_stick
+a11562231z,BMW 320i,business,petrol,4.1,2017,57805,2020,1,electro_bug
+m-9458313W,Kia Rio X,economy,petrol,5.34,2012,32015,2016,0,wheel_shake
+i-7140721w,Hyundai Solaris,economy,petrol,5.04,2015,15500,2017,0,engine_overheat
+O-2286607l,Renault Sandero,standart,petrol,5.0,2012,38800,2019,0,another_bug
+A12515217s,BMW 320i,business,petrol,3.96,2017,52416,2015,0,engine_check
+Q38025444e,Hyundai Solaris,economy,petrol,3.18,2015,11890,2017,0,electro_bug
+i-7547892N,Nissan Qashqai,standart,petrol,5.54,2013,24695,2016,2,electro_bug
+A12644115d,Skoda Rapid,economy,petrol,2.66,2015,20184,2018,0,electro_bug
+E-2133990z,Skoda Rapid,economy,petrol,4.58,2015,15988,2017,0,engine_fuel
+y-2774676H,Kia Rio,economy,petrol,4.02,2015,8155,2019,0,gear_stick
+L15175850u,Nissan Qashqai,standart,petrol,2.56,2012,28870,2017,0,another_bug
+y-1466625G,Kia Rio,economy,petrol,4.7,2013,17379,2016,0,engine_ignition
+M59358623p,Renault Sandero,standart,petrol,3.64,2014,1435,2017,0,engine_check
+T42926968A,Kia Rio X,economy,petrol,4.66,2011,52867,2019,0,engine_ignition
+Y-2178761j,Kia Rio,economy,petrol,5.84,2011,48729,2018,0,wheel_shake
+T-1958016u,Skoda Rapid,economy,petrol,6.88,2015,18398,2017,2,wheel_shake
+C16118635O,Kia Sportage,standart,petrol,4.08,2011,57147,2020,2,engine_fuel
+h-1653598B,VW Tiguan,economy,petrol,4.5,2016,37817,2020,1,break_bug
+B-1502755g,Nissan Qashqai,standart,petrol,4.94,2015,16687,2019,0,electro_bug
+P10456388r,Renault Kaptur,standart,petrol,3.46,2015,14847,2015,1,engine_check
+o14011799o,VW Polo,economy,petrol,4.54,2011,47302,2017,0,break_bug
+R-2200294h,Renault Kaptur,standart,petrol,4.46,2015,16967,2017,2,electro_bug
+o-1549521o,Smart Coupe,economy,petrol,4.92,2015,20373,2016,0,engine_fuel
+I17890841L,Nissan Qashqai,standart,petrol,4.24,2015,16556,2018,1,engine_fuel
+m44191142N,Kia Rio X,economy,petrol,3.6,2015,15430,2015,0,gear_stick
+u41534075V,Kia Rio X-line,economy,petrol,4.1,2015,16123,2021,2,engine_fuel
+Q-3609902D,Mini Cooper,business,petrol,6.66,2011,47196,2015,1,engine_check
+g17242744Q,Smart ForTwo,economy,petrol,3.86,2016,32610,2018,0,gear_stick
+a-4134683i,VW Polo,economy,petrol,4.16,2011,53224,2016,0,gear_stick
+R-3455074p,Smart ForFour,economy,petrol,4.64,2013,26083,2021,0,gear_stick
+o42583894s,VW Tiguan,economy,petrol,2.82,2017,51579,2020,0,gear_stick
+C65217807q,Renault Sandero,standart,petrol,3.76,2015,13585,2017,0,engine_fuel
+h34792984o,Smart Coupe,economy,petrol,3.96,2016,28789,2016,0,engine_fuel
+z-1195416q,Renault Kaptur,standart,petrol,5.3,2014,2829,2021,1,gear_stick
+l63704444j,Smart Coupe,economy,petrol,4.18,2015,15061,2021,1,engine_fuel
+d-1337341f,VW Polo,economy,petrol,5.06,2011,52256,2020,0,gear_stick
+N21159511i,Kia Sportage,standart,petrol,2.36,2014,2184,2021,0,electro_bug
+E86595365Q,VW Polo VI,economy,petrol,2.8,2013,12851,2018,0,engine_check
+J-1849804k,Kia Rio X-line,economy,petrol,4.4,2015,28930,2017,0,engine_overheat
+y11863052Y,Smart Coupe,economy,petrol,3.98,2014,623,2017,0,engine_overheat
+R16680147O,Kia Rio X,economy,petrol,2.92,2014,4622,2021,0,engine_ignition
+b75275459a,Renault Sandero,standart,petrol,3.68,2013,13850,2017,1,break_bug
+l-1029771r,Renault Kaptur,standart,petrol,4.14,2013,16415,2019,0,another_bug
+m11864716a,Kia Rio X,economy,petrol,4.04,2014,906,2016,0,electro_bug
+C98061113i,VW Polo,economy,petrol,3.12,2011,55158,2017,0,electro_bug
+A-9978160R,Renault Kaptur,standart,petrol,6.24,2014,1539,2017,0,engine_check
+t-5461934K,Kia Rio,economy,petrol,5.68,2011,55121,2016,0,another_bug
+p-1452440l,VW Tiguan,economy,petrol,4.9,2017,51463,2020,0,electro_bug
+v-6875360F,Kia Rio,economy,petrol,6.12,2012,42909,2018,0,another_bug
+X-6212618a,Nissan Qashqai,standart,petrol,4.76,2012,37318,2015,0,break_bug
+e88390607A,VW Polo VI,economy,petrol,2.56,2014,3051,2014,0,electro_bug
+g21945808y,Renault Sandero,standart,petrol,2.92,2015,9738,2016,0,electro_bug
+O13575732T,Smart Coupe,economy,petrol,4.64,2015,17039,2018,1,engine_check
+e-1451221h,Renault Kaptur,standart,petrol,5.96,2011,53710,2017,0,gear_stick
+X20105867Q,Hyundai Solaris,economy,petrol,2.48,2013,13909,2014,0,engine_overheat
+q96043930Y,VW Polo VI,economy,petrol,3.62,2015,15544,2015,0,engine_overheat
+H15400262M,Audi A3,premium,petrol,2.06,2017,52034,2021,3,engine_check
+d-1429381v,VW Polo VI,economy,petrol,5.36,2015,12312,2021,0,another_bug
+i14500046Q,Hyundai Solaris,economy,petrol,4.32,2013,15979,2019,0,break_bug
+W46924275b,Kia Rio,economy,petrol,2.84,2015,15978,2021,1,another_bug
+g58582508M,Kia Sportage,standart,petrol,3.58,2012,38263,2014,0,break_bug
+N19608285s,Skoda Rapid,economy,petrol,3.22,2016,37412,2017,0,break_bug
+N-1314575g,Audi Q3,premium,petrol,5.14,2016,26255,2021,0,another_bug
+K92300436N,Renault Kaptur,standart,petrol,3.04,2013,28695,2021,1,break_bug
+P-9908612T,Hyundai Solaris,economy,petrol,5.84,2015,24023,2021,0,another_bug
+d-1090694g,VW Polo,economy,petrol,5.12,2012,37463,2015,0,break_bug
+v-1349866X,Renault Kaptur,standart,petrol,4.16,2014,5056,2015,0,another_bug
+G-8639566q,Smart Coupe,economy,petrol,4.84,2016,33643,2021,2,gear_stick
+L-4740749j,Skoda Rapid,economy,petrol,4.84,2013,13355,2014,0,wheel_shake
+j10170451K,Nissan Qashqai,standart,petrol,3.14,2014,6430,2019,0,another_bug
+W-2093622J,Renault Sandero,standart,petrol,5.64,2012,36671,2014,0,engine_check
+O-7924542b,Hyundai Solaris,economy,petrol,4.34,2015,20763,2022,0,electro_bug
+q-1152382E,Renault Sandero,standart,petrol,4.94,2015,19354,2019,0,electro_bug
+b15738226W,Kia Rio,economy,petrol,4.22,2014,3245,2016,0,engine_check
+P15506344z,Kia Rio X-line,economy,petrol,2.72,2015,19125,2017,0,gear_stick
+R10303783s,Skoda Rapid,economy,petrol,4.12,2014,3040,2017,2,engine_fuel
+Q16550177n,VW Polo VI,economy,petrol,3.3,2014,11622,2017,2,engine_check
+w10249149r,VW Tiguan,economy,petrol,4.1,2013,17576,2018,0,electro_bug
+s-2489187b,Nissan Qashqai,standart,petrol,5.68,2012,40020,2016,0,gear_stick
+L-6578341x,Renault Sandero,standart,petrol,4.84,2011,54093,2018,0,engine_check
+r-8972539a,Smart ForFour,economy,petrol,3.78,2016,37942,2014,1,engine_overheat
+R-1426192M,Hyundai Solaris,economy,petrol,5.34,2014,11430,2021,0,wheel_shake
+M39207413s,Skoda Rapid,economy,petrol,4.06,2017,52768,2020,0,another_bug
+G-1280425x,VW Tiguan,economy,petrol,4.58,2014,3077,2020,0,electro_bug
+G10104863h,Kia Sportage,standart,petrol,3.76,2014,376,2015,0,electro_bug
+H-2199509v,Kia Sportage,standart,petrol,5.92,2015,15928,2022,0,engine_check
+M22043506N,Nissan Qashqai,standart,petrol,3.78,2013,25595,2014,0,engine_ignition
+o14550714y,Renault Kaptur,standart,petrol,2.28,2011,58825,2022,1,engine_overheat
+Q13521415B,Renault Kaptur,standart,petrol,3.02,2015,21432,2017,0,gear_stick
+i89796202z,Hyundai Solaris,economy,petrol,4.06,2012,35263,2019,0,wheel_shake
+C93651463z,Kia Rio X,economy,petrol,3.14,2014,3084,2019,1,engine_ignition
+q74130200s,VW Polo,economy,petrol,3.08,2015,13424,2018,0,gear_stick
+I57428032C,Kia Rio,economy,petrol,3.68,2014,4478,2020,0,break_bug
+O-8012438m,Hyundai Solaris,economy,petrol,6.4,2012,35493,2015,0,wheel_shake
+N-3083193h,Smart ForFour,economy,petrol,5.62,2016,29540,2015,2,engine_fuel
+L83418335r,Renault Sandero,standart,petrol,2.42,2013,23089,2020,0,break_bug
+c-6119821e,Renault Sandero,standart,petrol,5.36,2011,50898,2019,0,break_bug
+n-1185681P,VW Polo VI,economy,petrol,6.0,2014,3112,2020,0,break_bug
+b-1560879E,MINI CooperSE,business,electro,3.9,2014,2713,2020,0,electro_bug
+e-1614599W,VW Tiguan,economy,petrol,5.18,2017,51451,2022,0,another_bug
+Q80983604T,Skoda Rapid,economy,petrol,2.94,2016,36330,2016,0,engine_ignition
+c-3606581m,Renault Kaptur,standart,petrol,5.96,2011,47427,2017,0,another_bug
+b85127680Y,VW Tiguan,economy,petrol,2.72,2013,15138,2022,0,another_bug
+S-3421442p,Skoda Rapid,economy,petrol,5.14,2016,35039,2016,0,electro_bug
+x-1201536B,Renault Sandero,standart,petrol,4.52,2015,17827,2022,0,gear_stick
+G-5581293F,VW Polo,economy,petrol,4.36,2013,15875,2016,0,break_bug
+k26462753G,Nissan Qashqai,standart,petrol,3.6,2012,34894,2020,0,engine_ignition
+F47858839f,Hyundai Solaris,economy,petrol,3.42,2014,2659,2021,0,another_bug
+G23748310E,Audi A4,premium,petrol,4.72,2016,32269,2018,1,another_bug
+C10048101g,Nissan Qashqai,standart,petrol,3.64,2013,15845,2016,0,engine_ignition
+Y54592539J,Kia Rio,economy,petrol,3.36,2015,21079,2021,0,engine_check
+p44495458T,Tesla Model 3,premium,electro,3.04,2016,35573,2019,0,engine_check
+n-2390279v,VW Polo,economy,petrol,4.86,2013,17537,2018,0,electro_bug
+D-1165247I,Smart ForFour,economy,petrol,4.64,2015,15403,2016,0,another_bug
+w-1883522r,Hyundai Solaris,economy,petrol,4.38,2014,1276,2015,0,engine_fuel
+X-2304872D,Smart ForTwo,economy,petrol,4.68,2014,4172,2022,0,engine_overheat
+U66659048e,Smart ForFour,economy,petrol,3.64,2017,48612,2017,0,gear_stick
+k56379516I,Kia Rio,economy,petrol,3.84,2015,13054,2020,0,break_bug
+L62904346M,Kia Sportage,standart,petrol,4.34,2015,14801,2019,0,another_bug
+Z21783489b,Kia Sportage,standart,petrol,4.86,2015,23459,2018,1,engine_check
+a-1619939H,Kia Rio X-line,economy,petrol,5.28,2014,4591,2019,0,engine_ignition
+G74822879i,MINI CooperSE,business,electro,4.0,2014,2524,2020,0,gear_stick
+F82692468Q,VW Polo VI,economy,petrol,4.74,2015,11709,2014,0,gear_stick
+w-1384017W,VW Polo,economy,petrol,3.88,2015,17122,2020,2,another_bug
+t71777955o,Nissan Qashqai,standart,petrol,3.9,2013,14016,2020,0,gear_stick
+F-1589002A,Smart ForTwo,economy,petrol,5.12,2015,18593,2015,0,engine_check
+a-3251350O,VW Polo,economy,petrol,5.04,2015,16792,2018,0,break_bug
+g47240816d,Smart ForFour,economy,petrol,4.42,2014,7123,2020,0,gear_stick
+i-1370811Q,Audi A4,premium,petrol,6.14,2016,35308,2017,0,gear_stick
+P-2277340R,Smart ForFour,economy,petrol,5.3,2017,53012,2019,0,break_bug
+u-8489072O,VW Polo,economy,petrol,4.28,2015,16437,2017,0,engine_fuel
+r-3071364R,VW Polo,economy,petrol,4.62,2014,2837,2020,0,wheel_shake
+m15303335X,Kia Rio X-line,economy,petrol,4.38,2012,38410,2015,1,engine_fuel
+Y19241300k,Smart ForFour,economy,petrol,3.7,2013,16344,2019,1,engine_ignition
+E-8207280Q,BMW 320i,business,petrol,6.22,2016,31939,2018,0,another_bug
+W46625015B,Smart ForTwo,economy,petrol,3.58,2014,966,2014,0,break_bug
+M-8206796L,VW Polo VI,economy,petrol,4.44,2013,17489,2015,0,gear_stick
+V17731660D,Kia Rio,economy,petrol,4.62,2013,8792,2017,1,engine_fuel
+O-5518355H,Kia Rio X-line,economy,petrol,4.76,2015,20930,2015,0,wheel_shake
+E18666159X,VW Polo VI,economy,petrol,3.68,2015,17872,2014,0,electro_bug
+s-9898465z,VW Tiguan,economy,petrol,4.18,2017,44861,2018,0,break_bug
+E-2160983l,VW Polo,economy,petrol,4.76,2013,22809,2020,0,engine_overheat
+Y-1862837R,Hyundai Solaris,economy,petrol,5.36,2014,2847,2021,0,engine_fuel
+h-1014054H,Nissan Qashqai,standart,petrol,5.1,2015,15095,2017,0,break_bug
+g18337528Q,Nissan Qashqai,standart,petrol,3.5,2013,23218,2016,1,engine_fuel
+r-1651621F,Renault Kaptur,standart,petrol,5.94,2012,37464,2021,0,engine_ignition
+O-4589077y,Nissan Qashqai,standart,petrol,5.52,2011,53747,2021,0,engine_ignition
+o13124837I,Renault Kaptur,standart,petrol,2.76,2015,13015,2019,2,engine_ignition
+q-1969146n,VW Polo,economy,petrol,6.1,2014,342,2017,2,break_bug
+d-1798536s,Smart ForTwo,economy,petrol,6.08,2016,37319,2020,0,electro_bug
+Q-1047390u,Nissan Qashqai,standart,petrol,4.5,2013,20228,2020,1,another_bug
+O91790663z,Mercedes-Benz E200,business,petrol,4.08,2015,18310,2015,0,break_bug
+T-8094907L,Volkswagen ID.4 ,premium,electro,4.62,2015,19253,2021,0,gear_stick
+H-1612965Z,Renault Kaptur,standart,petrol,5.46,2011,57292,2019,0,break_bug
+n-1234776I,Kia Sportage,standart,petrol,5.2,2013,16013,2017,1,engine_ignition
+F42818787b,Renault Sandero,standart,petrol,4.3,2015,16735,2014,1,engine_fuel
+N81568580W,Kia Rio X,economy,petrol,3.46,2014,764,2014,0,another_bug
+Z40823169S,Kia Sportage,standart,petrol,4.36,2013,18354,2019,0,engine_check
+Y-6686348Y,Skoda Rapid,economy,petrol,3.86,2014,88,2020,0,another_bug
+h-5992560o,BMW 320i,business,petrol,4.82,2016,27699,2017,1,engine_overheat
+H-2076090T,Renault Kaptur,standart,petrol,4.0,2014,3094,2019,1,engine_check
+m10044876m,Nissan Qashqai,standart,petrol,2.1,2014,2567,2016,0,gear_stick
+e-1784776Q,VW Polo,economy,petrol,4.94,2014,5287,2017,3,break_bug
+J15828604G,Renault Kaptur,standart,petrol,3.38,2013,16840,2017,0,electro_bug
+w-1621786t,VW Polo VI,economy,petrol,4.7,2014,1436,2018,2,another_bug
+l-2171926c,Skoda Rapid,economy,petrol,4.8,2017,48399,2018,2,gear_stick
+A17076126Z,Kia Rio X-line,economy,petrol,4.04,2013,14772,2018,3,electro_bug
+h22721127k,Smart ForFour,economy,petrol,3.76,2017,52875,2014,0,break_bug
+w-4091592m,Kia Rio X,economy,petrol,6.86,2014,9324,2015,0,engine_check
+f-1778335R,Kia Rio X-line,economy,petrol,4.86,2011,48828,2016,0,break_bug
+W66985888Y,Kia Rio X-line,economy,petrol,4.64,2011,54006,2020,0,gear_stick
+N79716384t,Smart ForTwo,economy,petrol,4.96,2014,8180,2018,0,gear_stick
+e17100622M,Fiat 500,business,petrol,4.2,2014,502,2017,0,break_bug
+N11202759e,Kia Rio X,economy,petrol,2.28,2012,35240,2019,0,engine_fuel
+K-2283983n,Kia Sportage,standart,petrol,5.24,2012,37010,2017,0,engine_check
+H68908553k,Kia Rio,economy,petrol,2.8,2015,17615,2015,0,engine_overheat
+x-1272410q,Renault Sandero,standart,petrol,4.18,2015,14825,2021,1,engine_ignition
+J-2124314k,Hyundai Solaris,economy,petrol,3.58,2015,6695,2015,0,electro_bug
+t-7686460t,Hyundai Solaris,economy,petrol,4.34,2013,22072,2014,0,another_bug
+S-2163444S,VW Tiguan,economy,petrol,5.92,2013,14096,2018,0,engine_ignition
+g-1298725h,Kia Rio,economy,petrol,4.96,2015,18905,2015,0,engine_fuel
+T11123962L,VW Polo VI,economy,petrol,4.1,2014,441,2022,0,wheel_shake
+M-1538895e,Nissan Qashqai,standart,petrol,4.86,2014,1214,2022,0,break_bug
+D-1479626Y,VW Polo VI,economy,petrol,4.16,2015,18065,2018,0,engine_overheat
+A11807695O,VW Polo VI,economy,petrol,4.08,2011,52552,2019,0,engine_fuel
+I-6717353n,Kia Rio X-line,economy,petrol,5.3,2015,15328,2016,1,break_bug
+s-1279654a,Kia Rio,economy,petrol,4.2,2014,4489,2017,0,break_bug
+H-4293906U,Nissan Qashqai,standart,petrol,5.5,2014,5027,2019,0,break_bug
+E-9061192K,Kia Rio X,economy,petrol,4.48,2011,58248,2022,0,engine_check
+J-1717740L,Mercedes-Benz E200,business,petrol,4.16,2011,51867,2019,0,break_bug
+o-1192002o,Smart ForTwo,economy,petrol,5.12,2015,15396,2019,1,engine_ignition
+Y51811403p,Renault Kaptur,standart,petrol,3.16,2015,16725,2017,0,gear_stick
+w-4047364t,Smart ForFour,economy,petrol,4.94,2015,17155,2016,1,engine_ignition
+C-6654013r,VW Polo VI,economy,petrol,5.28,2015,22923,2017,0,electro_bug
+h-4281534J,Kia Sportage,standart,petrol,5.66,2011,51776,2016,0,engine_ignition
+L35415030P,Smart ForFour,economy,petrol,4.32,2013,20227,2017,0,electro_bug
+N-7657980R,Renault Kaptur,standart,petrol,4.36,2014,6554,2014,0,engine_overheat
+n15662713o,Kia Rio,economy,petrol,4.14,2015,7942,2021,0,engine_overheat
+F72164552p,Volkswagen ID.4 ,premium,electro,2.44,2017,51736,2021,2,gear_stick
+g96990424C,VW Tiguan,economy,petrol,3.66,2016,32326,2020,0,engine_fuel
+e11007443H,Mercedes-Benz GLC,business,petrol,3.3,2013,16005,2021,0,engine_fuel
+Z-8211659J,Hyundai Solaris,economy,petrol,5.14,2015,18646,2018,0,engine_ignition
+e-1243717d,VW Polo,economy,petrol,5.36,2015,17169,2016,0,engine_ignition
+b21498940r,VW Polo VI,economy,petrol,4.58,2015,15406,2014,0,engine_ignition
+R-7687636V,Mini Cooper,business,petrol,5.22,2012,31764,2022,1,engine_fuel
+E-8417764G,Kia Rio,economy,petrol,5.14,2011,60959,2020,0,engine_ignition
+K19523107Y,Smart ForTwo,economy,petrol,3.3,2014,3524,2017,0,gear_stick
+I11235572D,Kia Sportage,standart,petrol,3.88,2015,21498,2016,0,engine_fuel
+q17439699j,Skoda Rapid,economy,petrol,2.86,2015,18229,2020,0,another_bug
+G-1791306A,Smart Coupe,economy,petrol,4.12,2014,1425,2019,0,engine_overheat
+y-2273942m,Kia Rio X,economy,petrol,7.6,2013,11297,2018,1,break_bug
+D-4447470D,Audi Q3,premium,petrol,3.68,2016,27198,2019,0,another_bug
+A-1859696Z,Kia Rio X,economy,petrol,5.06,2013,15343,2019,0,engine_ignition
+c29710263z,Smart ForFour,economy,petrol,3.88,2017,46322,2020,4,engine_fuel
+E12246923K,Kia Sportage,standart,petrol,2.84,2011,47438,2020,0,another_bug
+x-3392026S,Kia Rio X-line,economy,petrol,6.14,2012,37826,2016,0,engine_fuel
+g-1172107b,Smart ForTwo,economy,petrol,6.28,2014,2397,2022,1,wheel_shake
+y43251249z,Audi Q3,premium,petrol,3.9,2013,17583,2020,1,engine_overheat
+y12117011O,Smart ForTwo,economy,petrol,3.5,2016,36731,2019,0,electro_bug
+J14782741P,Renault Sandero,standart,petrol,3.24,2014,268,2016,0,another_bug
+s-2348081o,Kia Rio X-line,economy,petrol,4.18,2015,10993,2017,2,engine_overheat
+B-1491814o,Hyundai Solaris,economy,petrol,5.3,2011,57965,2020,2,wheel_shake
+l-1770973A,VW Polo,economy,petrol,6.44,2013,10989,2019,1,engine_ignition
+L-1531027G,Kia Sportage,standart,petrol,4.82,2011,52514,2019,0,engine_ignition
+f-3400028E,Hyundai Solaris,economy,petrol,5.8,2015,14175,2019,0,engine_ignition
+g-1542742F,Smart Coupe,economy,petrol,4.02,2014,1659,2020,0,engine_fuel
+o18636655A,Smart ForFour,economy,petrol,3.04,2013,16339,2016,0,break_bug
+Q49138727Z,VW Tiguan,economy,petrol,3.84,2017,49740,2021,1,engine_overheat
+j-1192321b,VW Polo VI,economy,petrol,3.8,2012,32958,2022,0,electro_bug
+H42649448G,Smart ForTwo,economy,petrol,2.96,2015,15445,2015,0,engine_check
+k14660831k,Hyundai Solaris,economy,petrol,3.34,2014,3821,2018,0,break_bug
+E12627268X,Kia Rio X,economy,petrol,3.14,2014,1902,2019,0,gear_stick
+X62179569R,Smart Coupe,economy,petrol,3.36,2016,27140,2017,3,another_bug
+D-1066845Z,Skoda Rapid,economy,petrol,5.04,2014,5166,2015,0,engine_check
+d-2149760o,VW Polo VI,economy,petrol,4.58,2013,24154,2015,0,electro_bug
+G-1787322u,VW Polo VI,economy,petrol,4.9,2013,16007,2019,0,engine_ignition
+E-9012455T,Smart ForFour,economy,petrol,6.12,2017,44747,2019,0,another_bug
+e90080003y,VW Polo VI,economy,petrol,3.48,2011,62278,2018,0,another_bug
+W-1543937z,Skoda Rapid,economy,petrol,4.96,2015,12797,2018,0,break_bug
+t-2114511p,Skoda Rapid,economy,petrol,4.42,2014,7167,2015,0,wheel_shake
+P-2816628a,Kia Sportage,standart,petrol,4.86,2011,55524,2019,0,engine_ignition
+t52293264r,VW Polo,economy,petrol,3.88,2011,55087,2019,0,break_bug
+x-6234197x,Renault Sandero,standart,petrol,5.0,2015,15893,2019,0,gear_stick
+G19789367E,Smart ForFour,economy,petrol,4.66,2017,57555,2017,0,engine_fuel
+k-1777772p,Renault Kaptur,standart,petrol,5.14,2011,52190,2015,0,engine_ignition
+V-8877579j,Skoda Rapid,economy,petrol,6.04,2014,7511,2016,0,wheel_shake
+Y-1404304g,Hyundai Solaris,economy,petrol,3.42,2011,54754,2020,1,engine_check
+l-1257126q,Smart ForTwo,economy,petrol,5.82,2017,52218,2016,1,engine_ignition
+S17137939u,Kia Sportage,standart,petrol,3.52,2014,3879,2021,0,another_bug
+V-5237081x,VW Polo VI,economy,petrol,5.08,2013,11275,2022,0,engine_fuel
+B-5628549j,Nissan Qashqai,standart,petrol,5.84,2014,1832,2015,0,engine_fuel
+X-2065524V,Fiat 500,business,petrol,4.72,2012,37184,2018,0,engine_overheat
+T12862219I,Kia Rio X-line,economy,petrol,4.04,2012,42717,2017,0,engine_ignition
+q-1949400F,VW Polo,economy,petrol,6.02,2012,34131,2017,0,break_bug
+k18810170t,Smart ForTwo,economy,petrol,3.96,2014,3674,2018,0,engine_check
+r-1447767x,Kia Rio X-line,economy,petrol,5.46,2015,10613,2018,0,another_bug
+N18210191w,Nissan Qashqai,standart,petrol,2.52,2011,55554,2014,0,electro_bug
+u-2227144a,Nissan Qashqai,standart,petrol,4.36,2013,16938,2017,0,gear_stick
+f18699270I,Renault Sandero,standart,petrol,4.66,2015,12741,2016,1,break_bug
+p27402553S,Audi A3,premium,petrol,3.36,2017,48341,2018,0,engine_ignition
+J53566730T,Hyundai Solaris,economy,petrol,2.86,2013,3932,2018,0,engine_fuel
+o13556871Y,Hyundai Solaris,economy,petrol,4.38,2011,55083,2015,0,engine_overheat
+h16537706N,Nissan Qashqai,standart,petrol,4.3,2011,51718,2018,0,gear_stick
+B48974125q,Kia Sportage,standart,petrol,2.52,2014,946,2018,0,gear_stick
+a44434934I,Renault Sandero,standart,petrol,2.8,2015,14693,2021,1,electro_bug
+w10291325Y,Hyundai Solaris,economy,petrol,3.28,2013,24511,2014,0,engine_ignition
+G-2089640i,Skoda Rapid,economy,petrol,5.76,2015,12963,2019,0,electro_bug
+d-1021565Z,Smart ForFour,economy,petrol,5.62,2016,41635,2020,0,engine_fuel
+r21933206b,Kia Rio,economy,petrol,3.22,2011,52175,2017,0,engine_overheat
+i-1615774R,Smart ForTwo,economy,petrol,4.58,2017,47657,2020,0,engine_overheat
+Z-1225034I,Kia Rio X,economy,petrol,5.5,2011,54574,2020,1,engine_overheat
+t-1593870g,Mercedes-Benz E200,business,petrol,4.56,2014,1232,2017,1,gear_stick
+z15468208o,Tesla Model 3,premium,electro,3.54,2015,12539,2018,0,engine_overheat
+Q38044626M,Skoda Rapid,economy,petrol,4.6,2017,51857,2014,0,engine_overheat
+y-1543617G,VW Tiguan,economy,petrol,5.66,2015,19221,2018,0,engine_overheat
+S-5832265U,VW Polo VI,economy,petrol,5.14,2015,19655,2018,0,electro_bug
+j22721560B,Kia Sportage,standart,petrol,4.84,2014,1038,2019,0,engine_ignition
+o-2222839q,Smart ForFour,economy,petrol,3.76,2017,52805,2020,0,gear_stick
+P72009027a,Skoda Rapid,economy,petrol,3.92,2017,54499,2018,0,wheel_shake
+p78360849S,Tesla Model 3,premium,electro,3.06,2015,10279,2021,0,gear_stick
+S-3626894o,Nissan Qashqai,standart,petrol,5.32,2014,1752,2019,0,break_bug
+u91949873z,Kia Rio X-line,economy,petrol,3.94,2015,17928,2022,0,gear_stick
+w21431200C,Hyundai Solaris,economy,petrol,3.34,2013,27753,2019,0,wheel_shake
+C10466245f,Smart Coupe,economy,petrol,4.1,2013,25467,2020,1,wheel_shake
+S-2152444i,Kia Sportage,standart,petrol,4.02,2012,51052,2017,0,another_bug
+r-2199790c,VW Polo VI,economy,petrol,4.46,2014,2179,2015,0,engine_fuel
+F-8996937H,Skoda Rapid,economy,petrol,5.86,2016,35268,2021,0,gear_stick
+t19542527z,Kia Rio X,economy,petrol,4.36,2012,37744,2014,1,engine_check
+M99036309E,MINI CooperSE,business,electro,4.5,2014,2771,2016,0,another_bug
+f13328417x,VW Tiguan,economy,petrol,4.28,2014,1647,2021,0,electro_bug
+O41125993j,Nissan Qashqai,standart,petrol,4.52,2015,12945,2019,0,engine_fuel
+o18531552J,Skoda Rapid,economy,petrol,3.98,2017,53304,2021,0,gear_stick
+S25850300b,VW Tiguan,economy,petrol,5.0,2017,51111,2022,0,engine_ignition
+E13722004h,Nissan Qashqai,standart,petrol,4.14,2014,2988,2019,0,engine_overheat
+W12509801x,VW Polo,economy,petrol,3.88,2014,4165,2018,0,break_bug
+Y-1601248M,VW Polo,economy,petrol,6.58,2011,54577,2016,0,engine_check
+g26284165h,VW Polo,economy,petrol,4.1,2011,51497,2018,0,engine_overheat
+q11111661t,Smart ForTwo,economy,petrol,3.12,2016,31582,2018,0,gear_stick
+m13322401B,Kia Sportage,standart,petrol,2.7,2011,45105,2019,0,engine_overheat
+t-9118724G,Smart ForFour,economy,petrol,4.96,2017,57031,2019,0,engine_ignition
+r-1341912M,VW Tiguan,economy,petrol,5.54,2014,222,2021,1,engine_check
+w-5536138F,Nissan Qashqai,standart,petrol,5.5,2015,16853,2021,0,electro_bug
+i-2136964f,Renault Sandero,standart,petrol,4.16,2015,17241,2017,0,gear_stick
+h-1692818L,Hyundai Solaris,economy,petrol,4.38,2015,5499,2016,0,engine_check
+G19955815n,VW Tiguan,economy,petrol,4.06,2013,16571,2020,0,electro_bug
+h97002194a,VW Polo VI,economy,petrol,2.6,2011,53804,2017,0,engine_ignition
+e83031171u,VW Polo VI,economy,petrol,4.44,2012,26486,2022,2,another_bug
+i-1580192r,VW Polo VI,economy,petrol,5.6,2013,19414,2020,0,engine_check
+X-1874543y,Smart Coupe,economy,petrol,4.8,2016,33799,2015,0,electro_bug
+h92075335m,Fiat 500,business,petrol,3.64,2012,32855,2019,0,engine_overheat
+A-1407934K,Smart ForFour,economy,petrol,4.74,2015,16806,2014,0,engine_fuel
+X-7808582k,Kia Rio X,economy,petrol,4.2,2015,24893,2020,0,engine_overheat
+G10446372s,Nissan Qashqai,standart,petrol,2.82,2014,6184,2020,2,electro_bug
+O-2528457q,Smart Coupe,economy,petrol,4.78,2016,29101,2021,0,break_bug
+X34201934M,Renault Kaptur,standart,petrol,3.94,2013,26120,2020,0,engine_fuel
+T26114237j,Audi A4,premium,petrol,5.76,2017,57482,2019,3,break_bug
+Q10324100H,Kia Rio X-line,economy,petrol,2.54,2015,9483,2018,0,wheel_shake
+n15624639q,Kia Rio X,economy,petrol,4.18,2015,17152,2020,0,break_bug
+j-1423726t,Kia Rio,economy,petrol,4.94,2011,53639,2014,1,another_bug
+Z-8724295j,Skoda Rapid,economy,petrol,5.32,2015,16889,2018,0,wheel_shake
+e-7981708c,VW Polo,economy,petrol,5.68,2015,23226,2016,0,break_bug
+X51510211d,Audi A3,premium,petrol,3.66,2013,19249,2021,0,engine_ignition
+i-2819040m,Skoda Rapid,economy,petrol,5.14,2016,26306,2019,1,break_bug
+K20105985w,Smart Coupe,economy,petrol,3.76,2014,7109,2019,2,engine_fuel
+l48635670y,Smart ForTwo,economy,petrol,3.58,2015,7348,2020,1,wheel_shake
+e94236744K,Kia Sportage,standart,petrol,3.12,2015,15452,2021,0,electro_bug
+H-2606484d,VW Tiguan,economy,petrol,4.24,2016,30898,2021,1,electro_bug
+J-1654975u,Fiat 500,business,petrol,5.5,2012,30171,2018,0,another_bug
+k-3827662N,VW Polo,economy,petrol,6.66,2012,42986,2016,0,engine_check
+c13503976B,VW Polo VI,economy,petrol,3.58,2012,33852,2020,0,engine_check
+R-5179537S,Kia Rio X-line,economy,petrol,5.36,2012,24105,2015,0,another_bug
+M99783306X,Nissan Qashqai,standart,petrol,3.0,2015,18573,2015,0,engine_check
+m66899538B,Renault Kaptur,standart,petrol,4.88,2015,16878,2018,1,electro_bug
+L-1112822S,Audi A3,premium,petrol,5.22,2015,12438,2021,0,engine_ignition
+i-1283528Y,Nissan Qashqai,standart,petrol,4.36,2015,15809,2016,0,engine_check
+f-7004556U,Nissan Qashqai,standart,petrol,5.4,2011,54790,2020,1,gear_stick
+W-1137163n,Kia Rio X,economy,petrol,4.72,2015,12972,2018,0,gear_stick
+K-1575140v,Audi A3,premium,petrol,5.94,2017,43071,2019,0,engine_ignition
+X70072056N,Nissan Qashqai,standart,petrol,3.42,2015,16650,2016,0,engine_fuel
+C-1039595K,Renault Sandero,standart,petrol,5.2,2012,40621,2016,0,gear_stick
+a22532792L,VW Polo VI,economy,petrol,4.46,2015,18463,2021,0,engine_overheat
+d-2128121T,Audi A4,premium,petrol,3.58,2014,9754,2020,0,engine_overheat
+Q-2083509r,Smart Coupe,economy,petrol,4.96,2014,2341,2022,0,another_bug
+H18742916P,Smart ForFour,economy,petrol,4.26,2015,21641,2015,0,engine_overheat
+m-1870406j,Kia Rio,economy,petrol,4.44,2014,8183,2021,0,another_bug
+x17572573G,Hyundai Solaris,economy,petrol,3.82,2011,54568,2016,0,engine_ignition
+F27868554b,Renault Sandero,standart,petrol,3.14,2011,50505,2020,0,engine_check
+F-2103198x,VW Polo,economy,petrol,4.86,2013,15540,2019,1,gear_stick
+U-4128801B,Smart ForFour,economy,petrol,4.22,2016,31994,2016,2,engine_fuel
+K91243919b,Renault Kaptur,standart,petrol,4.26,2011,54392,2016,0,gear_stick
+D18981959C,Skoda Rapid,economy,petrol,2.32,2015,15642,2021,1,electro_bug
+K-1564060U,Nissan Qashqai,standart,petrol,4.3,2015,16609,2016,4,break_bug
+P-1235099j,MINI CooperSE,business,electro,4.14,2015,20982,2017,1,gear_stick
+h-9571257f,Kia Rio,economy,petrol,4.44,2015,15732,2019,0,engine_fuel
+L80368980J,VW Polo VI,economy,petrol,3.82,2012,30089,2017,0,another_bug
+i-5299237t,Skoda Rapid,economy,petrol,5.06,2015,17350,2017,0,break_bug
+y10569892q,Kia Sportage,standart,petrol,3.84,2015,23858,2020,0,another_bug
+E-4108121I,Kia Rio,economy,petrol,6.66,2014,3067,2021,0,engine_ignition
+i-1640054O,Nissan Qashqai,standart,petrol,5.26,2015,13948,2021,0,engine_ignition
+h22798789x,Hyundai Solaris,economy,petrol,2.46,2015,19773,2014,0,gear_stick
+Q95201750W,Mini Cooper,business,petrol,3.58,2015,14074,2019,0,engine_check
+T-3918855J,Mercedes-Benz E200,business,petrol,3.58,2014,5288,2014,0,engine_check
+l10579202C,Skoda Rapid,economy,petrol,3.0,2016,28468,2020,0,engine_ignition
+l22309371F,Kia Rio X,economy,petrol,4.12,2014,12120,2021,1,engine_overheat
+M-1481522s,VW Tiguan,economy,petrol,4.7,2017,51461,2019,0,engine_ignition
+b53185325N,Skoda Rapid,economy,petrol,4.14,2017,43918,2018,2,wheel_shake
+f-1005787u,Nissan Qashqai,standart,petrol,4.0,2011,48989,2022,0,engine_check
+P13323802s,Kia Rio X-line,economy,petrol,4.1,2014,657,2016,0,another_bug
+L-1493955y,Nissan Qashqai,standart,petrol,3.82,2013,17293,2022,1,engine_check
+F-8686861V,Nissan Qashqai,standart,petrol,3.6,2015,16773,2020,0,break_bug
+x94062600O,Hyundai Solaris,economy,petrol,3.96,2013,19260,2016,0,engine_fuel
+Q-1260425c,Kia Rio,economy,petrol,4.22,2012,38321,2016,0,electro_bug
+X-2082991x,Renault Kaptur,standart,petrol,5.62,2011,51453,2018,0,engine_check
+y13346481U,Smart ForFour,economy,petrol,3.04,2013,16631,2018,0,break_bug
+Y17216999m,Kia Rio X,economy,petrol,2.4,2015,12336,2022,0,gear_stick
+S-8211748H,Nissan Qashqai,standart,petrol,4.12,2013,13983,2018,0,engine_overheat
+k-2187450J,VW Tiguan,economy,petrol,5.38,2017,45718,2022,1,engine_overheat
+t-4713274f,Smart ForFour,economy,petrol,5.3,2017,56261,2016,0,engine_ignition
+n10386281n,Hyundai Solaris,economy,petrol,4.9,2011,46967,2020,0,electro_bug
+n62079672j,Kia Rio X-line,economy,petrol,3.52,2012,32317,2016,0,another_bug
+W-1917208f,Smart ForTwo,economy,petrol,4.64,2014,5065,2022,0,electro_bug
+h-1203944a,Kia Rio,economy,petrol,3.96,2012,38672,2018,1,gear_stick
+u98739777m,VW Polo VI,economy,petrol,3.28,2012,39334,2020,0,another_bug
+B15423516P,Kia Rio,economy,petrol,3.64,2015,13506,2020,0,engine_check
+G-5542446V,Smart ForFour,economy,petrol,4.44,2017,48646,2016,0,another_bug
+V-1255720x,Kia Rio X-line,economy,petrol,4.98,2011,49281,2016,0,engine_overheat
+s11181247v,Renault Sandero,standart,petrol,1.98,2013,23541,2015,0,another_bug
+g-5749880T,Smart ForFour,economy,petrol,3.62,2017,51166,2019,0,gear_stick
+e21679120K,Skoda Rapid,economy,petrol,3.32,2014,2560,2020,1,electro_bug
+z22534765Q,VW Polo VI,economy,petrol,3.4,2011,50643,2022,0,engine_ignition
+S20713162X,Kia Sportage,standart,petrol,3.68,2013,20213,2017,0,engine_overheat
+J13303709D,Smart ForTwo,economy,petrol,5.02,2016,35108,2020,1,electro_bug
+n-4726408X,Kia Sportage,standart,petrol,4.14,2012,42349,2018,0,gear_stick
+e51076186a,Renault Sandero,standart,petrol,4.22,2013,20699,2017,0,engine_fuel
+o22514076B,Mercedes-Benz E200,business,petrol,4.9,2015,16885,2022,1,engine_check
+J-6475732d,Kia Sportage,standart,petrol,5.32,2015,16801,2022,1,engine_check
+v-1563754b,Kia Sportage,standart,petrol,4.1,2015,15000,2017,1,engine_check
+z15218592m,Hyundai Solaris,economy,petrol,4.42,2015,12163,2017,0,wheel_shake
+r-8347687z,Kia Rio X,economy,petrol,5.2,2014,6149,2016,1,wheel_shake
+O-1876262w,Renault Sandero,standart,petrol,5.92,2013,20003,2014,0,engine_ignition
+j-2124503b,Smart ForFour,economy,petrol,5.1,2017,47719,2018,0,another_bug
+J39993783J,VW Polo VI,economy,petrol,4.44,2015,13321,2016,0,engine_ignition
+V98175691y,Smart ForTwo,economy,petrol,3.98,2013,17151,2018,0,engine_fuel
+Y-1478743b,Kia Rio X-line,economy,petrol,5.24,2011,52708,2015,0,break_bug
+O15368178U,Skoda Rapid,economy,petrol,5.12,2013,17756,2020,0,another_bug
+T18866878V,Volkswagen ID.4 ,premium,electro,2.8,2016,37616,2020,0,engine_ignition
+f-2218144S,VW Polo VI,economy,petrol,6.26,2014,2238,2019,0,gear_stick
+V-1481957N,Smart ForFour,economy,petrol,4.82,2016,36962,2017,0,engine_ignition
+W18156907s,Renault Sandero,standart,petrol,4.48,2013,18393,2018,0,gear_stick
+e-2018060J,VW Polo VI,economy,petrol,6.0,2014,4851,2019,3,engine_fuel
+k14994726w,Smart Coupe,economy,petrol,3.9,2014,4137,2016,0,another_bug
+s-2232450Z,Nissan Qashqai,standart,petrol,4.2,2013,18275,2017,1,gear_stick
+D-2309312C,Mercedes-Benz GLC,business,petrol,5.3,2015,19954,2019,0,gear_stick
+Z81581925h,Kia Sportage,standart,petrol,3.86,2015,24705,2021,0,engine_overheat
+Z-8242208a,Kia Sportage,standart,petrol,5.96,2011,48711,2018,0,electro_bug
+I92922809q,Kia Rio X-line,economy,petrol,3.32,2014,1090,2020,1,gear_stick
+y97857448q,Kia Rio X,economy,petrol,4.24,2015,16223,2019,0,engine_overheat
+P95406600A,Smart Coupe,economy,petrol,4.72,2013,13542,2022,0,electro_bug
+q38457434Q,Smart Coupe,economy,petrol,3.3,2016,33790,2021,0,engine_check
+Q-1198729M,Smart Coupe,economy,petrol,4.3,2017,50862,2014,0,break_bug
+Q48013119s,VW Tiguan,economy,petrol,3.46,2015,16499,2020,0,gear_stick
+W99956122p,Kia Rio X-line,economy,petrol,4.4,2013,11809,2022,1,wheel_shake
+K-1820922E,Kia Rio,economy,petrol,5.22,2014,2372,2014,1,engine_overheat
+L22276266u,Hyundai Solaris,economy,petrol,4.5,2013,15363,2020,0,gear_stick
+P38462979Z,Nissan Qashqai,standart,petrol,4.46,2015,18118,2018,0,electro_bug
+M-1113321T,Kia Rio,economy,petrol,5.5,2014,577,2021,1,gear_stick
+l-1576612o,VW Tiguan,economy,petrol,4.88,2015,19347,2018,0,engine_check
+A-2183126h,VW Polo VI,economy,petrol,5.58,2015,13810,2020,0,engine_check
+C21554967F,Nissan Qashqai,standart,petrol,4.36,2011,50988,2016,1,engine_ignition
+F21122891t,Smart ForFour,economy,petrol,4.74,2016,32432,2022,0,engine_check
+M49063601S,Hyundai Solaris,economy,petrol,3.92,2015,15002,2019,0,engine_fuel
+P-1213298R,Smart ForTwo,economy,petrol,4.76,2017,47934,2021,1,gear_stick
+f16033759o,Kia Sportage,standart,petrol,3.26,2012,42051,2017,0,electro_bug
+B18209129u,Skoda Rapid,economy,petrol,4.3,2014,3890,2016,0,gear_stick
+u12124066l,Hyundai Solaris,economy,petrol,3.44,2012,45596,2016,0,engine_overheat
+L84824528l,Renault Kaptur,standart,petrol,3.84,2012,31626,2019,0,engine_check
+Y-4646772H,Kia Rio,economy,petrol,4.66,2013,16690,2020,0,engine_check
+q-1169667m,Skoda Rapid,economy,petrol,5.1,2017,60618,2016,1,wheel_shake
+B-1317745G,Kia Rio X,economy,petrol,4.58,2013,16051,2016,0,break_bug
+M-9084252U,Renault Kaptur,standart,petrol,5.62,2014,3151,2016,1,gear_stick
+g14125099U,Renault Kaptur,standart,petrol,4.46,2013,21716,2018,1,engine_ignition
+I-1564500i,VW Polo,economy,petrol,6.2,2014,13737,2019,0,engine_overheat
+i-8726974K,Audi A3,premium,petrol,5.56,2017,52160,2022,2,another_bug
+a-4955883N,Smart Coupe,economy,petrol,4.3,2017,49226,2017,1,engine_ignition
+l-1928781M,Nissan Qashqai,standart,petrol,5.42,2013,14573,2015,0,engine_fuel
+W12580302G,Renault Kaptur,standart,petrol,4.6,2013,15661,2017,2,gear_stick
+j-3499139Q,Smart ForFour,economy,petrol,5.98,2016,27960,2018,1,wheel_shake
+B14454999A,VW Tiguan,economy,petrol,3.26,2015,17634,2019,0,gear_stick
+L-1663345h,Nissan Qashqai,standart,petrol,6.84,2015,18223,2019,0,engine_fuel
+v22620290X,Renault Sandero,standart,petrol,5.28,2013,13675,2018,0,engine_ignition
+E-4091251m,VW Polo VI,economy,petrol,4.68,2014,6158,2018,1,gear_stick
+q-1563165i,Smart Coupe,economy,petrol,4.38,2015,18133,2019,0,engine_ignition
+Y-6613026J,Nissan Qashqai,standart,petrol,4.74,2013,17369,2019,0,gear_stick
+O30095908C,Smart ForFour,economy,petrol,3.62,2017,52022,2020,0,wheel_shake
+D-1994652K,Renault Sandero,standart,petrol,3.88,2012,35297,2017,0,engine_overheat
+H-1001644w,VW Polo VI,economy,petrol,4.38,2014,106,2017,0,engine_overheat
+r-1339564T,Kia Sportage,standart,petrol,3.8,2015,13167,2017,0,another_bug
+f13531899m,Smart ForTwo,economy,petrol,2.88,2015,17429,2019,0,engine_ignition
+V-5361933I,VW Tiguan,economy,petrol,4.82,2017,53228,2019,0,another_bug
+U78763620H,Skoda Rapid,economy,petrol,4.18,2013,21285,2017,1,electro_bug
+E15615343c,Skoda Rapid,economy,petrol,4.1,2017,49975,2018,0,engine_fuel
+t52407278I,Nissan Qashqai,standart,petrol,4.14,2014,888,2018,0,gear_stick
+y22443120p,Mercedes-Benz GLC,business,petrol,4.26,2012,34910,2019,0,gear_stick
+w71050700w,Hyundai Solaris,economy,petrol,4.28,2012,35461,2019,0,another_bug
+F21519038g,Kia Rio X,economy,petrol,3.36,2012,35255,2017,0,gear_stick
+m17631856p,Renault Kaptur,standart,petrol,3.66,2011,55112,2022,0,engine_fuel
+A68195108Y,VW Polo VI,economy,petrol,3.74,2015,18440,2016,0,engine_overheat
+n95513742A,Kia Sportage,standart,petrol,3.96,2013,16825,2016,0,engine_check
+c-1436461Y,VW Polo,economy,petrol,4.52,2011,58005,2020,2,another_bug
+m23111356G,Renault Sandero,standart,petrol,2.02,2015,17119,2017,0,engine_fuel
+U-1149711d,Smart ForFour,economy,petrol,5.44,2016,40653,2019,0,wheel_shake
+q28460155o,Kia Rio X-line,economy,petrol,3.56,2013,18222,2020,2,engine_ignition
+W94278962a,Kia Rio X,economy,petrol,4.06,2014,5581,2017,0,gear_stick
+T12672895S,VW Polo VI,economy,petrol,4.4,2014,3655,2020,1,engine_overheat
+B-7061824g,Smart Coupe,economy,petrol,4.7,2017,47727,2020,0,engine_check
+P-5811265z,Hyundai Solaris,economy,petrol,5.38,2012,34890,2019,0,engine_check
+x11261989Z,VW Polo,economy,petrol,2.46,2015,12546,2020,1,engine_fuel
+q-1292137X,Audi Q3,premium,petrol,5.16,2013,22619,2017,0,engine_ignition
+m-4050444v,VW Tiguan,economy,petrol,4.82,2014,439,2018,1,engine_check
+d-6306152w,Kia Rio,economy,petrol,6.14,2013,19082,2021,0,another_bug
+Z14609843Y,Mercedes-Benz E200,business,petrol,3.44,2012,32310,2019,1,engine_ignition
+O-1416889M,Renault Kaptur,standart,petrol,4.8,2011,58360,2018,0,engine_overheat
+S-2020664Z,Kia Rio X,economy,petrol,4.58,2013,16785,2017,0,gear_stick
+s68445761c,Smart Coupe,economy,petrol,3.36,2015,15434,2018,0,engine_fuel
+h67591887F,Smart ForTwo,economy,petrol,4.78,2016,32189,2019,0,engine_ignition
+g99563723z,Smart Coupe,economy,petrol,6.02,2016,38409,2019,0,electro_bug
+C18280438G,Kia Sportage,standart,petrol,4.12,2011,52637,2018,0,electro_bug
+C22779030u,VW Tiguan,economy,petrol,4.4,2013,16786,2020,0,wheel_shake
+k11709422T,Skoda Rapid,economy,petrol,3.82,2015,16700,2016,0,engine_overheat
+a-1878767M,Hyundai Solaris,economy,petrol,4.38,2013,6854,2019,0,engine_fuel
+e-5715470r,VW Polo,economy,petrol,4.98,2015,16736,2018,0,engine_overheat
+T12508218d,Kia Rio X-line,economy,petrol,3.86,2014,1978,2018,0,break_bug
+s46428106x,Mini Cooper,business,petrol,4.54,2011,55993,2018,0,gear_stick
+W-2038018U,VW Polo,economy,petrol,4.0,2015,17279,2017,1,engine_overheat
+j93831613T,Renault Kaptur,standart,petrol,3.9,2013,15459,2016,2,gear_stick
+a63818488b,VW Tiguan,economy,petrol,4.82,2017,54210,2019,0,engine_fuel
+D63093048p,Nissan Qashqai,standart,petrol,3.62,2012,34195,2015,0,engine_overheat
+J-1591152g,Smart Coupe,economy,petrol,5.72,2017,54513,2021,0,engine_overheat
+X-1089481Z,Smart Coupe,economy,petrol,4.86,2013,21990,2018,0,wheel_shake
+S12140588g,VW Polo VI,economy,petrol,3.86,2012,35737,2014,0,another_bug
+R54553066C,Kia Rio X-line,economy,petrol,1.96,2015,10459,2015,0,break_bug
+X21083825w,VW Polo,economy,petrol,4.44,2015,21890,2019,1,electro_bug
+O-1274834S,Smart Coupe,economy,petrol,4.68,2016,38911,2020,0,engine_fuel
+E-2130177T,VW Polo,economy,petrol,5.32,2015,14366,2017,4,electro_bug
+A-1630997K,Kia Rio,economy,petrol,6.12,2014,3935,2015,0,engine_check
+S57207962W,VW Polo VI,economy,petrol,3.08,2011,55243,2016,0,engine_overheat
+N-2301035V,Skoda Rapid,economy,petrol,3.14,2013,18375,2020,2,another_bug
+i24654829I,VW Polo,economy,petrol,4.0,2014,3636,2019,0,engine_ignition
+L18580805T,Renault Sandero,standart,petrol,3.92,2011,45622,2018,0,another_bug
+N71025871g,Renault Kaptur,standart,petrol,2.5,2013,24195,2021,0,engine_fuel
+D-1957612m,Kia Rio,economy,petrol,4.84,2013,13183,2015,0,electro_bug
+y-1951166h,Kia Sportage,standart,petrol,4.7,2014,5047,2016,0,engine_ignition
+H27321842w,VW Tiguan,economy,petrol,3.8,2017,47765,2020,1,engine_ignition
+I21575724i,VW Tiguan,economy,petrol,3.18,2014,7265,2021,0,engine_overheat
+r-1676470t,Kia Rio X,economy,petrol,5.56,2012,39993,2016,3,electro_bug
+X-3542710h,VW Polo VI,economy,petrol,4.66,2011,56769,2016,0,another_bug
+G13092238Z,Skoda Rapid,economy,petrol,4.68,2013,21320,2020,1,engine_check
+W21849970x,VW Tiguan,economy,petrol,4.14,2015,11988,2019,0,engine_overheat
+g-4375951w,Nissan Qashqai,standart,petrol,4.72,2015,24458,2021,0,engine_fuel
+F-5087291J,VW Polo VI,economy,petrol,4.52,2011,52362,2017,0,engine_overheat
+d20377494o,Audi A4,premium,petrol,3.74,2016,38957,2019,0,engine_overheat
+a15360352g,Nissan Qashqai,standart,petrol,3.9,2012,34301,2019,0,engine_fuel
+T-1032406V,Skoda Rapid,economy,petrol,5.16,2017,53914,2018,0,engine_ignition
+Z-3897630w,Renault Kaptur,standart,petrol,5.58,2014,7162,2020,2,gear_stick
+I36036237M,Renault Kaptur,standart,petrol,2.52,2012,26364,2017,0,engine_overheat
+M-2165919u,VW Polo VI,economy,petrol,5.4,2013,19653,2019,0,engine_fuel
+S-3067436k,Renault Sandero,standart,petrol,4.42,2013,12197,2018,0,another_bug
+G-1111442G,Smart ForTwo,economy,petrol,5.14,2016,35381,2016,0,engine_ignition
+A26051503Z,Fiat 500,business,petrol,2.9,2014,1095,2020,0,another_bug
+m-9927261k,Renault Sandero,standart,petrol,4.64,2011,52012,2017,0,gear_stick
+D32712347R,Smart Coupe,economy,petrol,4.22,2015,17823,2022,0,engine_fuel
+g12681410f,VW Polo,economy,petrol,3.36,2011,57709,2015,0,break_bug
+t90470636v,Kia Rio X,economy,petrol,3.78,2014,3003,2022,1,electro_bug
+h-2233953U,Smart ForTwo,economy,petrol,4.96,2016,33360,2020,0,break_bug
+z-2204581D,Skoda Rapid,economy,petrol,5.42,2014,3969,2016,1,break_bug
+u38222273q,Smart Coupe,economy,petrol,4.9,2014,1893,2020,0,engine_overheat
+D-9098797e,Renault Kaptur,standart,petrol,5.76,2014,10671,2016,0,another_bug
+A45520254p,Renault Kaptur,standart,petrol,3.56,2015,17504,2019,1,electro_bug
+A-1068587k,VW Polo VI,economy,petrol,3.86,2014,3275,2015,1,engine_check
+W13184799z,Kia Sportage,standart,petrol,4.2,2011,51641,2019,0,engine_fuel
+b-2854087F,Kia Rio,economy,petrol,7.08,2014,9797,2014,3,wheel_shake
+F19998626N,Smart Coupe,economy,petrol,3.88,2017,55581,2015,0,engine_fuel
+d17055478F,VW Polo VI,economy,petrol,2.92,2011,52369,2017,0,engine_check
+e-1659311C,VW Polo,economy,petrol,4.7,2014,6957,2017,1,engine_overheat
+w10335566J,Mercedes-Benz GLC,business,petrol,4.1,2011,55975,2019,0,break_bug
+t61919600Y,BMW 320i,business,petrol,3.54,2015,9096,2018,0,engine_check
+l-6795140e,VW Polo VI,economy,petrol,3.62,2012,39621,2017,0,wheel_shake
+A33112065k,Hyundai Solaris,economy,petrol,3.8,2015,27665,2021,0,engine_ignition
+k-1858321h,VW Polo VI,economy,petrol,4.82,2011,53263,2015,0,engine_overheat
+w36526108Q,Renault Kaptur,standart,petrol,3.32,2012,41255,2019,0,electro_bug
+M41348450r,Renault Kaptur,standart,petrol,5.26,2015,20120,2019,0,engine_ignition
+q18578501N,Renault Kaptur,standart,petrol,2.56,2014,2015,2016,0,gear_stick
+V-1967589L,Hyundai Solaris,economy,petrol,4.2,2015,8072,2020,0,wheel_shake
+a11682936Y,Kia Rio X-line,economy,petrol,4.0,2012,30856,2017,0,engine_fuel
+n-1451898n,Kia Rio,economy,petrol,4.98,2012,37895,2021,0,another_bug
+V-2266044b,Smart Coupe,economy,petrol,4.28,2017,53094,2019,0,engine_check
+z-9489317C,Hyundai Solaris,economy,petrol,6.92,2015,16812,2018,0,electro_bug
+V44976582G,Hyundai Solaris,economy,petrol,5.34,2015,20006,2020,1,engine_check
+j-1433582T,Nissan Qashqai,standart,petrol,5.38,2015,13516,2021,0,engine_check
+t-2112409W,VW Tiguan,economy,petrol,5.26,2016,40544,2018,0,break_bug
+x21761438l,Renault Kaptur,standart,petrol,2.88,2015,13619,2019,0,engine_check
+E85004787H,Smart Coupe,economy,petrol,4.7,2015,20079,2015,0,engine_ignition
+d-6775160j,VW Tiguan,economy,petrol,5.04,2017,56335,2019,0,engine_fuel
+m10849879I,Mercedes-Benz GLC,business,petrol,3.8,2014,2543,2019,1,another_bug
+S-1643092C,Kia Sportage,standart,petrol,4.88,2015,17342,2016,0,engine_fuel
+q21632737t,Skoda Rapid,economy,petrol,5.0,2014,15931,2015,0,gear_stick
+T-5081548g,Smart ForFour,economy,petrol,4.9,2016,31658,2017,1,wheel_shake
+W16199581Z,VW Tiguan,economy,petrol,4.22,2016,31191,2019,0,engine_fuel
+u53502544J,MINI CooperSE,business,electro,5.02,2013,15626,2022,0,engine_ignition
+v14118393z,Kia Rio X-line,economy,petrol,4.74,2013,20636,2017,0,engine_ignition
+Z11479600W,VW Polo VI,economy,petrol,2.68,2013,17496,2016,0,break_bug
+S16100677i,Kia Rio X-line,economy,petrol,4.32,2011,49335,2019,0,engine_ignition
+Z-4558176a,Kia Rio,economy,petrol,4.54,2015,22610,2019,0,engine_fuel
+s-7878735n,Smart Coupe,economy,petrol,4.5,2013,18682,2015,0,another_bug
+P-8586496Y,Kia Sportage,standart,petrol,6.4,2011,48386,2022,1,engine_fuel
+T10388284N,VW Polo,economy,petrol,2.54,2013,16920,2017,0,break_bug
+A37818469X,Smart ForFour,economy,petrol,4.0,2015,17391,2016,0,another_bug
+s-4176121E,Kia Rio X,economy,petrol,5.16,2015,10268,2021,0,gear_stick
+p-1579893R,Skoda Rapid,economy,petrol,5.36,2013,18825,2017,2,electro_bug
+N-1398518b,Smart ForFour,economy,petrol,4.14,2017,50374,2019,1,engine_fuel
+x-1357879O,Audi Q3,premium,petrol,6.1,2013,18736,2020,0,engine_overheat
+A-2259873R,Kia Sportage,standart,petrol,5.2,2013,17187,2020,0,another_bug
+z58055786O,Nissan Qashqai,standart,petrol,3.68,2014,2445,2016,0,engine_check
+X-2858474S,Nissan Qashqai,standart,petrol,5.14,2011,49634,2021,0,electro_bug
+h47658739N,VW Polo VI,economy,petrol,4.48,2012,33613,2018,0,break_bug
+Y-1557667C,Nissan Qashqai,standart,petrol,4.8,2011,59280,2020,0,engine_ignition
+t-4864011r,Kia Sportage,standart,petrol,5.12,2014,384,2020,0,engine_fuel
+N39022312c,Smart ForFour,economy,petrol,3.88,2016,47221,2020,1,engine_check
+z-1320591W,Smart ForTwo,economy,petrol,6.08,2015,16875,2015,0,gear_stick
+W50413234I,Nissan Qashqai,standart,petrol,5.14,2014,791,2014,0,engine_fuel
+L13705178I,Kia Sportage,standart,petrol,2.7,2015,12193,2015,0,engine_fuel
+V15768685f,Renault Sandero,standart,petrol,3.6,2014,23,2017,0,gear_stick
+U-1525984r,Smart ForTwo,economy,petrol,5.42,2017,52723,2019,1,engine_check
+N15127735k,VW Tiguan,economy,petrol,4.82,2013,19907,2021,0,engine_check
+C-2232175T,Kia Rio X-line,economy,petrol,4.62,2013,14595,2019,1,engine_fuel
+O31179338Q,Smart ForFour,economy,petrol,2.46,2015,19634,2018,0,break_bug
+T20480868n,Renault Kaptur,standart,petrol,4.0,2014,561,2016,0,another_bug
+m-2905799Q,VW Polo,economy,petrol,5.04,2014,1599,2016,1,engine_overheat
+D14925204t,Kia Rio X,economy,petrol,3.92,2014,3111,2020,0,break_bug
+p-1962381F,Kia Rio,economy,petrol,4.2,2013,16587,2022,0,gear_stick
+e18864617R,Nissan Qashqai,standart,petrol,3.46,2012,43631,2019,0,engine_fuel
+O-6579514E,Hyundai Solaris,economy,petrol,5.36,2015,18800,2019,0,engine_check
+k80622724j,Nissan Qashqai,standart,petrol,3.58,2015,16531,2014,0,gear_stick
+K-4097316R,Kia Rio X,economy,petrol,4.34,2015,15493,2018,0,engine_fuel
+s53455608e,VW Polo,economy,petrol,3.2,2014,11354,2016,0,electro_bug
+e15333620a,Smart Coupe,economy,petrol,2.0,2017,52514,2022,0,break_bug
+o-2037518A,Skoda Rapid,economy,petrol,4.6,2017,50155,2017,2,gear_stick
+j21631473o,Hyundai Solaris,economy,petrol,4.36,2015,26688,2020,2,wheel_shake
+S-4267549U,Kia Rio X-line,economy,petrol,4.8,2015,24601,2022,0,electro_bug
+J-8785624c,Hyundai Solaris,economy,petrol,4.92,2011,51391,2018,1,engine_check
+F-1281291q,VW Polo VI,economy,petrol,6.16,2014,8807,2015,0,break_bug
+L13752227Q,VW Tiguan,economy,petrol,3.08,2013,16202,2021,0,break_bug
+m16409016k,MINI CooperSE,business,electro,3.92,2013,17305,2015,0,engine_fuel
+A-1338472f,Renault Sandero,standart,petrol,7.12,2012,41622,2018,1,engine_ignition
+C-1405148f,Kia Rio X,economy,petrol,4.1,2011,60866,2017,0,engine_fuel
+a-6248530c,Renault Sandero,standart,petrol,3.96,2015,16286,2019,1,gear_stick
+b14461433a,Skoda Rapid,economy,petrol,4.06,2017,55183,2019,0,gear_stick
+j17469537P,VW Tiguan,economy,petrol,3.14,2015,15920,2020,1,engine_overheat
+D-3595666P,VW Polo,economy,petrol,4.8,2015,13243,2017,0,electro_bug
+f99668625v,Smart ForTwo,economy,petrol,4.02,2017,48571,2020,0,engine_fuel
+y-7891908I,Kia Rio X-line,economy,petrol,5.76,2015,20115,2014,0,wheel_shake
+I-1448461p,VW Polo,economy,petrol,5.04,2015,17698,2016,0,engine_fuel
+B-1482952A,Smart ForFour,economy,petrol,4.46,2013,14773,2020,0,engine_check
+X60397339j,Smart ForFour,economy,petrol,3.16,2015,24459,2014,2,engine_ignition
+F13872120Q,Kia Rio X,economy,petrol,3.8,2013,12666,2014,0,engine_fuel
+c-5109324M,Kia Sportage,standart,petrol,5.08,2015,23291,2014,0,break_bug
+d-8243311Q,VW Polo,economy,petrol,3.4,2013,19829,2020,0,another_bug
+W16593813O,VW Polo VI,economy,petrol,3.28,2015,18032,2019,0,engine_check
+M68623657n,Kia Rio,economy,petrol,3.52,2013,15798,2016,0,engine_overheat
+r14780226g,Kia Sportage,standart,petrol,2.34,2014,785,2020,0,electro_bug
+I89870380H,Mercedes-Benz GLC,business,petrol,3.94,2011,50778,2020,1,another_bug
+V-1722155R,VW Tiguan,economy,petrol,4.88,2013,18377,2019,1,gear_stick
+e16347742G,Kia Sportage,standart,petrol,3.6,2013,15694,2018,0,break_bug
+L14999822g,Audi Q3,premium,petrol,4.4,2017,51913,2020,0,engine_check
+h22930182P,Renault Kaptur,standart,petrol,3.6,2015,18963,2018,0,electro_bug
+O-2203372o,Renault Sandero,standart,petrol,5.34,2014,9970,2022,0,gear_stick
+U-1935734S,Smart Coupe,economy,petrol,5.28,2015,21824,2015,0,electro_bug
+u11423664P,Audi A4,premium,petrol,2.94,2017,49894,2019,0,gear_stick
+D38934470g,Smart ForTwo,economy,petrol,4.84,2015,12732,2018,0,engine_overheat
+m16051307r,Kia Rio,economy,petrol,3.18,2015,15531,2020,3,break_bug
+d-4283501h,Smart Coupe,economy,petrol,5.74,2016,24304,2014,0,engine_overheat
+D-1646296j,Renault Sandero,standart,petrol,4.86,2014,1018,2019,0,engine_ignition
+C19415836t,Kia Sportage,standart,petrol,4.1,2014,6207,2019,0,another_bug
+m13129699c,Kia Rio,economy,petrol,4.72,2015,19136,2021,2,engine_check
+b78426373A,Nissan Qashqai,standart,petrol,4.4,2014,1312,2019,0,electro_bug
+f-2088997x,Smart ForTwo,economy,petrol,6.14,2015,17088,2017,0,engine_ignition
+S-1029987X,VW Polo,economy,petrol,5.32,2013,22820,2017,0,engine_fuel
+q68922653p,VW Polo VI,economy,petrol,4.88,2015,17340,2021,0,engine_check
+q57021988j,VW Polo,economy,petrol,4.2,2015,16764,2015,0,electro_bug
+H-4467728t,MINI CooperSE,business,electro,5.12,2015,22899,2016,0,another_bug
+E20928032A,VW Polo,economy,petrol,4.22,2013,21689,2019,0,another_bug
+S-3928733s,Kia Rio X,economy,petrol,5.96,2011,45596,2019,3,wheel_shake
+H10674589f,Kia Sportage,standart,petrol,3.52,2013,16544,2016,0,engine_overheat
+r-7065844f,Smart ForFour,economy,petrol,4.58,2016,35265,2018,0,gear_stick
+R12349507e,Renault Sandero,standart,petrol,3.98,2015,15017,2015,0,engine_fuel
+F17977196F,Smart Coupe,economy,petrol,4.42,2016,31779,2016,0,engine_fuel
+i49760332E,VW Polo,economy,petrol,3.22,2013,22467,2017,0,gear_stick
+y-5971487T,Audi A4,premium,petrol,3.98,2015,13777,2021,1,break_bug
+V69452810I,Kia Sportage,standart,petrol,4.42,2013,13164,2019,1,gear_stick
+O-2900294N,Kia Rio X-line,economy,petrol,5.38,2014,1711,2018,0,engine_ignition
+M18220728B,Smart Coupe,economy,petrol,4.48,2014,1542,2014,1,break_bug
+R81737263O,VW Polo,economy,petrol,3.8,2014,4852,2014,1,wheel_shake
+W-4633718o,Kia Rio X,economy,petrol,6.76,2011,50720,2017,0,wheel_shake
+X-9056876A,Kia Rio X,economy,petrol,3.6,2013,21209,2016,0,engine_check
+L42817487b,Kia Sportage,standart,petrol,4.22,2014,3756,2015,0,engine_fuel
+A17184494L,Kia Rio,economy,petrol,4.0,2015,15812,2018,0,another_bug
+I-6078407r,Mini Cooper,business,petrol,4.26,2014,316,2022,0,engine_fuel
+y15055434f,Smart ForTwo,economy,petrol,5.42,2014,1116,2019,1,engine_check
+d58341737d,Nissan Qashqai,standart,petrol,4.52,2013,15500,2018,0,electro_bug
+c56809342i,Smart ForTwo,economy,petrol,3.94,2017,51849,2018,0,engine_fuel
+h-7608825l,VW Polo VI,economy,petrol,4.96,2012,29666,2019,0,engine_fuel
+l-1208090r,Hyundai Solaris,economy,petrol,5.48,2014,12259,2021,0,engine_overheat
+y84352389t,Hyundai Solaris,economy,petrol,3.92,2015,17853,2015,0,gear_stick
+R-2005270V,Mini Cooper,business,petrol,5.78,2015,16797,2014,0,electro_bug
+w20768921G,Kia Rio X-line,economy,petrol,2.58,2012,45279,2016,2,engine_fuel
+B26906813q,VW Polo VI,economy,petrol,3.44,2013,20554,2015,0,gear_stick
+C-7942751G,Volkswagen ID.4 ,premium,electro,4.32,2017,46114,2018,0,engine_overheat
+C18609080n,Smart Coupe,economy,petrol,2.76,2015,10369,2016,0,break_bug
+c16219587b,Nissan Qashqai,standart,petrol,3.56,2014,112,2017,0,another_bug
+Z-3580508Q,Skoda Rapid,economy,petrol,6.14,2015,20950,2020,0,engine_check
+E-3013252T,Skoda Rapid,economy,petrol,3.76,2014,3730,2016,0,engine_overheat
+Q-1878988H,Kia Rio,economy,petrol,4.0,2015,16816,2016,0,engine_overheat
+t22372738w,VW Tiguan,economy,petrol,4.5,2017,55035,2017,0,electro_bug
+r20661006K,Smart ForTwo,economy,petrol,5.4,2013,12139,2018,1,wheel_shake
+C90470541M,VW Tiguan,economy,petrol,4.84,2015,21953,2021,0,engine_check
+j96153745Y,Smart ForTwo,economy,petrol,2.5,2016,24897,2022,0,engine_fuel
+l22925018P,Renault Kaptur,standart,petrol,3.58,2015,21748,2016,1,engine_check
+q23015723C,Smart ForFour,economy,petrol,2.72,2014,3476,2017,0,engine_ignition
+k-1138357h,Smart ForTwo,economy,petrol,6.08,2016,32160,2021,0,electro_bug
+P-9920881y,Renault Kaptur,standart,petrol,5.86,2013,22747,2020,0,another_bug
+F-1956031b,Renault Sandero,standart,petrol,6.42,2015,20697,2017,1,break_bug
+n-4691384u,Renault Kaptur,standart,petrol,4.78,2013,9860,2016,0,break_bug
+k-9429296g,MINI CooperSE,business,electro,4.68,2014,7885,2015,0,engine_ignition
+c-1241233y,Kia Rio X,economy,petrol,4.72,2011,49646,2016,0,engine_fuel
+K77950095v,Kia Rio,economy,petrol,3.1,2011,54073,2018,0,engine_overheat
+E-1339064J,Renault Sandero,standart,petrol,4.76,2012,36108,2016,0,break_bug
+g10607086a,VW Polo,economy,petrol,3.82,2015,11133,2017,0,another_bug
+R18631377j,Kia Rio X-line,economy,petrol,2.72,2015,16063,2016,0,break_bug
+b17414187M,Kia Rio,economy,petrol,3.28,2015,20127,2021,0,engine_ignition
+q-1934815V,Smart Coupe,economy,petrol,4.42,2017,52755,2018,0,engine_fuel
+u21055007H,Kia Rio X-line,economy,petrol,3.22,2011,49896,2016,0,electro_bug
+e13691021z,Smart Coupe,economy,petrol,3.64,2017,46876,2016,0,wheel_shake
+i-1784034d,Smart Coupe,economy,petrol,3.06,2016,28516,2019,0,engine_overheat
+n-5499269W,Smart Coupe,economy,petrol,6.08,2016,32225,2019,0,electro_bug
+U36597200t,VW Polo,economy,petrol,2.5,2015,20123,2020,0,engine_fuel
+K-1664235M,VW Tiguan,economy,petrol,4.56,2016,31010,2022,1,wheel_shake
+y22036327x,Smart Coupe,economy,petrol,3.04,2016,38636,2018,0,electro_bug
+z-8814980U,Mini Cooper,business,petrol,5.16,2013,17536,2020,1,break_bug
+K-1856415H,Skoda Rapid,economy,petrol,5.22,2015,16614,2020,0,wheel_shake
+P-6695149V,VW Tiguan,economy,petrol,6.06,2015,9636,2020,1,engine_check
+d11333031X,Hyundai Solaris,economy,petrol,2.12,2011,38620,2020,0,gear_stick
+N-2106848R,VW Tiguan,economy,petrol,4.8,2015,12687,2020,0,engine_check
+V19223711u,Kia Rio X,economy,petrol,4.56,2013,21133,2015,0,gear_stick
+y-4694601z,Audi A3,premium,petrol,4.68,2016,30671,2018,1,engine_ignition
+Y-1380720B,Smart ForFour,economy,petrol,4.72,2017,47316,2018,0,engine_ignition
+b-9467495N,Skoda Rapid,economy,petrol,5.62,2013,21647,2015,0,gear_stick
+H-3904735i,Kia Rio X,economy,petrol,4.62,2012,33956,2017,2,another_bug
+Z69838008A,Skoda Rapid,economy,petrol,5.04,2013,19779,2019,0,engine_overheat
+C-1272926b,Skoda Rapid,economy,petrol,4.5,2016,32470,2018,1,another_bug
+k19715869m,Renault Sandero,standart,petrol,4.1,2014,4701,2017,0,another_bug
+p-1035063s,Smart ForFour,economy,petrol,4.2,2017,48184,2021,0,engine_overheat
+i29972783y,VW Tiguan,economy,petrol,3.92,2017,53794,2021,2,engine_ignition
+B-3518476g,Skoda Rapid,economy,petrol,4.62,2015,18200,2015,1,gear_stick
+o25340484Z,VW Tiguan,economy,petrol,4.08,2013,17169,2018,0,engine_fuel
+B-1364937X,Smart ForTwo,economy,petrol,6.16,2015,21219,2022,0,wheel_shake
+W-7475695o,Hyundai Solaris,economy,petrol,5.04,2013,16492,2021,2,gear_stick
+N-1762995T,VW Tiguan,economy,petrol,4.78,2015,16869,2020,0,engine_ignition
+H26877876y,Smart ForFour,economy,petrol,3.76,2017,44885,2020,0,engine_ignition
+N-1274806N,VW Tiguan,economy,petrol,5.76,2015,16329,2018,1,engine_check
+q-3995247r,Smart ForFour,economy,petrol,4.26,2015,15914,2020,1,another_bug
+q-1919823j,VW Polo,economy,petrol,4.78,2011,47733,2020,0,engine_check
+O-1893941g,Smart Coupe,economy,petrol,4.62,2017,44665,2019,0,gear_stick
+v22859760X,VW Tiguan,economy,petrol,4.0,2015,19767,2019,0,electro_bug
+a-1199892x,Skoda Rapid,economy,petrol,5.38,2013,11713,2020,0,break_bug
+K15046364K,Renault Sandero,standart,petrol,3.2,2013,14424,2016,0,break_bug
+b21829334L,VW Tiguan,economy,petrol,3.58,2015,19448,2021,0,break_bug
+L-1229702a,Kia Rio,economy,petrol,5.08,2014,1492,2015,0,engine_ignition
+B19249237G,VW Polo,economy,petrol,3.96,2013,17910,2022,0,wheel_shake
+q-2145312H,Smart ForTwo,economy,petrol,5.32,2013,16393,2017,0,another_bug
+x-1176663r,Kia Rio,economy,petrol,4.72,2015,21622,2019,0,engine_fuel
+A18174486Q,Kia Rio X-line,economy,petrol,4.48,2015,14562,2016,0,wheel_shake
+m-2170480a,Kia Sportage,standart,petrol,4.74,2015,25239,2018,0,gear_stick
+m-1850468g,Audi A3,premium,petrol,4.26,2014,6081,2017,0,gear_stick
+E90261938j,Kia Sportage,standart,petrol,6.22,2012,37821,2018,0,engine_overheat
+d-7743537z,Kia Sportage,standart,petrol,5.54,2013,15645,2018,1,gear_stick
+j34555443Q,Smart Coupe,economy,petrol,5.54,2014,4920,2015,0,engine_ignition
+t-1082634T,Smart Coupe,economy,petrol,4.8,2016,35962,2018,0,wheel_shake
+u-8353397g,VW Polo VI,economy,petrol,5.58,2015,11947,2021,0,engine_ignition
+c-1462839f,Smart ForTwo,economy,petrol,5.16,2015,14420,2015,0,wheel_shake
+b-5695517q,VW Polo,economy,petrol,5.0,2015,14687,2020,1,electro_bug
+l15227126s,VW Polo VI,economy,petrol,3.48,2014,4989,2019,0,gear_stick
+U-2156318y,Kia Rio X,economy,petrol,6.8,2011,52375,2017,0,gear_stick
+E-2303161i,Kia Rio X-line,economy,petrol,4.1,2013,17992,2020,0,engine_ignition
+H-2199252L,VW Tiguan,economy,petrol,6.34,2017,51595,2020,0,break_bug
+u-4205541P,Tesla Model 3,premium,electro,5.36,2017,56240,2018,0,gear_stick
+S91284650u,VW Polo VI,economy,petrol,4.66,2013,10290,2019,0,engine_overheat
+T-2193792c,Skoda Rapid,economy,petrol,5.4,2016,34459,2019,0,electro_bug
+S22591492e,Hyundai Solaris,economy,petrol,4.08,2013,17975,2016,1,wheel_shake
+L-8918922k,Hyundai Solaris,economy,petrol,5.6,2011,58157,2017,0,engine_check
+a62409009p,Nissan Qashqai,standart,petrol,4.56,2012,36164,2022,0,gear_stick
+R-1674730K,Nissan Qashqai,standart,petrol,5.16,2014,433,2017,0,engine_overheat
+J-1076499X,VW Polo VI,economy,petrol,4.18,2012,36184,2020,0,gear_stick
+y-2261667b,Skoda Rapid,economy,petrol,5.1,2014,3182,2015,1,another_bug
+t-8740311N,Audi A3,premium,petrol,4.74,2013,17927,2018,0,gear_stick
+d-4336702N,Hyundai Solaris,economy,petrol,6.68,2014,8656,2014,0,another_bug
+F20409102E,Kia Rio,economy,petrol,2.52,2014,8732,2019,0,break_bug
+W-7642069M,VW Polo,economy,petrol,4.4,2011,53474,2017,0,break_bug
+R-1475482V,Nissan Qashqai,standart,petrol,3.2,2013,24007,2019,0,break_bug
+i-1830383n,Smart Coupe,economy,petrol,4.98,2017,52107,2016,0,break_bug
+g13695164h,Kia Rio,economy,petrol,4.46,2015,21988,2016,0,engine_ignition
+Q-3012677Q,Kia Rio X-line,economy,petrol,5.7,2014,592,2015,1,wheel_shake
+G11749649w,Renault Kaptur,standart,petrol,4.0,2015,18477,2018,0,engine_fuel
+s22645584H,Renault Kaptur,standart,petrol,2.66,2012,42516,2018,0,break_bug
+F79313747B,Smart Coupe,economy,petrol,4.22,2016,35504,2014,0,electro_bug
+W25778056x,Renault Sandero,standart,petrol,3.64,2012,32522,2022,0,engine_ignition
+r14913275J,Kia Sportage,standart,petrol,3.36,2014,3490,2014,0,engine_check
+s11863170n,Kia Sportage,standart,petrol,4.52,2012,39312,2017,0,gear_stick
+Z-4371197v,Renault Sandero,standart,petrol,5.88,2015,14960,2014,2,engine_check
+M19605211b,Renault Sandero,standart,petrol,3.26,2011,58547,2017,0,electro_bug
+s10736193i,VW Tiguan,economy,petrol,4.28,2016,31285,2020,0,break_bug
+A-8213250o,Smart Coupe,economy,petrol,4.78,2014,8532,2015,1,engine_fuel
+i14608758B,Kia Sportage,standart,petrol,3.82,2014,668,2019,0,engine_check
+O16470388T,Kia Sportage,standart,petrol,2.9,2012,33814,2018,0,break_bug
+c84640090U,Kia Rio X,economy,petrol,3.7,2013,19585,2019,0,wheel_shake
+P38842443W,Smart Coupe,economy,petrol,4.78,2017,55222,2015,0,wheel_shake
+u-2100132R,VW Polo VI,economy,petrol,3.92,2011,49131,2015,0,wheel_shake
+r49513238g,Smart ForFour,economy,petrol,3.96,2017,53789,2018,0,electro_bug
+t10318006N,Tesla Model 3,premium,electro,3.5,2017,50126,2021,3,engine_check
+d13276473J,Smart Coupe,economy,petrol,2.34,2013,21549,2020,0,engine_check
+g19377510I,Nissan Qashqai,standart,petrol,3.78,2014,1353,2019,0,electro_bug
+Q-1831642v,VW Polo,economy,petrol,6.04,2015,24022,2015,2,wheel_shake
+d-1429832i,BMW 320i,business,petrol,4.68,2017,53952,2016,1,gear_stick
+a22345753S,Nissan Qashqai,standart,petrol,2.78,2015,20894,2018,0,engine_check
+Z-2119210a,Smart ForFour,economy,petrol,6.14,2014,6200,2018,0,engine_fuel
+w-1284678k,Kia Sportage,standart,petrol,5.66,2015,23103,2016,0,another_bug
+e-2279835Q,VW Tiguan,economy,petrol,5.26,2014,2002,2017,0,electro_bug
+A62911797Y,Kia Sportage,standart,petrol,3.32,2013,10457,2015,0,gear_stick
+I-5574287h,Kia Rio X-line,economy,petrol,3.78,2015,15211,2020,0,gear_stick
+V13042861Z,Smart Coupe,economy,petrol,1.3,2017,42124,2016,0,break_bug
+x20996786P,Kia Rio X,economy,petrol,3.58,2013,22014,2015,1,engine_ignition
+p-4677780T,Kia Rio X,economy,petrol,5.36,2015,16733,2017,0,engine_fuel
+a24739859r,Tesla Model 3,premium,electro,3.18,2014,2873,2020,0,break_bug
+h-3864678D,Kia Rio X-line,economy,petrol,3.9,2011,52310,2018,1,engine_ignition
+B-6210895T,VW Tiguan,economy,petrol,5.38,2016,37924,2019,0,wheel_shake
+S13129577T,Kia Sportage,standart,petrol,2.56,2015,21026,2018,1,electro_bug
+R-1577087P,Renault Kaptur,standart,petrol,4.0,2013,21910,2018,0,another_bug
+Y22921835N,Kia Rio X,economy,petrol,2.78,2014,6161,2014,0,engine_overheat
+g-1110603i,Smart Coupe,economy,petrol,4.24,2017,50669,2018,1,engine_ignition
+h-4374793t,Nissan Qashqai,standart,petrol,4.86,2015,14982,2015,0,gear_stick
+f-2106225D,Audi A3,premium,petrol,3.58,2013,22107,2019,0,engine_fuel
+s-1686032O,Kia Sportage,standart,petrol,4.04,2015,20247,2022,0,electro_bug
+y-1082870y,Nissan Qashqai,standart,petrol,6.7,2014,1136,2021,2,engine_check
+F35794162R,Hyundai Solaris,economy,petrol,4.34,2015,19514,2022,0,engine_check
+d-4369966v,VW Polo,economy,petrol,4.0,2014,81,2019,0,wheel_shake
+n12901969M,Renault Kaptur,standart,petrol,3.44,2014,1384,2014,0,electro_bug
+H18926499F,Tesla Model 3,premium,electro,3.4,2016,33831,2018,0,engine_fuel
+C-1410432l,Kia Sportage,standart,petrol,6.62,2015,17407,2017,0,electro_bug
+q-5532498k,VW Polo VI,economy,petrol,4.86,2011,51584,2018,0,break_bug
+q47853904Y,Smart ForTwo,economy,petrol,3.02,2017,55695,2021,0,engine_ignition
+H11673035g,Smart Coupe,economy,petrol,3.0,2017,51514,2018,0,gear_stick
+C13388431E,Nissan Qashqai,standart,petrol,3.52,2015,10300,2019,0,engine_overheat
+a-1109589o,Skoda Rapid,economy,petrol,4.0,2015,14463,2015,0,engine_overheat
+r-7648601g,Smart Coupe,economy,petrol,5.12,2015,15543,2018,0,another_bug
+a17929943p,VW Polo,economy,petrol,4.5,2015,18424,2014,0,wheel_shake
+l16302299c,Renault Sandero,standart,petrol,4.3,2011,53401,2020,0,gear_stick
+g-2093337f,VW Polo VI,economy,petrol,5.2,2011,56214,2020,0,break_bug
+a14328968W,Fiat 500,business,petrol,3.88,2013,18210,2021,0,engine_overheat
+B55850958k,Kia Rio,economy,petrol,3.88,2015,14920,2017,0,wheel_shake
+m-3261908Y,BMW 320i,business,petrol,3.26,2016,29317,2017,0,engine_fuel
+H-9620360T,Nissan Qashqai,standart,petrol,4.5,2015,16606,2020,0,engine_fuel
+a12259827b,Renault Sandero,standart,petrol,3.38,2014,1380,2015,0,electro_bug
+G14105835f,Skoda Rapid,economy,petrol,4.02,2013,16938,2018,1,electro_bug
+J14596329k,Skoda Rapid,economy,petrol,2.12,2015,9703,2019,0,break_bug
+j19046362K,Skoda Rapid,economy,petrol,3.86,2014,5447,2016,3,another_bug
+E58480077o,Nissan Qashqai,standart,petrol,4.18,2011,51856,2021,0,engine_check
+s86224898S,Smart ForTwo,economy,petrol,3.86,2017,46570,2018,0,engine_fuel
+X-1596071g,Smart ForTwo,economy,petrol,4.48,2017,48366,2020,0,engine_ignition
+w53248354A,Nissan Qashqai,standart,petrol,5.52,2013,18025,2021,0,another_bug
+X27891254l,Renault Kaptur,standart,petrol,3.56,2015,20334,2019,0,gear_stick
+M-2273396F,Skoda Rapid,economy,petrol,6.46,2016,41247,2019,0,electro_bug
+I-9070115C,Audi Q3,premium,petrol,4.44,2015,19056,2021,1,another_bug
+m-2114147J,Kia Sportage,standart,petrol,4.44,2015,14804,2017,0,engine_check
+c74998486l,Audi Q3,premium,petrol,3.22,2017,48048,2021,0,gear_stick
+j-1975888J,Kia Sportage,standart,petrol,4.56,2011,52105,2015,0,engine_ignition
+o11831948f,Kia Sportage,standart,petrol,1.84,2015,13792,2016,0,break_bug
+Y-1612060v,Nissan Qashqai,standart,petrol,5.18,2015,21065,2016,0,electro_bug
+w-1474054e,Kia Rio X-line,economy,petrol,3.98,2013,12488,2018,0,break_bug
+W-2055845V,Renault Sandero,standart,petrol,5.5,2011,54086,2015,0,engine_check
+m16670378T,Nissan Qashqai,standart,petrol,4.06,2012,32164,2017,0,engine_overheat
+W12813124A,VW Polo,economy,petrol,2.76,2011,55311,2015,0,gear_stick
+q-7885101B,Skoda Rapid,economy,petrol,4.76,2017,54468,2017,0,engine_fuel
+P11201055Y,Smart ForTwo,economy,petrol,3.14,2014,997,2014,0,engine_ignition
+Z-6486416N,Kia Rio X-line,economy,petrol,3.9,2012,31829,2018,0,electro_bug
+g-2250790z,Smart Coupe,economy,petrol,4.64,2017,52883,2020,0,break_bug
+z-2092983f,Kia Rio X-line,economy,petrol,4.86,2015,17012,2018,0,electro_bug
+f-3962689s,Smart ForFour,economy,petrol,4.5,2013,21461,2021,0,another_bug
+H22257579w,Kia Rio,economy,petrol,5.22,2013,24001,2018,0,engine_overheat
+b78992199J,Kia Rio,economy,petrol,3.44,2015,21790,2015,0,engine_check
+t-1992572u,Kia Rio X,economy,petrol,5.34,2014,806,2019,0,break_bug
+e74744145N,Renault Kaptur,standart,petrol,3.34,2014,5001,2019,0,another_bug
+u21488632W,Audi Q3,premium,petrol,4.12,2016,37267,2017,0,engine_check
+d19595905T,Renault Kaptur,standart,petrol,5.12,2014,3106,2016,0,engine_overheat
+L-6419315e,Smart Coupe,economy,petrol,4.82,2013,17726,2018,0,electro_bug
+g-1013077i,Smart ForFour,economy,petrol,4.82,2017,47798,2021,0,engine_overheat
+k-1499685h,Renault Kaptur,standart,petrol,3.74,2015,13201,2016,1,engine_fuel
+G-5024926z,Hyundai Solaris,economy,petrol,4.98,2015,13778,2016,0,engine_ignition
+o19490937g,Hyundai Solaris,economy,petrol,4.3,2013,17033,2016,0,break_bug
+U-1591459H,Fiat 500,business,petrol,5.34,2011,46908,2021,2,engine_ignition
+K-1614143Q,Hyundai Solaris,economy,petrol,5.58,2012,36108,2015,0,engine_check
+b-4522853J,Renault Sandero,standart,petrol,5.68,2011,56641,2017,0,engine_ignition
+O-1285342E,Kia Sportage,standart,petrol,4.04,2011,55354,2016,1,gear_stick
+N-2300628t,Hyundai Solaris,economy,petrol,4.7,2011,56309,2020,0,wheel_shake
+G13880350t,VW Polo VI,economy,petrol,3.96,2015,19480,2018,0,break_bug
+k76271184L,Renault Sandero,standart,petrol,2.62,2015,13721,2019,1,engine_check
+T16256189s,Nissan Qashqai,standart,petrol,4.1,2014,2009,2017,0,another_bug
+x20227975X,Kia Rio,economy,petrol,2.74,2013,21635,2018,0,engine_fuel
+v-1194167N,Hyundai Solaris,economy,petrol,5.12,2012,41815,2022,0,engine_check
+g20260568I,VW Tiguan,economy,petrol,3.62,2015,15392,2018,0,another_bug
+z25935244Z,Kia Rio X,economy,petrol,4.26,2013,18211,2020,1,gear_stick
+T-1963618e,VW Tiguan,economy,petrol,4.44,2017,52869,2019,0,engine_fuel
+z16488361D,VW Polo VI,economy,petrol,3.52,2013,20583,2019,0,gear_stick
+N-1150141H,Smart ForFour,economy,petrol,5.58,2015,21537,2020,1,break_bug
+n-1801201k,Smart Coupe,economy,petrol,3.92,2013,19395,2020,1,engine_check
+p11037716K,Kia Rio X-line,economy,petrol,3.62,2013,24859,2017,4,electro_bug
+g21059959g,Kia Rio X,economy,petrol,4.32,2014,612,2021,0,break_bug
+m-4636153K,MINI CooperSE,business,electro,4.04,2012,32295,2016,1,another_bug
+S41578470U,Kia Rio,economy,petrol,1.76,2012,26546,2018,3,another_bug
+A44468918T,Smart ForFour,economy,petrol,3.18,2016,36694,2021,0,engine_overheat
+E76751911Z,Mercedes-Benz E200,business,petrol,5.12,2015,20920,2015,0,engine_ignition
+P30262011P,Nissan Qashqai,standart,petrol,2.4,2013,24933,2020,0,break_bug
+N-2269551i,Hyundai Solaris,economy,petrol,5.12,2012,39722,2020,2,engine_fuel
+L-2244596L,Kia Sportage,standart,petrol,4.82,2013,15332,2020,1,engine_overheat
+a73904810z,Renault Sandero,standart,petrol,3.22,2013,24458,2017,0,engine_fuel
+m-1298196A,Renault Sandero,standart,petrol,4.32,2013,17321,2018,0,break_bug
+g21979165f,Skoda Rapid,economy,petrol,4.46,2015,12023,2019,0,engine_overheat
+n16919189E,Smart ForFour,economy,petrol,3.42,2017,40581,2020,0,gear_stick
+T26348790E,Nissan Qashqai,standart,petrol,3.5,2015,16780,2016,0,engine_overheat
+b-2232499d,Kia Sportage,standart,petrol,4.2,2011,51847,2017,0,engine_check
+N-1163850M,Smart Coupe,economy,petrol,5.54,2016,39266,2016,0,engine_ignition
+i75652484C,Kia Rio X-line,economy,petrol,2.74,2011,50572,2018,0,wheel_shake
+C-3716050r,Kia Rio X,economy,petrol,4.32,2013,18256,2020,0,another_bug
+u-1390684d,Kia Rio X,economy,petrol,4.92,2015,13412,2016,1,electro_bug
+u11932764S,Renault Sandero,standart,petrol,3.88,2013,17791,2018,0,gear_stick
+i19305743s,Hyundai Solaris,economy,petrol,2.98,2015,11979,2019,0,wheel_shake
+s-9129311o,Kia Sportage,standart,petrol,4.22,2015,8341,2020,1,another_bug
+b-9116204s,Kia Sportage,standart,petrol,4.86,2015,12152,2018,0,engine_check
+y25881793g,Kia Sportage,standart,petrol,4.8,2015,20689,2016,1,engine_fuel
+p20784862I,Smart Coupe,economy,petrol,2.74,2015,16431,2020,0,wheel_shake
+W22012423k,VW Polo,economy,petrol,1.8,2013,20144,2015,0,another_bug
+b-1419892M,Kia Rio,economy,petrol,4.32,2013,18353,2018,0,engine_ignition
+J19363590y,Kia Rio X-line,economy,petrol,2.88,2015,12951,2018,0,another_bug
+F-2014448f,Kia Rio X,economy,petrol,4.7,2013,19991,2017,1,gear_stick
+h12734458W,VW Tiguan,economy,petrol,2.8,2017,53549,2020,0,another_bug
+X38351446S,Audi A4,premium,petrol,2.84,2013,24823,2019,1,engine_ignition
+U43022034k,Renault Sandero,standart,petrol,3.16,2015,20147,2018,1,gear_stick
+A-1438618D,Renault Sandero,standart,petrol,5.32,2011,50396,2019,0,break_bug
+K-2604800e,Kia Rio X-line,economy,petrol,4.36,2014,10006,2022,0,engine_fuel
+z40986560u,Kia Rio,economy,petrol,3.66,2012,31738,2017,0,another_bug
+W-1949056u,Kia Rio X,economy,petrol,4.02,2015,17824,2016,0,electro_bug
+h-3324382r,VW Polo,economy,petrol,3.88,2012,41364,2020,0,another_bug
+B34415384D,Smart ForFour,economy,petrol,3.42,2013,17340,2020,0,another_bug
+F14621726S,Mini Cooper,business,petrol,4.42,2012,35182,2018,0,break_bug
+z-9391011l,Audi Q3,premium,petrol,4.36,2017,49696,2020,1,another_bug
+x-2165919g,Smart ForFour,economy,petrol,4.7,2016,34189,2021,0,engine_check
+U17158343f,Renault Sandero,standart,petrol,3.84,2013,21624,2019,0,engine_overheat
+I-1066889o,VW Polo,economy,petrol,4.68,2011,50472,2022,0,engine_overheat
+i10346234k,Kia Rio,economy,petrol,4.48,2011,62702,2016,3,engine_fuel
+L14199898w,Smart ForFour,economy,petrol,4.82,2013,20635,2021,1,electro_bug
+U-1457749o,Renault Kaptur,standart,petrol,3.66,2014,1665,2017,0,engine_check
+w-1261053T,Hyundai Solaris,economy,petrol,5.44,2013,20320,2016,4,engine_check
+G-2133501B,Smart ForTwo,economy,petrol,4.6,2015,17732,2018,0,gear_stick
+C-1436029R,Kia Rio X-line,economy,petrol,3.54,2014,2538,2016,0,engine_overheat
+B-9425050o,Smart Coupe,economy,petrol,4.36,2017,53484,2018,0,wheel_shake
+w75595331T,VW Polo VI,economy,petrol,3.08,2015,15786,2018,0,gear_stick
+U12612811k,Smart ForTwo,economy,petrol,3.86,2016,37752,2015,0,engine_fuel
+f-3323025y,VW Polo,economy,petrol,4.06,2015,17229,2015,0,gear_stick
+O-1298971d,Kia Rio X-line,economy,petrol,5.5,2011,68447,2021,0,engine_fuel
+I25292538B,VW Polo VI,economy,petrol,4.48,2012,36622,2016,0,break_bug
+D13047328g,Nissan Qashqai,standart,petrol,2.82,2015,20021,2019,0,engine_fuel
+i80675297O,Kia Rio X-line,economy,petrol,3.82,2012,38304,2020,0,engine_fuel
+Z-1658251J,VW Tiguan,economy,petrol,4.96,2014,689,2019,0,engine_fuel
+h-1546489S,VW Polo,economy,petrol,4.7,2015,11072,2020,0,engine_check
+V20126338n,Renault Sandero,standart,petrol,4.14,2011,53011,2020,1,another_bug
+I-1365750g,Kia Rio,economy,petrol,4.64,2011,51009,2016,3,gear_stick
+a18208040V,Kia Sportage,standart,petrol,3.96,2015,14862,2020,0,engine_check
+R-1915922E,BMW 320i,business,petrol,5.64,2017,50046,2019,0,break_bug
+w20213991J,Smart Coupe,economy,petrol,3.3,2015,6559,2019,2,another_bug
+U-1236742s,Kia Rio X,economy,petrol,4.0,2012,34251,2021,0,engine_fuel
+E-1123748M,Kia Rio,economy,petrol,4.36,2012,34649,2016,0,another_bug
+t-1941672t,Kia Sportage,standart,petrol,3.92,2013,16034,2020,0,electro_bug
+b-6834819t,Smart Coupe,economy,petrol,6.34,2017,46705,2018,1,engine_ignition
+M-1197961n,Mini Cooper,business,petrol,5.04,2013,21669,2021,0,engine_check
+p17997657z,VW Polo,economy,petrol,3.94,2015,19683,2021,0,another_bug
+b-4483653E,VW Polo,economy,petrol,4.32,2012,34274,2021,0,electro_bug
+Y-1185852v,VW Tiguan,economy,petrol,5.02,2013,13670,2020,0,break_bug
+G21583307F,Smart Coupe,economy,petrol,3.76,2017,57743,2021,0,gear_stick
+b-1339302m,Renault Sandero,standart,petrol,4.56,2011,49022,2021,2,gear_stick
+l58447078W,VW Tiguan,economy,petrol,3.32,2013,19459,2020,0,gear_stick
+X76630032m,Nissan Qashqai,standart,petrol,3.58,2014,3403,2016,0,engine_check
+N-9242492M,Renault Kaptur,standart,petrol,4.42,2013,23525,2018,0,engine_check
+j21277689Z,VW Tiguan,economy,petrol,5.08,2016,38761,2019,1,engine_fuel
+E10500026c,Nissan Qashqai,standart,petrol,4.1,2015,19205,2016,0,gear_stick
+O-3277359n,VW Polo VI,economy,petrol,4.18,2015,18108,2018,0,engine_fuel
+O12721664v,Smart ForFour,economy,petrol,4.42,2014,6276,2017,1,engine_ignition
+E-3430793T,Smart Coupe,economy,petrol,4.54,2015,20430,2014,1,break_bug
+E-2147081L,Smart ForTwo,economy,petrol,5.28,2014,716,2020,0,electro_bug
+N32971490g,Kia Rio X-line,economy,petrol,4.32,2015,16621,2019,0,engine_fuel
+k18184245a,Skoda Rapid,economy,petrol,3.7,2016,39300,2020,0,engine_overheat
+a94936098z,Kia Rio X-line,economy,petrol,2.92,2014,2601,2014,0,electro_bug
+P17943354i,Renault Kaptur,standart,petrol,3.64,2014,5401,2019,0,electro_bug
+Q18184821V,Mini Cooper,business,petrol,1.66,2014,1523,2016,1,engine_overheat
+e11105411N,Smart ForFour,economy,petrol,3.46,2017,56911,2016,0,another_bug
+o-1565131Y,Mercedes-Benz GLC,business,petrol,4.0,2013,19000,2017,0,engine_check
+s-1060741s,Skoda Rapid,economy,petrol,4.74,2015,19413,2021,0,engine_check
+N88148197o,BMW 320i,business,petrol,4.12,2014,2136,2019,0,engine_check
+g55775125g,Renault Sandero,standart,petrol,3.4,2014,832,2015,0,engine_fuel
+Q86110799h,Kia Rio,economy,petrol,4.8,2014,4240,2019,0,engine_check
+U21563223f,Kia Sportage,standart,petrol,3.82,2014,3459,2015,0,engine_fuel
+S-2126588R,VW Polo,economy,petrol,4.66,2015,14065,2016,1,gear_stick
+L16910689l,Kia Rio X,economy,petrol,3.9,2012,34591,2020,0,another_bug
+u69074003g,Kia Rio X,economy,petrol,2.66,2015,19388,2018,0,engine_overheat
+S16017259V,Hyundai Solaris,economy,petrol,4.12,2015,15744,2017,0,engine_overheat
+p51222632f,Hyundai Solaris,economy,petrol,4.36,2014,3069,2016,0,gear_stick
+p36247978w,Kia Rio X-line,economy,petrol,3.9,2015,17440,2021,0,another_bug
+s16800611e,Renault Sandero,standart,petrol,2.54,2015,25386,2016,0,gear_stick
+N-1700263r,Kia Rio,economy,petrol,3.98,2015,15903,2018,0,engine_overheat
+V-8967702u,VW Tiguan,economy,petrol,3.98,2017,47870,2019,0,engine_ignition
+t-7128545q,Kia Rio X,economy,petrol,6.66,2015,18403,2015,0,another_bug
+l-2190954K,Smart ForFour,economy,petrol,4.74,2017,56849,2018,1,break_bug
+p64994544b,Kia Rio X,economy,petrol,4.86,2013,15284,2017,0,engine_overheat
+N19466610n,Kia Rio X,economy,petrol,3.66,2015,14807,2018,0,another_bug
+N11020700c,Smart Coupe,economy,petrol,4.46,2017,48488,2016,1,engine_ignition
+o-2221625T,Nissan Qashqai,standart,petrol,5.08,2014,232,2021,0,another_bug
+L18173575x,Renault Kaptur,standart,petrol,3.92,2011,54342,2022,0,gear_stick
+N87376400F,Smart Coupe,economy,petrol,3.96,2017,46479,2018,0,gear_stick
+U-1466740h,Hyundai Solaris,economy,petrol,4.92,2015,20617,2020,0,engine_check
+O18643844c,Renault Kaptur,standart,petrol,3.06,2015,18208,2020,0,engine_overheat
+z-1737219D,Kia Rio X-line,economy,petrol,4.88,2014,522,2019,0,engine_ignition
+W-2217876W,Nissan Qashqai,standart,petrol,4.96,2012,38037,2015,0,gear_stick
+K92451593A,Kia Rio X-line,economy,petrol,3.64,2015,18425,2021,0,break_bug
+E-1079300m,VW Tiguan,economy,petrol,5.9,2017,58501,2018,1,wheel_shake
+y81140968f,Audi A4,premium,petrol,4.94,2017,50131,2021,0,electro_bug
+Y13572099e,Smart ForFour,economy,petrol,4.2,2016,31414,2020,1,engine_fuel
+S18526691D,Nissan Qashqai,standart,petrol,4.2,2011,48685,2019,0,another_bug
+p-1797124j,Hyundai Solaris,economy,petrol,4.2,2011,49733,2017,0,engine_overheat
+w-9904968o,Kia Rio X,economy,petrol,3.18,2013,20357,2015,0,gear_stick
+r-1662773z,Kia Rio X,economy,petrol,4.98,2014,2883,2017,0,another_bug
+w16336019B,Renault Sandero,standart,petrol,3.66,2015,14920,2018,3,another_bug
+U21891574y,Smart ForFour,economy,petrol,2.74,2017,52903,2019,0,electro_bug
+J13121006y,Tesla Model 3,premium,electro,3.14,2015,20074,2022,0,engine_overheat
+U12204878m,Mercedes-Benz E200,business,petrol,3.94,2014,1192,2016,0,engine_ignition
+h-2030344K,Kia Rio X,economy,petrol,4.34,2015,15302,2017,0,engine_ignition
+l92454420P,Nissan Qashqai,standart,petrol,2.42,2011,54063,2017,0,break_bug
+I-2050523M,Renault Kaptur,standart,petrol,5.06,2015,14904,2018,1,engine_check
+k-3621381A,Renault Sandero,standart,petrol,5.06,2014,7216,2015,0,another_bug
+v19590600j,Kia Rio X,economy,petrol,2.94,2015,18292,2014,0,engine_overheat
+J50952420e,Kia Rio X-line,economy,petrol,4.78,2011,56505,2022,0,gear_stick
+y-1937825b,Audi A3,premium,petrol,4.6,2017,54952,2019,0,engine_check
+S12691157g,BMW 320i,business,petrol,3.38,2017,50607,2015,0,gear_stick
+w-1090124O,Skoda Rapid,economy,petrol,4.82,2017,54116,2017,0,engine_overheat
+j-7450845i,Skoda Rapid,economy,petrol,5.1,2014,78,2017,1,engine_fuel
+C-1780744Q,Renault Sandero,standart,petrol,4.14,2015,13400,2014,0,break_bug
+L13948846F,Kia Rio X,economy,petrol,4.34,2014,2325,2022,0,engine_fuel
+X-6283530f,Hyundai Solaris,economy,petrol,5.44,2013,21400,2016,1,engine_ignition
+N12073924r,Renault Kaptur,standart,petrol,4.78,2012,31205,2018,0,engine_overheat
+p-2034566D,VW Polo,economy,petrol,4.34,2015,10756,2016,0,engine_overheat
+Y-2548532W,Kia Rio,economy,petrol,5.94,2013,23963,2016,0,another_bug
+u12905817d,VW Polo,economy,petrol,3.3,2012,37414,2021,0,engine_check
+g14256736s,Kia Rio X,economy,petrol,4.14,2015,20882,2019,0,break_bug
+Q27813375s,Hyundai Solaris,economy,petrol,4.4,2015,20616,2016,0,break_bug
+K61199450m,Skoda Rapid,economy,petrol,3.88,2016,40939,2016,0,engine_overheat
+i-1902568F,Smart ForFour,economy,petrol,6.18,2017,46138,2015,0,engine_ignition
+m-2170963k,Renault Kaptur,standart,petrol,6.16,2013,16744,2019,0,engine_check
+P16863639d,Kia Rio X,economy,petrol,4.12,2014,491,2014,0,engine_ignition
+T10939790C,VW Polo VI,economy,petrol,3.6,2014,1014,2016,0,break_bug
+Q-1186908k,Mercedes-Benz GLC,business,petrol,4.7,2013,18907,2021,0,break_bug
+h-1417921L,VW Tiguan,economy,petrol,6.18,2015,25658,2019,0,electro_bug
+s-6858154c,Renault Sandero,standart,petrol,6.06,2012,36788,2018,1,engine_check
+n-5089043j,Hyundai Solaris,economy,petrol,4.82,2012,29697,2018,2,gear_stick
+D10053658i,Smart Coupe,economy,petrol,3.58,2014,2488,2016,0,electro_bug
+U-3443452E,Smart ForTwo,economy,petrol,4.74,2016,35014,2016,0,break_bug
+z10722578a,Renault Kaptur,standart,petrol,3.52,2014,3622,2019,0,another_bug
+k11027184U,Audi A3,premium,petrol,4.28,2015,12763,2019,0,engine_ignition
+M-7916378U,Renault Kaptur,standart,petrol,5.88,2011,52928,2019,1,engine_ignition
+q-9778677k,BMW 320i,business,petrol,3.88,2015,12990,2020,0,another_bug
+K-1467109q,Nissan Qashqai,standart,petrol,4.86,2015,10520,2016,0,engine_fuel
+R16699489R,Skoda Rapid,economy,petrol,3.12,2017,48867,2018,0,another_bug
+Z22968561v,Kia Rio X-line,economy,petrol,3.02,2014,512,2016,0,engine_check
+o-3018691A,Mercedes-Benz GLC,business,petrol,4.52,2012,41157,2021,0,another_bug
+c15495796n,Kia Rio,economy,petrol,3.74,2012,35338,2019,0,engine_ignition
+d-1680548Z,Renault Kaptur,standart,petrol,6.38,2013,25479,2015,2,engine_fuel
+r53962754a,VW Tiguan,economy,petrol,3.78,2014,1412,2020,0,electro_bug
+N22964327j,VW Tiguan,economy,petrol,3.02,2017,41724,2022,0,engine_fuel
+O-2205290S,Skoda Rapid,economy,petrol,4.86,2016,32878,2021,0,another_bug
+S-2591659r,Kia Sportage,standart,petrol,6.06,2015,9745,2020,0,engine_check
+V-1419837m,Hyundai Solaris,economy,petrol,3.84,2015,11279,2016,0,engine_check
+a17643694D,Nissan Qashqai,standart,petrol,4.5,2011,51816,2019,0,break_bug
+M-1767313j,VW Polo VI,economy,petrol,6.66,2015,12267,2021,0,engine_overheat
+o13537938p,Hyundai Solaris,economy,petrol,3.58,2014,6407,2017,0,engine_ignition
+h22008842S,Skoda Rapid,economy,petrol,2.74,2015,13851,2021,1,another_bug
+A12544551l,Nissan Qashqai,standart,petrol,4.62,2011,52375,2018,0,gear_stick
+l20623540C,Kia Sportage,standart,petrol,3.62,2015,17308,2021,0,break_bug
+g57020272B,Kia Sportage,standart,petrol,2.74,2011,54663,2019,0,engine_check
+j-5958308w,Kia Rio X,economy,petrol,6.94,2011,55231,2019,0,engine_overheat
+D21609464O,Fiat 500,business,petrol,3.02,2015,18827,2019,2,engine_ignition
+F-9895295Q,Mini Cooper,business,petrol,5.06,2013,625,2019,0,engine_overheat
+i-2118505M,Renault Sandero,standart,petrol,5.14,2014,729,2014,2,engine_overheat
+J18380652T,Kia Rio,economy,petrol,2.52,2011,60386,2016,0,break_bug
+t-1241073D,Smart ForTwo,economy,petrol,5.78,2014,2960,2014,0,wheel_shake
+I82248868V,Smart Coupe,economy,petrol,2.88,2013,17538,2017,0,engine_check
+K-2938500y,Mini Cooper,business,petrol,6.12,2015,23599,2019,0,break_bug
+m-1368978B,Renault Kaptur,standart,petrol,4.82,2012,35432,2021,1,engine_ignition
+T-1436621n,VW Polo VI,economy,petrol,5.04,2013,19803,2019,0,break_bug
+r53588902N,VW Polo,economy,petrol,3.64,2014,2595,2021,0,engine_overheat
+F-1184669Y,Nissan Qashqai,standart,petrol,4.46,2014,1560,2016,0,electro_bug
+q-1746932n,Kia Rio,economy,petrol,5.08,2015,12481,2015,0,engine_overheat
+t-8250216w,VW Polo,economy,petrol,3.52,2012,52469,2018,1,another_bug
+S13387805o,Kia Rio X-line,economy,petrol,3.24,2012,38092,2016,0,break_bug
+J-1338178K,VW Polo VI,economy,petrol,3.78,2013,23114,2019,0,engine_fuel
+j-2083829X,Tesla Model 3,premium,electro,4.86,2015,13111,2021,0,engine_check
+B13604088n,Volkswagen ID.4 ,premium,electro,3.24,2017,55760,2020,0,electro_bug
+w95928122T,VW Polo VI,economy,petrol,3.58,2011,53160,2018,1,engine_check
+j-6399169H,Volkswagen ID.4 ,premium,electro,5.4,2017,52424,2018,0,break_bug
+t19966164y,Smart Coupe,economy,petrol,3.74,2013,11519,2021,1,another_bug
+E-2228873t,Renault Kaptur,standart,petrol,4.98,2012,37566,2021,0,engine_check
+M93410497C,Audi Q3,premium,petrol,4.3,2017,56088,2022,1,gear_stick
+C21197453U,Kia Rio X-line,economy,petrol,3.4,2015,17614,2019,0,wheel_shake
+l-2234844A,Smart ForTwo,economy,petrol,5.46,2017,46891,2017,0,wheel_shake
+g-1009787d,Smart ForFour,economy,petrol,6.36,2015,23934,2019,1,wheel_shake
+G-1654236F,Hyundai Solaris,economy,petrol,4.72,2012,38836,2018,2,electro_bug
+w-2240404F,VW Polo VI,economy,petrol,5.28,2011,50348,2021,1,engine_overheat
+o35310504a,VW Tiguan,economy,petrol,5.18,2015,24683,2021,0,another_bug
+i11115813c,Skoda Rapid,economy,petrol,4.16,2015,16214,2017,0,electro_bug
+Z13699005W,Nissan Qashqai,standart,petrol,4.62,2014,1846,2020,1,engine_overheat
+j16571747f,Kia Rio X,economy,petrol,3.74,2015,20429,2017,0,electro_bug
+T-1599677J,Hyundai Solaris,economy,petrol,6.04,2015,18138,2018,0,break_bug
+Q-7454239I,Nissan Qashqai,standart,petrol,5.4,2015,24359,2016,2,engine_fuel
+p23824603P,VW Tiguan,economy,petrol,4.02,2014,458,2021,0,engine_ignition
+M14327372R,Renault Kaptur,standart,petrol,3.12,2015,15783,2016,0,break_bug
+E91803080M,Kia Rio,economy,petrol,4.52,2011,50258,2019,0,engine_ignition
+a-3698740f,Kia Rio X-line,economy,petrol,5.14,2012,36121,2016,0,wheel_shake
+V-8880380E,VW Tiguan,economy,petrol,4.02,2013,24174,2020,0,engine_fuel
+S22915873O,Hyundai Solaris,economy,petrol,1.6,2015,8446,2016,0,another_bug
+h-1992964L,Skoda Rapid,economy,petrol,4.64,2017,51959,2021,0,engine_check
+W-3614372K,BMW 320i,business,petrol,4.8,2017,56829,2019,0,break_bug
+N78292730L,Smart ForTwo,economy,petrol,3.7,2014,943,2022,0,break_bug
+w-1476666j,Kia Rio X-line,economy,petrol,5.02,2013,21203,2018,1,another_bug
+U-1852269z,Smart ForFour,economy,petrol,5.18,2014,5488,2018,1,wheel_shake
+f-1575728f,VW Tiguan,economy,petrol,5.04,2017,47842,2020,0,engine_ignition
+C42796821V,Kia Rio X,economy,petrol,4.3,2012,26330,2017,0,engine_overheat
+L-1459673r,Skoda Rapid,economy,petrol,5.14,2013,19443,2016,2,wheel_shake
+S87419386u,VW Polo VI,economy,petrol,4.06,2015,25230,2018,2,gear_stick
+u35740536G,Kia Rio X-line,economy,petrol,4.98,2015,22564,2022,0,engine_check
+g-4852599j,Nissan Qashqai,standart,petrol,5.36,2015,14719,2020,0,engine_fuel
+f-1342962l,Hyundai Solaris,economy,petrol,5.04,2014,1471,2017,2,electro_bug
+T11068990H,Kia Rio,economy,petrol,3.3,2015,11167,2014,0,gear_stick
+V70162182i,Renault Kaptur,standart,petrol,3.82,2014,3874,2017,0,engine_overheat
+T-1196430A,Kia Rio X-line,economy,petrol,5.46,2013,21139,2021,2,electro_bug
+M-1920189X,VW Polo VI,economy,petrol,4.56,2015,17590,2014,0,engine_fuel
+A79654354N,Kia Rio,economy,petrol,5.12,2014,4422,2018,0,engine_fuel
+s-3817392d,Kia Rio X-line,economy,petrol,4.74,2015,11444,2016,1,engine_overheat
+y-8109024n,Audi Q3,premium,petrol,5.26,2013,18891,2021,0,another_bug
+D78123844j,VW Tiguan,economy,petrol,3.8,2016,41979,2022,0,another_bug
+x-6073072I,Skoda Rapid,economy,petrol,4.76,2015,23547,2021,1,wheel_shake
+K15311882J,VW Tiguan,economy,petrol,3.14,2013,22791,2020,0,engine_check
+J38937909Y,VW Polo,economy,petrol,2.7,2014,3015,2018,0,engine_overheat
+I-1744285q,Smart Coupe,economy,petrol,4.64,2016,33174,2020,1,engine_fuel
+y-1469749L,Hyundai Solaris,economy,petrol,5.12,2012,39267,2021,3,break_bug
+m-1652142B,Kia Rio X,economy,petrol,5.78,2011,56044,2017,1,engine_overheat
+F-2187849e,Kia Sportage,standart,petrol,4.42,2013,8934,2020,4,engine_ignition
+Y-1962362G,Nissan Qashqai,standart,petrol,5.44,2015,14881,2018,0,engine_check
+u33162704W,Smart ForFour,economy,petrol,4.3,2017,53666,2020,0,engine_overheat
+d15992704L,Smart Coupe,economy,petrol,3.5,2013,19799,2014,0,wheel_shake
+l-1432354n,Volkswagen ID.4 ,premium,electro,5.7,2015,6609,2019,1,gear_stick
+D10513457j,Smart Coupe,economy,petrol,2.74,2014,857,2020,0,engine_check
+v-1706088p,Renault Sandero,standart,petrol,4.5,2015,21874,2014,0,break_bug
+A-1638133u,Audi Q3,premium,petrol,5.0,2015,11286,2019,1,gear_stick
+o-2049634E,Hyundai Solaris,economy,petrol,5.86,2012,33381,2016,1,engine_ignition
+d36373730F,VW Polo,economy,petrol,4.26,2011,59395,2018,1,wheel_shake
+z12120431Y,Smart ForFour,economy,petrol,4.5,2015,19407,2014,0,another_bug
+F-1632053p,Hyundai Solaris,economy,petrol,4.66,2012,41045,2017,0,another_bug
+H-2744073k,Skoda Rapid,economy,petrol,5.76,2017,51390,2015,0,another_bug
+H75311485H,Smart Coupe,economy,petrol,4.02,2013,20154,2014,1,wheel_shake
+V25814848p,VW Polo VI,economy,petrol,3.5,2015,19797,2019,0,engine_ignition
+A26795736l,Renault Kaptur,standart,petrol,4.9,2011,44004,2022,0,another_bug
+j18399131y,Smart ForFour,economy,petrol,2.76,2016,28987,2015,0,electro_bug
+f-2002712D,Fiat 500,business,petrol,4.04,2012,31879,2020,2,engine_ignition
+l-2001969f,Hyundai Solaris,economy,petrol,4.84,2013,14383,2019,0,another_bug
+w-5602418a,Kia Rio X-line,economy,petrol,5.4,2014,802,2020,0,wheel_shake
+W50459560S,Skoda Rapid,economy,petrol,3.96,2013,20189,2018,1,break_bug
+X-1615567Q,Smart ForFour,economy,petrol,4.96,2017,51986,2022,0,engine_overheat
+y24242029O,Nissan Qashqai,standart,petrol,2.82,2015,11386,2016,0,engine_check
+e-2475164H,Kia Rio X-line,economy,petrol,5.14,2011,59477,2015,0,another_bug
+G-1021041e,Kia Rio,economy,petrol,5.92,2011,63304,2019,0,engine_ignition
+n-2660891Q,Nissan Qashqai,standart,petrol,4.54,2015,23583,2015,0,engine_fuel
+z21054726h,Nissan Qashqai,standart,petrol,3.78,2014,6951,2021,0,break_bug
+B71233886U,Kia Rio X-line,economy,petrol,3.96,2014,1808,2017,1,break_bug
+h69996501B,Nissan Qashqai,standart,petrol,2.56,2013,13738,2017,0,another_bug
+V-1368325e,Renault Kaptur,standart,petrol,5.12,2015,16182,2017,0,gear_stick
+V-8021976O,Kia Rio X-line,economy,petrol,4.74,2013,15978,2019,0,break_bug
+m-1247868i,Smart Coupe,economy,petrol,4.52,2017,49277,2021,0,engine_ignition
+i21633495b,Renault Kaptur,standart,petrol,3.86,2013,22338,2017,0,electro_bug
+D-1483661Y,Renault Sandero,standart,petrol,4.18,2012,40227,2018,0,engine_overheat
+v17979940m,Renault Kaptur,standart,petrol,3.5,2015,16599,2015,0,engine_ignition
+I46294921Y,Smart ForTwo,economy,petrol,3.34,2017,51731,2015,0,wheel_shake
+E-1224871T,Kia Sportage,standart,petrol,5.8,2011,53599,2014,0,break_bug
+H-7101883O,MINI CooperSE,business,electro,5.84,2015,22417,2020,0,another_bug
+w21596750f,VW Polo,economy,petrol,3.58,2012,33467,2022,1,break_bug
+u13145336N,VW Tiguan,economy,petrol,3.38,2014,1078,2018,0,engine_overheat
+E-1226233j,VW Polo VI,economy,petrol,4.5,2015,15392,2015,0,break_bug
+u-1256191b,Mercedes-Benz E200,business,petrol,5.16,2011,52025,2014,1,gear_stick
+P16249958z,Kia Rio,economy,petrol,4.22,2015,17128,2022,0,electro_bug
+w16140065n,Audi A4,premium,petrol,4.7,2013,15853,2021,0,gear_stick
+e14819097J,Skoda Rapid,economy,petrol,4.02,2013,23300,2021,0,engine_fuel
+j-1048694D,Skoda Rapid,economy,petrol,4.4,2015,17799,2018,0,engine_fuel
+M-1358736s,Smart ForFour,economy,petrol,6.82,2014,432,2018,0,engine_check
+j-5190416v,Skoda Rapid,economy,petrol,4.98,2013,22915,2020,0,gear_stick
+F11620667Z,Kia Sportage,standart,petrol,4.42,2012,33507,2019,0,engine_ignition
+I16227142N,Tesla Model 3,premium,electro,4.24,2015,18075,2019,0,engine_fuel
+S17651556l,VW Tiguan,economy,petrol,3.78,2017,52027,2021,0,engine_ignition
+p-2192776b,Kia Sportage,standart,petrol,5.38,2015,23597,2018,0,electro_bug
+j-2769157D,Skoda Rapid,economy,petrol,4.56,2013,24638,2020,0,engine_overheat
+o-1536685b,Kia Rio,economy,petrol,5.16,2013,14619,2016,1,gear_stick
+h-1579911A,Hyundai Solaris,economy,petrol,3.94,2013,20391,2019,1,another_bug
+T-3713662f,Kia Sportage,standart,petrol,4.44,2015,13096,2016,0,another_bug
+y-2268929N,Nissan Qashqai,standart,petrol,5.12,2014,2264,2017,0,engine_fuel
+s13560354e,Kia Rio X,economy,petrol,2.96,2012,36537,2018,0,engine_check
+c-2221415e,Nissan Qashqai,standart,petrol,4.86,2015,26417,2022,0,engine_fuel
+f68563068E,Skoda Rapid,economy,petrol,4.56,2015,12717,2018,0,break_bug
+a-1093681I,Kia Rio X,economy,petrol,4.32,2012,25786,2020,0,engine_check
+S-1468673C,Kia Sportage,standart,petrol,5.66,2013,23049,2015,0,engine_ignition
+f11764359I,VW Tiguan,economy,petrol,3.16,2013,28759,2017,0,another_bug
+k18541722h,VW Polo,economy,petrol,2.22,2013,13898,2014,0,another_bug
+c-3759369n,Smart ForTwo,economy,petrol,3.06,2013,18072,2021,0,engine_check
+U16903766w,VW Polo VI,economy,petrol,3.74,2015,15177,2020,1,gear_stick
+u-1670325h,Kia Rio,economy,petrol,4.62,2012,35291,2015,0,electro_bug
+W-1529343x,VW Polo VI,economy,petrol,4.9,2014,5017,2017,0,another_bug
+Q14465290H,Renault Sandero,standart,petrol,4.06,2015,20064,2020,0,electro_bug
+E-2125626r,Kia Rio X,economy,petrol,4.68,2014,1026,2021,1,engine_overheat
+x21721060O,Kia Rio X,economy,petrol,3.16,2014,5279,2018,0,electro_bug
+u-8526248z,VW Polo,economy,petrol,4.74,2013,20149,2017,0,engine_fuel
+s-5447698N,Kia Rio,economy,petrol,5.2,2013,20530,2016,0,engine_ignition
+y-1720831t,Smart Coupe,economy,petrol,4.68,2015,20415,2020,0,engine_check
+q-7889382W,Kia Rio X,economy,petrol,4.68,2013,19546,2018,0,gear_stick
+M32355728W,Kia Rio X,economy,petrol,3.3,2013,17754,2015,0,another_bug
+e21134548b,VW Polo,economy,petrol,4.3,2013,17727,2020,0,electro_bug
+X83420573E,Skoda Rapid,economy,petrol,4.38,2017,51733,2021,0,engine_fuel
+n13663321L,Audi A4,premium,petrol,4.78,2017,47937,2022,1,break_bug
+K-2077186y,VW Polo,economy,petrol,5.3,2011,53484,2018,0,engine_fuel
+K-4497192D,Skoda Rapid,economy,petrol,6.16,2017,49779,2018,0,wheel_shake
+o49132460a,VW Tiguan,economy,petrol,4.12,2017,52085,2019,0,electro_bug
+J-8994437j,Kia Sportage,standart,petrol,5.28,2015,16625,2017,1,engine_ignition
+k15349825r,Smart Coupe,economy,petrol,2.98,2013,17898,2017,2,gear_stick
+A-1512950N,Renault Kaptur,standart,petrol,5.14,2013,17738,2018,1,break_bug
+m-6328619n,Smart ForTwo,economy,petrol,4.84,2015,25953,2022,1,another_bug
+H13503517Z,Kia Sportage,standart,petrol,3.64,2013,16893,2018,0,engine_ignition
+V-1606432l,Smart Coupe,economy,petrol,4.08,2016,36169,2018,0,engine_check
+G28033769H,Hyundai Solaris,economy,petrol,2.34,2015,18803,2017,0,engine_check
+Y71777322w,Kia Rio X-line,economy,petrol,3.44,2013,21001,2019,0,engine_check
+E53340873j,VW Polo,economy,petrol,1.78,2011,62011,2017,1,electro_bug
+Z-5074109h,Smart ForFour,economy,petrol,4.54,2016,35229,2016,0,electro_bug
+k-8344028I,Kia Rio X,economy,petrol,6.62,2014,4285,2017,2,engine_overheat
+G12193960J,Mercedes-Benz E200,business,petrol,4.0,2015,16072,2019,0,engine_check
+T-7367158o,Kia Rio X,economy,petrol,5.72,2011,55387,2019,0,engine_overheat
+K14404973h,Kia Rio X,economy,petrol,3.78,2015,8352,2017,0,engine_fuel
+e-1558142I,Smart Coupe,economy,petrol,5.18,2015,10882,2020,1,electro_bug
+B-4498521a,VW Polo VI,economy,petrol,4.54,2011,54916,2019,1,electro_bug
+J27832764Q,Mercedes-Benz GLC,business,petrol,2.04,2015,15484,2018,0,another_bug
+X-3898913V,Kia Rio X-line,economy,petrol,4.94,2013,15492,2018,0,gear_stick
+r15994140o,Kia Rio X,economy,petrol,4.3,2013,30994,2020,0,another_bug
+Q-1573836h,VW Tiguan,economy,petrol,5.88,2015,19849,2020,0,wheel_shake
+k66467519L,Kia Rio,economy,petrol,2.66,2013,20762,2020,0,engine_check
+p66418788R,VW Polo,economy,petrol,3.44,2015,20592,2020,0,break_bug
+r-1533118W,Kia Rio X-line,economy,petrol,4.78,2015,12903,2015,0,another_bug
+a-3245602l,Nissan Qashqai,standart,petrol,5.26,2013,15370,2017,0,break_bug
+Q18799124E,Nissan Qashqai,standart,petrol,3.66,2012,32129,2020,0,engine_check
+W21248537B,Smart ForFour,economy,petrol,2.74,2017,55122,2020,1,break_bug
+K-4641446C,Skoda Rapid,economy,petrol,3.16,2017,50305,2019,0,break_bug
+Q15496799j,Kia Sportage,standart,petrol,3.2,2015,8323,2019,0,engine_overheat
+E-2222007t,Smart Coupe,economy,petrol,4.5,2013,15339,2015,0,electro_bug
+e-1407263v,VW Polo,economy,petrol,4.2,2012,35672,2017,1,electro_bug
+Z88407138U,VW Polo,economy,petrol,3.0,2014,95,2014,0,another_bug
+z-2075956I,Skoda Rapid,economy,petrol,4.56,2017,51288,2021,1,engine_fuel
+F-7897512k,Kia Sportage,standart,petrol,4.62,2013,18978,2017,2,another_bug
+e-6843528U,Smart ForFour,economy,petrol,5.22,2016,28837,2020,1,engine_check
+y67070056k,Kia Rio X,economy,petrol,3.02,2015,21316,2015,0,engine_ignition
+c-1951754w,Nissan Qashqai,standart,petrol,5.24,2015,13723,2016,1,electro_bug
+Z-4166574H,Kia Rio X-line,economy,petrol,4.9,2011,46261,2017,0,break_bug
+F19016894a,BMW 320i,business,petrol,3.46,2013,18826,2020,1,gear_stick
+M-1847778X,Renault Kaptur,standart,petrol,4.54,2015,18260,2019,0,engine_check
+g-2224791Z,Nissan Qashqai,standart,petrol,4.74,2015,22126,2019,1,gear_stick
+k78095152e,Fiat 500,business,petrol,4.2,2013,15803,2018,0,engine_overheat
+v-1737805E,VW Polo VI,economy,petrol,6.52,2014,88,2019,2,another_bug
+g-1331562b,Kia Rio X-line,economy,petrol,6.32,2015,17356,2015,0,engine_fuel
+R18221732m,Kia Rio,economy,petrol,4.28,2015,20499,2021,1,engine_check
+h46463462x,Renault Kaptur,standart,petrol,4.66,2015,17239,2018,0,gear_stick
+n-1751627h,Hyundai Solaris,economy,petrol,4.16,2015,13433,2015,0,engine_fuel
+o-1108446u,VW Tiguan,economy,petrol,4.7,2017,48154,2019,0,engine_check
+k26379645k,VW Tiguan,economy,petrol,3.9,2013,13727,2019,0,gear_stick
+B43557378y,Smart Coupe,economy,petrol,3.4,2013,22665,2019,0,wheel_shake
+c-9857250i,Skoda Rapid,economy,petrol,4.86,2014,1066,2019,0,another_bug
+J16946913b,Nissan Qashqai,standart,petrol,2.88,2013,14746,2018,0,engine_fuel
+i60361443P,Renault Kaptur,standart,petrol,3.82,2012,41157,2014,0,engine_overheat
+j-1626554n,VW Polo,economy,petrol,5.16,2014,1615,2021,0,engine_check
+T-9702381Q,Smart ForFour,economy,petrol,5.98,2013,17252,2018,2,engine_fuel
+g15384822N,Kia Sportage,standart,petrol,2.34,2011,53133,2014,0,engine_check
+g18644667m,VW Tiguan,economy,petrol,4.38,2016,30650,2018,1,engine_ignition
+q92049567G,Kia Rio X-line,economy,petrol,5.02,2013,5764,2020,0,wheel_shake
+w21144777G,Hyundai Solaris,economy,petrol,4.08,2013,18525,2022,0,engine_overheat
+d-9278701C,Smart ForTwo,economy,petrol,6.92,2017,50387,2020,0,engine_check
+h11869609n,Hyundai Solaris,economy,petrol,4.22,2015,11577,2017,0,wheel_shake
+i-4363747P,Renault Sandero,standart,petrol,4.64,2013,9193,2015,0,gear_stick
+k-7945612g,Nissan Qashqai,standart,petrol,3.36,2012,33030,2020,0,engine_check
+S-3564059L,Kia Rio X,economy,petrol,4.3,2015,17711,2021,1,engine_fuel
+D-2245459h,Kia Rio X,economy,petrol,4.74,2014,1451,2017,0,engine_fuel
+k28950540y,Mercedes-Benz GLC,business,petrol,2.22,2015,17506,2017,0,break_bug
+b27506120X,Smart ForFour,economy,petrol,4.1,2017,48952,2019,0,engine_overheat
+e78288007o,Kia Rio X,economy,petrol,3.94,2015,18447,2021,1,electro_bug
+b-1442299D,Smart Coupe,economy,petrol,3.96,2014,192,2017,0,electro_bug
+R-2478990q,VW Polo VI,economy,petrol,4.68,2013,19061,2020,0,gear_stick
+g93110024q,Kia Sportage,standart,petrol,4.16,2015,13578,2016,0,engine_overheat
+q16111683Z,Kia Rio,economy,petrol,4.08,2015,11963,2020,0,engine_fuel
+q10717818s,Hyundai Solaris,economy,petrol,4.1,2012,35349,2015,0,engine_check
+N17599160a,Smart ForFour,economy,petrol,4.44,2013,20807,2016,0,another_bug
+Y13746621G,VW Polo VI,economy,petrol,4.14,2015,15188,2016,3,engine_fuel
+c40070203j,Smart ForTwo,economy,petrol,2.12,2014,10011,2019,1,wheel_shake
+X-1357122D,Skoda Rapid,economy,petrol,7.7,2016,33543,2022,0,break_bug
+C-1408594x,Smart Coupe,economy,petrol,4.68,2017,49157,2017,0,engine_fuel
+G-1866026y,Nissan Qashqai,standart,petrol,4.52,2015,17984,2017,2,engine_ignition
+Q-1517122L,Renault Kaptur,standart,petrol,8.9,2015,18047,2017,1,break_bug
+E-1563547D,Hyundai Solaris,economy,petrol,4.9,2011,58736,2020,0,gear_stick
+Q-1590461U,Kia Rio X,economy,petrol,3.84,2014,5823,2015,0,engine_overheat
+o21681815q,Nissan Qashqai,standart,petrol,4.4,2014,5342,2020,1,engine_ignition
+n16283717e,Kia Rio,economy,petrol,3.68,2013,14074,2017,2,engine_overheat
+m22792316L,VW Tiguan,economy,petrol,3.56,2017,48042,2019,0,engine_ignition
+I-9529383R,Smart ForTwo,economy,petrol,5.0,2017,52974,2018,2,electro_bug
+y-6895985E,Nissan Qashqai,standart,petrol,4.96,2015,18739,2017,0,electro_bug
+P21775574E,Volkswagen ID.4 ,premium,electro,3.84,2017,53007,2020,0,another_bug
+s12159189K,Mercedes-Benz GLC,business,petrol,4.38,2014,3659,2021,0,engine_fuel
+z84736495X,VW Polo VI,economy,petrol,3.4,2011,57990,2020,0,wheel_shake
+z19054142J,Kia Rio X-line,economy,petrol,3.1,2012,39087,2020,0,engine_ignition
+i-2032990h,Kia Rio,economy,petrol,4.96,2015,16963,2019,0,engine_check
+c15606867M,Smart ForFour,economy,petrol,3.8,2013,16723,2015,0,engine_check
+O-1435877n,Smart Coupe,economy,petrol,4.36,2016,28122,2014,1,engine_overheat
+J-3919656T,Audi A3,premium,petrol,4.74,2013,8668,2019,3,gear_stick
+s-2035761Z,Skoda Rapid,economy,petrol,4.74,2016,36919,2018,0,electro_bug
+X-6502284N,Hyundai Solaris,economy,petrol,4.76,2015,13026,2018,0,wheel_shake
+L11124231x,Hyundai Solaris,economy,petrol,3.94,2011,52874,2020,1,break_bug
+b-1747182G,Smart Coupe,economy,petrol,4.32,2017,52457,2016,1,engine_overheat
+z-1534110I,Skoda Rapid,economy,petrol,5.46,2017,50162,2021,1,break_bug
+g-3919078k,VW Polo,economy,petrol,4.0,2011,49970,2016,0,engine_check
+r-1009456t,Smart ForFour,economy,petrol,5.5,2017,55869,2021,0,electro_bug
+I11096968q,Volkswagen ID.4 ,premium,electro,5.8,2013,16177,2020,0,gear_stick
+d-1701620f,Smart ForTwo,economy,petrol,5.02,2013,22793,2021,2,wheel_shake
+O-2232193E,Smart ForTwo,economy,petrol,5.3,2013,18472,2019,0,engine_check
+e-9065992k,Smart ForFour,economy,petrol,4.22,2017,48443,2018,0,engine_check
+j88598513s,Smart ForTwo,economy,petrol,3.14,2016,33872,2014,2,break_bug
+W-1819408M,Renault Kaptur,standart,petrol,4.96,2012,36194,2017,0,another_bug
+H12224019h,Smart ForTwo,economy,petrol,3.04,2015,21916,2018,0,break_bug
+Q-7309280s,VW Tiguan,economy,petrol,4.42,2017,50692,2019,0,engine_ignition
+Y-5657375s,Skoda Rapid,economy,petrol,4.76,2017,47133,2018,0,wheel_shake
+G16839066F,VW Tiguan,economy,petrol,3.04,2014,9,2019,0,electro_bug
+p11560402b,Kia Sportage,standart,petrol,4.58,2012,38725,2020,1,engine_check
+r-1115179Z,Smart ForTwo,economy,petrol,4.72,2015,15283,2016,0,gear_stick
+a14090345R,Kia Rio,economy,petrol,4.22,2013,21728,2019,0,break_bug
+T-2926338G,Kia Sportage,standart,petrol,5.34,2015,20081,2015,0,engine_overheat
+H-1045027f,Volkswagen ID.4 ,premium,electro,3.78,2015,25659,2019,0,engine_overheat
+G21969783v,Mini Cooper,business,petrol,2.68,2012,33422,2014,0,break_bug
+r76986533u,VW Polo VI,economy,petrol,3.18,2011,57546,2019,0,electro_bug
+i10951171w,Nissan Qashqai,standart,petrol,4.36,2011,50752,2017,0,break_bug
+I95254839G,Renault Kaptur,standart,petrol,4.22,2011,52910,2016,0,break_bug
+y-6862226e,Smart Coupe,economy,petrol,5.02,2015,16289,2015,0,wheel_shake
+v21459014X,Kia Sportage,standart,petrol,3.88,2014,8725,2019,0,engine_overheat
+o-1060874N,Kia Rio X,economy,petrol,5.7,2015,11958,2020,2,electro_bug
+c-1032368T,Renault Kaptur,standart,petrol,4.12,2013,18007,2017,0,engine_check
+r-1830010n,Kia Sportage,standart,petrol,5.68,2014,732,2016,0,engine_ignition
+i-1163110H,Renault Sandero,standart,petrol,4.94,2015,18204,2017,0,engine_overheat
+N21799377D,Skoda Rapid,economy,petrol,3.86,2013,13087,2016,0,engine_ignition
+W-2281723G,Smart Coupe,economy,petrol,5.08,2014,3701,2015,0,break_bug
+h-1478460B,Smart ForFour,economy,petrol,3.68,2017,47389,2015,0,wheel_shake
+f24213520w,Smart ForTwo,economy,petrol,3.7,2015,13256,2018,0,engine_ignition
+J-2836378X,Kia Rio,economy,petrol,4.74,2015,19658,2016,1,engine_overheat
+H-2314002q,Hyundai Solaris,economy,petrol,4.52,2014,3191,2018,0,engine_fuel
+s21160764P,Hyundai Solaris,economy,petrol,5.24,2014,2038,2014,1,gear_stick
+v56671814V,Smart ForFour,economy,petrol,4.44,2017,57181,2020,1,engine_check
+u-1391271N,BMW 320i,business,petrol,5.02,2017,48588,2016,0,engine_overheat
+C43121559S,VW Tiguan,economy,petrol,3.78,2014,2060,2019,0,engine_overheat
+G-2993932m,Kia Rio X-line,economy,petrol,5.28,2014,1532,2017,0,break_bug
+U10410180g,Kia Rio,economy,petrol,3.52,2015,7584,2017,0,another_bug
+Q15437794e,Kia Sportage,standart,petrol,0.98,2014,8528,2018,1,another_bug
+Y10882115v,Renault Kaptur,standart,petrol,3.08,2011,54325,2020,0,engine_overheat
+G-5571027c,VW Polo,economy,petrol,4.42,2015,17188,2017,0,engine_overheat
+p-4470204K,Hyundai Solaris,economy,petrol,4.06,2011,56222,2020,1,electro_bug
+Y-2612249v,Kia Sportage,standart,petrol,4.72,2013,22596,2017,1,engine_overheat
+q68671901X,Nissan Qashqai,standart,petrol,4.02,2015,16045,2018,0,gear_stick
+b-1841365W,Smart Coupe,economy,petrol,6.36,2013,15793,2017,0,gear_stick
+w-2007852A,Smart Coupe,economy,petrol,5.0,2015,15537,2018,0,engine_ignition
+x-2140659S,Kia Rio,economy,petrol,4.4,2012,36211,2018,0,engine_fuel
+A-1516109s,Hyundai Solaris,economy,petrol,6.16,2012,38862,2015,0,wheel_shake
+e-2118673B,Smart ForFour,economy,petrol,4.5,2015,17729,2018,1,engine_check
+b-1761473R,BMW 320i,business,petrol,6.72,2014,692,2017,0,break_bug
+O-1945899L,Nissan Qashqai,standart,petrol,6.08,2014,5719,2017,1,gear_stick
+U-4395060p,Smart ForFour,economy,petrol,4.8,2016,32758,2020,0,break_bug
+q-8144639a,Smart ForTwo,economy,petrol,5.08,2017,42846,2016,0,another_bug
+w15492015F,Smart ForFour,economy,petrol,3.92,2015,23668,2018,0,break_bug
+x-6436923D,Skoda Rapid,economy,petrol,4.14,2016,34698,2015,0,electro_bug
+V10338035r,Renault Sandero,standart,petrol,3.5,2013,14310,2016,1,gear_stick
+j17498952j,VW Polo,economy,petrol,4.76,2015,11582,2016,2,engine_ignition
+Y-1953934j,Kia Rio X-line,economy,petrol,5.5,2015,20818,2015,0,engine_overheat
+N51618057o,VW Tiguan,economy,petrol,3.0,2017,52345,2022,0,wheel_shake
+n-2191377U,Hyundai Solaris,economy,petrol,4.68,2013,17195,2022,0,electro_bug
+F16471216a,Skoda Rapid,economy,petrol,3.08,2013,16300,2018,0,another_bug
+K17119085t,Audi Q3,premium,petrol,4.48,2016,32824,2019,0,engine_ignition
+G16688267z,Tesla Model 3,premium,electro,4.46,2013,18850,2019,0,gear_stick
+N80310637P,VW Polo VI,economy,petrol,5.26,2014,7749,2016,4,break_bug
+U56181272m,Smart ForFour,economy,petrol,4.08,2017,55357,2015,0,another_bug
+A57354736k,VW Polo VI,economy,petrol,4.26,2012,42715,2018,0,wheel_shake
+g20727411q,VW Polo VI,economy,petrol,3.04,2012,39054,2021,0,engine_check
+D22650809y,Nissan Qashqai,standart,petrol,4.1,2011,50790,2020,0,engine_check
+l-1489018G,Skoda Rapid,economy,petrol,5.0,2017,53548,2019,0,break_bug
+c18431139V,Kia Rio X,economy,petrol,4.46,2014,1899,2018,2,engine_fuel
+t18359379g,Hyundai Solaris,economy,petrol,3.64,2015,19281,2020,0,break_bug
+f-3637653K,Mini Cooper,business,petrol,4.16,2012,38525,2020,1,another_bug
+d-1797852A,Kia Rio,economy,petrol,5.56,2015,20186,2014,0,break_bug
+r31611689b,Renault Sandero,standart,petrol,4.36,2014,1274,2016,0,break_bug
+B23216722i,VW Tiguan,economy,petrol,5.06,2017,54626,2021,0,engine_fuel
+k12909094i,Nissan Qashqai,standart,petrol,4.72,2011,50599,2016,0,engine_fuel
+K-1046541A,Kia Rio X-line,economy,petrol,3.36,2015,18883,2018,0,gear_stick
+E-1819045Z,Smart ForFour,economy,petrol,4.48,2017,51629,2017,0,gear_stick
+e-2298546G,Smart ForTwo,economy,petrol,5.3,2017,52241,2021,0,engine_ignition
+a-2737175S,VW Polo,economy,petrol,7.02,2015,14007,2021,2,gear_stick
+p-1831406k,Nissan Qashqai,standart,petrol,5.2,2015,13250,2020,1,break_bug
+L23982958v,VW Tiguan,economy,petrol,4.6,2017,53258,2022,0,electro_bug
+Z-1319204N,Renault Sandero,standart,petrol,5.24,2014,1626,2021,0,engine_check
+h-6538858D,Renault Sandero,standart,petrol,3.92,2013,13512,2020,0,electro_bug
+J56766885Q,Nissan Qashqai,standart,petrol,3.42,2015,19454,2019,0,gear_stick
+F18142413f,Nissan Qashqai,standart,petrol,4.68,2011,54260,2018,0,electro_bug
+i-6895837c,Kia Rio,economy,petrol,4.78,2011,53436,2017,0,wheel_shake
+T-1735998F,Smart Coupe,economy,petrol,4.9,2017,58493,2017,0,engine_check
+w20437010u,VW Tiguan,economy,petrol,3.74,2013,15837,2019,0,another_bug
+y-1709369d,Hyundai Solaris,economy,petrol,4.82,2011,52500,2020,1,engine_check
+O66974495w,Skoda Rapid,economy,petrol,3.02,2017,57371,2016,0,break_bug
+j14880208j,Kia Rio,economy,petrol,4.28,2012,38145,2020,0,break_bug
+F84497088q,Kia Sportage,standart,petrol,4.12,2014,1670,2016,0,another_bug
+N-2120764m,VW Polo,economy,petrol,5.08,2015,19851,2017,0,engine_fuel
+N-2137234b,Kia Rio X-line,economy,petrol,4.4,2011,49403,2015,0,electro_bug
+z-2099136q,Kia Rio,economy,petrol,5.84,2015,17755,2021,2,engine_overheat
+g-2192948d,Skoda Rapid,economy,petrol,6.86,2017,59508,2019,1,another_bug
+p13449983j,Smart ForTwo,economy,petrol,2.92,2017,49057,2014,0,engine_overheat
+a64898523L,VW Tiguan,economy,petrol,4.22,2017,50945,2022,0,engine_fuel
+P15479729r,Renault Kaptur,standart,petrol,3.48,2015,27165,2018,2,engine_check
+w17822137J,Mercedes-Benz GLC,business,petrol,2.06,2012,36185,2015,0,break_bug
+v30471026G,VW Polo,economy,petrol,4.94,2015,15961,2019,0,gear_stick
+N-2229740p,Kia Sportage,standart,petrol,5.12,2012,34771,2018,1,another_bug
+n20814835g,Kia Rio X,economy,petrol,3.12,2014,6069,2019,0,engine_fuel
+S-1130540j,VW Polo,economy,petrol,4.12,2015,19049,2014,0,engine_overheat
+h22520059h,Smart Coupe,economy,petrol,3.66,2014,1673,2015,0,electro_bug
+g-7033279y,Kia Rio X,economy,petrol,4.18,2014,270,2018,0,engine_overheat
+U10958437x,VW Polo VI,economy,petrol,3.84,2015,23129,2016,0,another_bug
+o-5998359x,Renault Kaptur,standart,petrol,4.8,2012,35469,2022,0,engine_fuel
+H13611593V,Hyundai Solaris,economy,petrol,4.04,2013,23055,2018,0,engine_ignition
+y-1438546v,Smart Coupe,economy,petrol,6.02,2013,25408,2018,0,electro_bug
+m-1711444N,Renault Sandero,standart,petrol,4.24,2015,22170,2021,0,gear_stick
+x14145245V,VW Tiguan,economy,petrol,5.12,2017,46239,2020,1,engine_overheat
+E-1114593Q,Kia Rio X,economy,petrol,4.58,2012,27205,2020,1,wheel_shake
+U-2999317K,Kia Rio X,economy,petrol,4.72,2014,587,2014,1,engine_check
+A95587248U,Kia Rio X,economy,petrol,3.54,2015,18662,2018,0,engine_overheat
+B12295492I,VW Polo VI,economy,petrol,4.58,2015,12143,2019,0,gear_stick
+m-1905262u,Kia Rio,economy,petrol,5.18,2015,16870,2020,0,engine_ignition
+x61543938L,Kia Rio,economy,petrol,3.88,2015,17069,2016,2,electro_bug
+n57039915C,Kia Sportage,standart,petrol,3.62,2012,33462,2015,0,engine_overheat
+q-2873172n,Smart Coupe,economy,petrol,4.04,2013,21038,2018,0,electro_bug
+T-1265478d,Smart ForTwo,economy,petrol,4.86,2017,50131,2015,0,wheel_shake
+P-2089322j,VW Tiguan,economy,petrol,5.2,2014,5338,2018,0,electro_bug
+j17841923P,Kia Rio,economy,petrol,3.02,2015,14676,2014,0,wheel_shake
+p19652219k,Kia Rio X-line,economy,petrol,3.2,2013,13383,2016,0,gear_stick
+i11285866h,Audi A3,premium,petrol,4.68,2015,17409,2021,1,engine_overheat
+d-1755732T,Kia Rio X-line,economy,petrol,5.46,2015,20072,2016,0,another_bug
+u11903926f,Kia Rio X,economy,petrol,4.24,2015,16136,2015,1,engine_check
+k-1504798g,Smart Coupe,economy,petrol,4.52,2017,50238,2018,0,engine_ignition
+B-3763747y,Kia Sportage,standart,petrol,6.4,2015,18829,2019,0,break_bug
+d21895782D,Kia Rio X-line,economy,petrol,3.62,2015,22116,2019,0,engine_overheat
+d19762503V,VW Polo VI,economy,petrol,2.64,2015,10185,2019,0,break_bug
+j21109696Z,Smart ForFour,economy,petrol,3.2,2014,7970,2020,0,engine_check
+B-2274632B,Kia Rio X-line,economy,petrol,4.64,2013,14058,2019,0,another_bug
+X-4167437W,Audi A3,premium,petrol,4.3,2017,54197,2022,0,engine_ignition
+E-3968955G,Smart ForTwo,economy,petrol,4.4,2014,7704,2015,0,engine_check
+W-7589743T,Smart Coupe,economy,petrol,3.54,2017,54231,2018,0,engine_overheat
+J93991372A,Smart ForTwo,economy,petrol,4.24,2017,53033,2019,0,another_bug
+o-5416202y,Volkswagen ID.4 ,premium,electro,4.2,2017,51637,2021,0,engine_fuel
+f29211613M,VW Polo,economy,petrol,4.62,2013,21177,2019,0,engine_overheat
+c-7323094P,Kia Rio X,economy,petrol,5.46,2014,6610,2014,0,engine_ignition
+v17682899q,Audi Q3,premium,petrol,3.22,2014,3178,2019,2,electro_bug
+H-2192835X,Renault Kaptur,standart,petrol,5.0,2012,39333,2016,0,engine_overheat
+B-1188132C,Smart ForTwo,economy,petrol,6.6,2016,41629,2016,0,another_bug
+m17454504C,VW Polo VI,economy,petrol,2.78,2012,35998,2017,1,engine_check
+l-2256905A,Smart Coupe,economy,petrol,4.2,2013,17993,2019,0,electro_bug
+u-1675606o,Hyundai Solaris,economy,petrol,6.72,2014,7109,2021,0,engine_fuel
+L19397897Q,VW Tiguan,economy,petrol,2.08,2013,19003,2020,0,engine_ignition
+C-6297401x,Renault Kaptur,standart,petrol,5.94,2013,22535,2017,2,break_bug
+h-1635770M,Kia Rio X-line,economy,petrol,5.2,2013,23703,2021,1,engine_overheat
+k-2181885c,Smart ForTwo,economy,petrol,4.54,2017,49696,2019,0,another_bug
+l13307987z,Skoda Rapid,economy,petrol,3.84,2013,15970,2015,0,engine_ignition
+X-4063916c,VW Tiguan,economy,petrol,4.7,2016,36367,2017,0,engine_fuel
+K-1080554Q,VW Tiguan,economy,petrol,4.58,2015,24665,2017,0,engine_fuel
+v32384281w,Smart Coupe,economy,petrol,4.46,2013,18151,2022,0,engine_ignition
+n-6210064B,Skoda Rapid,economy,petrol,7.68,2015,9376,2015,4,break_bug
+h85005457R,Smart ForTwo,economy,petrol,3.9,2013,8906,2019,0,gear_stick
+a-1858465P,Hyundai Solaris,economy,petrol,4.68,2012,29129,2021,0,engine_fuel
+k-2301727K,Mercedes-Benz E200,business,petrol,4.64,2014,1243,2021,1,engine_ignition
+y-1207994u,Renault Kaptur,standart,petrol,5.14,2014,507,2016,0,engine_fuel
+u16224094D,Kia Rio X,economy,petrol,3.58,2015,12748,2016,0,break_bug
+n-1754487C,Tesla Model 3,premium,electro,5.1,2013,17498,2020,0,engine_ignition
+N-1096573h,VW Tiguan,economy,petrol,4.5,2015,16650,2021,0,break_bug
+U-1160366X,Hyundai Solaris,economy,petrol,5.2,2013,20085,2019,0,another_bug
+L36010328P,Smart ForTwo,economy,petrol,3.56,2017,48867,2022,0,break_bug
+y-1260563u,Nissan Qashqai,standart,petrol,4.58,2015,16835,2022,0,engine_overheat
+H-1616317s,Hyundai Solaris,economy,petrol,5.34,2015,26460,2020,0,wheel_shake
+g-8651951d,Mercedes-Benz E200,business,petrol,5.5,2015,16308,2016,0,another_bug
+i12961408H,Nissan Qashqai,standart,petrol,4.56,2014,5117,2017,1,engine_ignition
+S-6521600t,Tesla Model 3,premium,electro,4.9,2017,54110,2019,0,engine_ignition
+N19139282x,Nissan Qashqai,standart,petrol,3.08,2012,34012,2020,0,electro_bug
+k15463398g,VW Polo VI,economy,petrol,3.54,2012,38969,2015,0,engine_fuel
+t16605227S,Renault Kaptur,standart,petrol,2.88,2015,26844,2017,0,gear_stick
+I-6624244G,Smart Coupe,economy,petrol,6.2,2017,58753,2016,1,wheel_shake
+g64586845F,Kia Rio X,economy,petrol,2.9,2015,15986,2016,0,engine_ignition
+o21484984G,Renault Kaptur,standart,petrol,4.2,2015,22032,2020,0,gear_stick
+R11628804P,VW Tiguan,economy,petrol,4.58,2015,24675,2017,2,wheel_shake
+g-1998403o,Nissan Qashqai,standart,petrol,5.74,2011,52108,2021,0,engine_overheat
+y12629859k,Smart ForFour,economy,petrol,3.74,2013,16222,2020,1,engine_ignition
+Y-2132001U,Mercedes-Benz E200,business,petrol,5.04,2014,2330,2015,2,engine_ignition
+g13907612Q,VW Polo,economy,petrol,3.78,2014,6375,2018,0,another_bug
+I-1976958o,Renault Sandero,standart,petrol,4.1,2013,23248,2019,0,gear_stick
+E-2245516j,VW Polo,economy,petrol,5.26,2014,861,2014,0,electro_bug
+Y13868737F,VW Polo,economy,petrol,3.8,2014,2273,2020,0,wheel_shake
+U-1798342u,Renault Kaptur,standart,petrol,4.56,2013,21127,2018,0,engine_check
+H-2556473b,Kia Rio X-line,economy,petrol,6.6,2013,12382,2020,2,engine_fuel
+h-2265497R,Kia Sportage,standart,petrol,5.7,2013,12972,2021,2,gear_stick
+z21574974m,Hyundai Solaris,economy,petrol,5.2,2013,18986,2015,2,electro_bug
+h-4638163o,Skoda Rapid,economy,petrol,4.94,2013,19489,2015,1,engine_fuel
+P22541122Q,Smart Coupe,economy,petrol,3.14,2017,46901,2020,0,engine_check
+g81772877K,Smart ForTwo,economy,petrol,4.04,2017,52107,2016,2,engine_fuel
+z20864667b,Smart ForFour,economy,petrol,3.42,2015,18939,2019,0,another_bug
+h70228332q,Smart Coupe,economy,petrol,3.72,2015,17898,2018,0,electro_bug
+U-7081019L,VW Polo,economy,petrol,5.4,2015,15684,2020,0,engine_fuel
+n12626830N,Skoda Rapid,economy,petrol,3.76,2017,54545,2014,0,engine_overheat
+h81776080p,Nissan Qashqai,standart,petrol,3.56,2011,52002,2020,0,engine_fuel
+D-1686945F,Smart Coupe,economy,petrol,5.66,2014,1020,2016,0,engine_check
+m50153759z,Skoda Rapid,economy,petrol,3.54,2016,32867,2019,1,engine_fuel
+a-9975968Q,Skoda Rapid,economy,petrol,4.56,2014,700,2020,0,engine_check
+z-1946969z,Kia Rio X-line,economy,petrol,5.08,2011,58813,2017,0,another_bug
+d47363853z,Volkswagen ID.4 ,premium,electro,3.56,2016,39418,2022,0,engine_check
+C-1502288J,Skoda Rapid,economy,petrol,3.92,2017,52037,2016,0,engine_check
+V-3862707u,Hyundai Solaris,economy,petrol,5.22,2015,15641,2020,0,another_bug
+K41048636O,Kia Sportage,standart,petrol,4.92,2014,7650,2018,0,engine_overheat
+U-1186735M,Tesla Model 3,premium,electro,4.82,2017,50635,2018,0,another_bug
+D-1954904O,VW Tiguan,economy,petrol,4.88,2013,21063,2018,0,another_bug
+T-1386491G,VW Polo,economy,petrol,3.6,2013,12270,2020,0,engine_overheat
+Y12499215E,Hyundai Solaris,economy,petrol,3.88,2011,53571,2019,0,engine_check
+j31662649P,Fiat 500,business,petrol,4.6,2015,6225,2017,1,engine_overheat
+u-1321552b,VW Tiguan,economy,petrol,5.18,2013,23344,2020,0,electro_bug
+N-1868330o,Kia Rio X-line,economy,petrol,5.18,2013,19535,2014,0,electro_bug
+z-9470103y,Renault Kaptur,standart,petrol,4.42,2013,18377,2014,0,electro_bug
+q-7165662e,VW Tiguan,economy,petrol,3.8,2013,24084,2018,0,electro_bug
+Y17759503i,Hyundai Solaris,economy,petrol,5.22,2012,29547,2021,0,electro_bug
+x13923285B,Hyundai Solaris,economy,petrol,2.6,2013,20012,2016,0,another_bug
+A-2001140U,Smart ForTwo,economy,petrol,4.9,2015,17246,2016,0,engine_overheat
+e18977015K,Kia Sportage,standart,petrol,4.18,2015,19053,2022,0,engine_overheat
+S11107054x,Renault Kaptur,standart,petrol,4.28,2011,52484,2015,1,engine_ignition
+g12480936r,Audi A4,premium,petrol,4.6,2016,30136,2019,0,break_bug
+L-1683376Y,Nissan Qashqai,standart,petrol,4.22,2015,16664,2022,0,engine_fuel
+p11667276v,Skoda Rapid,economy,petrol,4.54,2016,32111,2020,0,break_bug
+W-1751376n,Mercedes-Benz GLC,business,petrol,4.38,2011,54287,2019,0,break_bug
+h99639454a,Hyundai Solaris,economy,petrol,3.28,2015,19844,2016,0,engine_overheat
+g-1858136i,VW Polo VI,economy,petrol,4.54,2013,15490,2015,1,engine_overheat
+E11639981n,Hyundai Solaris,economy,petrol,3.34,2011,54427,2017,0,gear_stick
+d46706351c,Nissan Qashqai,standart,petrol,2.98,2014,2438,2021,0,gear_stick
+W-6889637w,Kia Sportage,standart,petrol,4.54,2015,22205,2015,0,another_bug
+x95423952G,Kia Rio,economy,petrol,4.02,2015,9957,2020,0,break_bug
+E-6364145u,Kia Sportage,standart,petrol,4.6,2014,1883,2014,0,engine_fuel
+A19411418b,Renault Sandero,standart,petrol,3.12,2012,33254,2018,0,gear_stick
+i85934212g,Renault Kaptur,standart,petrol,4.1,2011,59980,2016,0,engine_check
+T-1087362r,Smart ForTwo,economy,petrol,6.04,2017,64843,2020,0,break_bug
+J18283547U,Kia Rio X,economy,petrol,3.22,2011,47121,2016,2,wheel_shake
+Q82185023j,Smart ForTwo,economy,petrol,4.34,2017,52911,2019,0,engine_overheat
+T-1534772D,VW Polo VI,economy,petrol,6.8,2013,15648,2017,0,break_bug
+e67121374V,Skoda Rapid,economy,petrol,4.98,2015,22912,2018,0,gear_stick
+Z12099189J,Smart ForTwo,economy,petrol,3.32,2017,51813,2020,0,electro_bug
+n15001389W,Kia Rio,economy,petrol,4.22,2015,14904,2021,0,gear_stick
+a16560821l,Renault Kaptur,standart,petrol,3.98,2013,14458,2016,0,break_bug
+S10929462V,Audi A4,premium,petrol,4.3,2015,15826,2022,0,electro_bug
+y-8032546M,Smart ForTwo,economy,petrol,4.12,2016,34905,2020,0,break_bug
+i21618191m,Kia Rio,economy,petrol,3.9,2011,54435,2015,0,gear_stick
+x21051787U,Skoda Rapid,economy,petrol,3.9,2014,4116,2016,1,electro_bug
+h11650453p,Kia Rio,economy,petrol,3.12,2013,24478,2017,1,engine_check
+E-2118420k,Kia Rio,economy,petrol,5.02,2011,51959,2018,0,engine_fuel
+E-5526902h,Kia Sportage,standart,petrol,4.26,2015,16375,2021,0,engine_check
+o-2930882b,Smart ForTwo,economy,petrol,6.22,2017,53916,2020,0,wheel_shake
+B-1733560S,Audi A3,premium,petrol,6.44,2014,2541,2021,1,another_bug
+B61056692H,VW Polo VI,economy,petrol,4.18,2014,1931,2020,0,another_bug
+V17330629Z,Renault Kaptur,standart,petrol,4.8,2012,44478,2017,1,engine_overheat
+K-2080661b,VW Tiguan,economy,petrol,6.14,2013,17793,2020,0,electro_bug
+X17917375y,Smart ForFour,economy,petrol,5.04,2016,39673,2018,0,engine_fuel
+v-1032551Q,Smart ForFour,economy,petrol,4.76,2017,45034,2019,0,engine_ignition
+h-1976258O,Kia Rio,economy,petrol,4.42,2015,15460,2016,0,wheel_shake
+I-2385335N,Hyundai Solaris,economy,petrol,4.88,2015,11042,2018,0,wheel_shake
+g-4710112s,VW Tiguan,economy,petrol,6.68,2015,29132,2020,0,break_bug
+A20224621C,Volkswagen ID.4 ,premium,electro,3.56,2013,14690,2018,1,engine_fuel
+Y-1157274z,VW Polo,economy,petrol,4.3,2015,15218,2014,0,break_bug
+t-9489537c,Smart ForFour,economy,petrol,5.22,2016,29543,2018,0,another_bug
+n-1273515V,Smart Coupe,economy,petrol,4.7,2016,29122,2016,0,engine_overheat
+r70422459p,Renault Kaptur,standart,petrol,4.16,2014,6435,2018,1,electro_bug
+e-8728878K,Nissan Qashqai,standart,petrol,6.18,2015,17942,2016,0,engine_ignition
+e-4559210H,Kia Rio X-line,economy,petrol,5.16,2011,53641,2014,3,wheel_shake
+F81485727c,Smart ForFour,economy,petrol,3.98,2016,39782,2016,0,engine_overheat
+q-2190033k,Kia Sportage,standart,petrol,5.04,2013,15480,2020,0,engine_check
+f51625592A,VW Polo,economy,petrol,4.06,2012,36064,2018,0,engine_ignition
+N15030812A,Smart Coupe,economy,petrol,4.06,2015,19598,2014,0,engine_ignition
+V11333740Y,VW Tiguan,economy,petrol,3.84,2017,50458,2020,0,break_bug
+J-6658254R,VW Tiguan,economy,petrol,5.64,2016,34242,2022,0,electro_bug
+B-6984091X,Smart ForFour,economy,petrol,4.44,2013,22229,2021,0,engine_overheat
+U-1672471d,Mini Cooper,business,petrol,6.36,2013,12249,2018,0,electro_bug
+I-8064486f,Smart Coupe,economy,petrol,3.94,2013,24446,2019,0,gear_stick
+I-1991173O,Kia Rio,economy,petrol,4.96,2013,12737,2020,0,wheel_shake
+n14386134Q,VW Polo VI,economy,petrol,3.86,2013,21028,2020,0,engine_ignition
+b-8794962l,Renault Sandero,standart,petrol,4.5,2013,13960,2017,0,break_bug
+w-2572698c,VW Tiguan,economy,petrol,4.76,2015,20907,2018,1,engine_fuel
+D-1400252L,Kia Rio X,economy,petrol,5.94,2012,31830,2015,0,engine_fuel
+h-1502781d,Kia Rio,economy,petrol,4.64,2014,293,2020,0,another_bug
+t48412579P,Kia Rio X,economy,petrol,3.92,2015,14409,2019,0,engine_check
+H-9913170W,Nissan Qashqai,standart,petrol,4.46,2013,15342,2016,0,gear_stick
+F88336843k,VW Polo VI,economy,petrol,3.92,2014,3299,2021,0,engine_ignition
+w-8103696m,Kia Sportage,standart,petrol,5.86,2013,22916,2020,0,another_bug
+n-7969071U,Kia Rio X-line,economy,petrol,4.28,2014,1845,2019,0,electro_bug
+M-1587731Z,VW Tiguan,economy,petrol,4.68,2013,20449,2018,1,engine_overheat
+s33653220v,Renault Kaptur,standart,petrol,3.64,2012,34718,2017,0,gear_stick
+w-1355813E,Volkswagen ID.4 ,premium,electro,5.1,2015,14283,2018,0,gear_stick
+t-2139034Z,Hyundai Solaris,economy,petrol,4.86,2011,53664,2022,2,engine_overheat
+Z13389438N,VW Polo,economy,petrol,3.9,2012,32817,2017,0,engine_overheat
+Q65421489k,Kia Rio X,economy,petrol,2.54,2011,57600,2017,2,engine_fuel
+E20033804a,Smart ForFour,economy,petrol,3.28,2013,14194,2019,0,engine_overheat
+V84072813x,Hyundai Solaris,economy,petrol,3.88,2011,53052,2018,0,gear_stick
+M-1826985z,Renault Sandero,standart,petrol,5.0,2014,7154,2020,0,gear_stick
+q-5893694X,Smart ForFour,economy,petrol,5.32,2016,25572,2022,0,engine_fuel
+N-2168248q,Smart ForFour,economy,petrol,5.42,2017,58379,2016,0,gear_stick
+Y-1737237q,Kia Rio,economy,petrol,4.24,2015,23388,2019,0,electro_bug
+Q-1295654z,VW Tiguan,economy,petrol,5.32,2016,36198,2022,1,gear_stick
+O-1664333l,Kia Rio X-line,economy,petrol,4.14,2012,35136,2018,0,engine_check
+H51482803Y,Kia Rio X,economy,petrol,3.58,2015,16484,2020,1,another_bug
+f-1287984M,VW Tiguan,economy,petrol,3.84,2015,10853,2020,1,break_bug
+Z-1771892Q,Kia Sportage,standart,petrol,4.72,2015,16787,2019,1,engine_check
+e-1564290J,Nissan Qashqai,standart,petrol,4.46,2012,38765,2016,0,engine_check
+b-2194606o,Nissan Qashqai,standart,petrol,4.34,2012,41982,2022,1,engine_overheat
+w-1321824k,Kia Rio X-line,economy,petrol,5.68,2012,40902,2016,3,engine_check
+B-1437488n,Skoda Rapid,economy,petrol,4.1,2015,23145,2018,0,engine_check
+V-2030707W,VW Polo VI,economy,petrol,4.98,2011,53704,2019,0,engine_check

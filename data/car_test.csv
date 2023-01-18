@@ -1,0 +1,1914 @@
+car_id,model,car_type,fuel_type,car_rating,year_to_start,riders,year_to_work
+I-1144396V,VW Polo VI,economy,petrol,4.44,2011,52155,2017
+q13819346b,VW Tiguan,economy,petrol,2.94,2013,27835,2020
+O-1088987d,Skoda Rapid,economy,petrol,6.7,2015,11755,2019
+A-2091756g,Kia Rio X,economy,petrol,6.3,2014,204,2017
+k15500468M,Smart ForFour,economy,petrol,4.16,2015,18630,2016
+b-8173252P,Skoda Rapid,economy,petrol,4.48,2017,47499,2015
+t-1101328j,Skoda Rapid,economy,petrol,3.52,2017,49724,2018
+r22877602B,Hyundai Solaris,economy,petrol,4.16,2013,16011,2015
+f18117990q,Fiat 500,business,petrol,3.54,2011,50045,2020
+D70075253J,Kia Rio X-line,economy,petrol,4.7,2015,20659,2016
+m42770139Y,Smart Coupe,economy,petrol,2.08,2013,16899,2017
+b-7000625F,Nissan Qashqai,standart,petrol,5.0,2015,17378,2019
+n44548974J,VW Tiguan,economy,petrol,3.86,2014,2353,2020
+A-2944345f,Kia Rio X,economy,petrol,5.6,2014,1585,2021
+q-9464619m,Kia Rio,economy,petrol,4.84,2015,19074,2014
+i-1844852z,Nissan Qashqai,standart,petrol,5.08,2013,15212,2016
+d-9264153W,Renault Kaptur,standart,petrol,6.28,2013,29556,2019
+x-1073863u,Smart ForTwo,economy,petrol,4.54,2016,38650,2016
+j11733650V,Smart ForFour,economy,petrol,4.38,2017,49206,2016
+Y21460413s,Kia Rio,economy,petrol,4.08,2012,40038,2020
+e50267468G,Smart ForTwo,economy,petrol,5.34,2016,39309,2019
+T12315854s,VW Polo VI,economy,petrol,2.74,2013,18623,2019
+S21023699D,Hyundai Solaris,economy,petrol,3.08,2015,24101,2021
+g14167513p,Renault Kaptur,standart,petrol,3.88,2015,9060,2019
+P-7272085i,MINI CooperSE,business,electro,4.84,2015,19573,2020
+w-9046173p,Smart ForFour,economy,petrol,4.36,2014,124,2014
+N13645631g,VW Polo,economy,petrol,3.84,2012,34327,2020
+d12510158m,Renault Kaptur,standart,petrol,3.82,2015,15208,2020
+i41972803T,VW Tiguan,economy,petrol,4.0,2017,52896,2017
+X16978643m,Kia Rio X,economy,petrol,3.04,2015,15400,2015
+v18074055j,Nissan Qashqai,standart,petrol,2.78,2011,63718,2017
+k83047082a,Hyundai Solaris,economy,petrol,3.4,2011,54276,2018
+n65468149f,Audi A3,premium,petrol,3.34,2016,30893,2021
+P11584247P,Renault Kaptur,standart,petrol,4.56,2014,3672,2018
+U-1561345X,Smart Coupe,economy,petrol,5.0,2015,23423,2017
+j-4855905S,Renault Sandero,standart,petrol,3.8,2013,23675,2019
+S-1859974s,Audi A4,premium,petrol,5.0,2015,14318,2019
+z13240028f,Renault Kaptur,standart,petrol,4.2,2013,12987,2021
+O-5123764z,Kia Rio,economy,petrol,4.76,2013,6192,2016
+k-2103148D,VW Polo,economy,petrol,4.52,2014,6462,2018
+Y85655975G,Hyundai Solaris,economy,petrol,3.8,2015,16496,2019
+i22687255S,Smart Coupe,economy,petrol,4.02,2016,27927,2018
+z57380739G,Renault Sandero,standart,petrol,4.14,2015,15999,2019
+D38103659M,Skoda Rapid,economy,petrol,4.26,2014,1374,2017
+f96528797Q,Kia Sportage,standart,petrol,3.08,2011,52663,2019
+f11248043m,VW Polo,economy,petrol,5.44,2015,26982,2022
+r12262900H,Renault Kaptur,standart,petrol,3.7,2014,2808,2017
+q-2040684x,Skoda Rapid,economy,petrol,4.5,2016,30197,2022
+W-1379693E,Kia Rio X-line,economy,petrol,4.6,2013,16504,2017
+t95346141l,Skoda Rapid,economy,petrol,3.9,2015,23497,2014
+Z21731330N,Smart Coupe,economy,petrol,2.52,2014,2953,2014
+o-4696240E,Kia Rio X,economy,petrol,5.52,2014,538,2018
+K-7389312F,Renault Sandero,standart,petrol,4.88,2014,2621,2016
+S14089608j,Renault Sandero,standart,petrol,3.72,2012,39362,2021
+f-1402604Y,Kia Rio,economy,petrol,3.04,2015,12968,2019
+L-1287957c,Kia Sportage,standart,petrol,5.78,2011,47600,2014
+V12115540t,Hyundai Solaris,economy,petrol,3.48,2012,40535,2017
+G17011151S,VW Polo,economy,petrol,3.24,2015,17411,2022
+a-1346871x,Volkswagen ID.4 ,premium,electro,4.98,2013,18326,2022
+T85655105K,Smart ForFour,economy,petrol,4.58,2014,1659,2018
+S-1165625A,VW Polo VI,economy,petrol,5.06,2014,946,2021
+N-1350330R,Tesla Model 3,premium,electro,5.92,2013,17605,2019
+P15525294I,Smart ForFour,economy,petrol,4.3,2014,9243,2020
+I-1793264F,Smart Coupe,economy,petrol,4.82,2017,52168,2016
+z-1502538e,Kia Sportage,standart,petrol,5.28,2013,15096,2015
+U53130609l,Kia Rio,economy,petrol,3.16,2013,18033,2020
+I-9069619f,Kia Rio X-line,economy,petrol,4.48,2014,1896,2019
+F-1882899F,Skoda Rapid,economy,petrol,3.72,2016,39020,2020
+P-1304830I,Renault Sandero,standart,petrol,5.12,2015,14690,2020
+U18986159F,Skoda Rapid,economy,petrol,3.64,2014,4301,2018
+Y20219330u,Skoda Rapid,economy,petrol,4.16,2017,47807,2017
+s22418514X,Nissan Qashqai,standart,petrol,3.58,2015,17214,2019
+E17492322n,Audi A4,premium,petrol,3.88,2017,58702,2018
+u-2043839j,VW Polo VI,economy,petrol,4.86,2012,36676,2020
+b18647136h,Kia Rio X,economy,petrol,3.42,2014,1794,2018
+T87790593E,VW Tiguan,economy,petrol,3.1,2016,32431,2017
+u-2145681U,Renault Sandero,standart,petrol,5.36,2012,27350,2015
+A21549504q,VW Polo,economy,petrol,3.7,2015,11225,2016
+O21153088X,Kia Sportage,standart,petrol,3.18,2014,402,2017
+Q-1781202F,Kia Rio X-line,economy,petrol,6.1,2015,14894,2017
+n-3382887j,Smart Coupe,economy,petrol,5.38,2017,51801,2018
+o-3638944V,Nissan Qashqai,standart,petrol,4.74,2014,2907,2018
+X13329591R,Skoda Rapid,economy,petrol,2.2,2016,33761,2016
+o-6371920C,Renault Kaptur,standart,petrol,4.46,2012,35568,2017
+S26862032W,VW Polo VI,economy,petrol,3.6,2014,840,2016
+c42356692Q,Renault Sandero,standart,petrol,3.58,2013,22980,2015
+a-1725720U,Kia Rio X-line,economy,petrol,6.1,2015,14350,2021
+j12799843b,Mini Cooper,business,petrol,4.54,2015,24968,2021
+p-6059385f,VW Polo,economy,petrol,4.36,2014,1934,2019
+l54342978c,VW Polo VI,economy,petrol,3.36,2015,10804,2021
+A58987152J,Renault Kaptur,standart,petrol,2.12,2012,44118,2020
+h-2184494z,Smart ForFour,economy,petrol,5.72,2016,35358,2015
+D42582088I,Kia Sportage,standart,petrol,4.16,2013,13136,2016
+P86690541b,VW Polo,economy,petrol,3.88,2013,21876,2017
+e50309519A,Kia Sportage,standart,petrol,3.96,2013,18234,2022
+l-6100602E,Skoda Rapid,economy,petrol,4.14,2013,19511,2020
+y10008175H,Kia Rio X,economy,petrol,4.46,2015,18040,2016
+i-1780898q,Renault Kaptur,standart,petrol,5.74,2015,18422,2021
+x-1856124P,Skoda Rapid,economy,petrol,5.24,2013,13815,2020
+O-8824926w,Hyundai Solaris,economy,petrol,4.9,2014,3621,2019
+F-7953420B,Kia Rio X,economy,petrol,4.94,2012,34582,2020
+g-2397236l,Kia Rio X,economy,petrol,4.88,2015,17159,2020
+Q10112572D,Kia Rio X-line,economy,petrol,4.66,2015,20793,2021
+k22442763C,Smart ForFour,economy,petrol,3.42,2016,38468,2020
+F81543320n,Audi Q3,premium,petrol,3.56,2016,28445,2020
+a48123530H,Smart Coupe,economy,petrol,3.26,2013,18694,2020
+t-1015422b,Hyundai Solaris,economy,petrol,5.18,2012,46520,2017
+I20838374W,Mercedes-Benz GLC,business,petrol,4.72,2011,45267,2022
+p42132331Q,Smart ForTwo,economy,petrol,2.36,2017,56559,2017
+R-9339318Q,Kia Sportage,standart,petrol,4.98,2015,19850,2021
+v-2016305K,Nissan Qashqai,standart,petrol,5.64,2012,35022,2022
+V81085560m,Kia Sportage,standart,petrol,3.08,2013,14843,2016
+H-9396562l,Nissan Qashqai,standart,petrol,4.76,2014,3914,2020
+F12105006h,VW Polo VI,economy,petrol,4.4,2013,13906,2018
+G-1374162a,Hyundai Solaris,economy,petrol,4.42,2011,61276,2019
+m-1374015l,Kia Sportage,standart,petrol,4.24,2013,12490,2019
+G-2020775S,Smart ForFour,economy,petrol,5.92,2013,18899,2017
+M-1096475X,Kia Rio X-line,economy,petrol,5.98,2015,21931,2016
+Q16579965T,VW Polo,economy,petrol,2.82,2014,932,2017
+G-5803601t,Nissan Qashqai,standart,petrol,5.08,2015,21931,2018
+X-1116334W,Smart ForTwo,economy,petrol,4.94,2016,37511,2017
+g12934938r,Smart ForFour,economy,petrol,2.9,2016,35643,2016
+q-1044845M,Hyundai Solaris,economy,petrol,4.9,2012,33853,2015
+j88419425u,Nissan Qashqai,standart,petrol,4.34,2012,37651,2015
+A47507709e,Mercedes-Benz GLC,business,petrol,4.4,2013,19446,2022
+Y-4582526i,Kia Sportage,standart,petrol,4.08,2014,2820,2014
+E-2232739R,Nissan Qashqai,standart,petrol,5.2,2013,24757,2020
+L-1008700d,Smart ForTwo,economy,petrol,4.94,2013,18420,2019
+C11853320t,VW Polo,economy,petrol,4.12,2014,5474,2015
+D-3515537a,Hyundai Solaris,economy,petrol,4.14,2015,15498,2020
+b-1646866P,Kia Rio X,economy,petrol,4.8,2014,554,2020
+g-4604448Y,VW Polo VI,economy,petrol,4.74,2011,54591,2019
+Q89124838v,Nissan Qashqai,standart,petrol,4.14,2014,1113,2020
+P13764484L,VW Polo VI,economy,petrol,4.32,2012,36473,2020
+A-1515897r,Kia Sportage,standart,petrol,5.72,2011,46818,2014
+w-1513142m,Kia Sportage,standart,petrol,4.74,2014,369,2018
+g-2793216q,Renault Sandero,standart,petrol,4.32,2013,16271,2018
+E-1126502J,Audi Q3,premium,petrol,3.98,2015,16858,2020
+u-1095335e,Renault Kaptur,standart,petrol,4.54,2015,18926,2019
+Y10380880J,Kia Rio X-line,economy,petrol,2.8,2014,1611,2016
+j-1603623y,Smart ForFour,economy,petrol,4.78,2017,51214,2021
+J98863076V,Nissan Qashqai,standart,petrol,2.52,2015,10962,2018
+s-3917261z,Nissan Qashqai,standart,petrol,5.1,2011,52142,2020
+K-1886724a,Kia Sportage,standart,petrol,4.8,2012,31972,2019
+s15371419J,VW Polo VI,economy,petrol,3.28,2013,18411,2016
+k53087424p,VW Tiguan,economy,petrol,4.5,2016,36773,2022
+W-2116584t,Renault Sandero,standart,petrol,3.88,2015,20516,2021
+s-1838287u,Smart Coupe,economy,petrol,4.48,2016,36350,2014
+V16577777u,Smart Coupe,economy,petrol,3.82,2017,47964,2020
+C42180984m,Audi A3,premium,petrol,4.44,2017,59484,2021
+g-8189420q,Smart Coupe,economy,petrol,4.62,2013,21518,2019
+Q21875255d,Renault Kaptur,standart,petrol,3.2,2013,17281,2017
+M-6236149K,MINI CooperSE,business,electro,5.52,2014,1807,2018
+X59877556W,Smart Coupe,economy,petrol,3.88,2017,54753,2016
+h14062863f,VW Tiguan,economy,petrol,4.1,2013,20755,2021
+e-1102094S,VW Tiguan,economy,petrol,5.76,2014,3888,2019
+g10945944q,Renault Sandero,standart,petrol,3.7,2011,56990,2016
+S-1897022t,Kia Rio X-line,economy,petrol,5.42,2014,1604,2020
+v23051480T,Kia Rio X,economy,petrol,3.36,2013,11558,2019
+u-2091840h,Kia Rio,economy,petrol,5.8,2015,10540,2016
+h-1405917v,Skoda Rapid,economy,petrol,4.72,2015,11925,2018
+i-9515629g,Renault Kaptur,standart,petrol,4.62,2013,14397,2017
+c-8833199w,Smart ForFour,economy,petrol,4.3,2015,17151,2015
+s16990739Z,VW Polo,economy,petrol,1.9,2014,9067,2020
+D-9012506W,Renault Kaptur,standart,petrol,3.96,2011,65516,2017
+D61268903Q,Volkswagen ID.4 ,premium,electro,3.44,2015,15961,2020
+Y-1307929H,Kia Rio X,economy,petrol,4.0,2014,4657,2014
+X-1564576c,VW Polo VI,economy,petrol,4.16,2012,31016,2018
+c16345987Y,Smart Coupe,economy,petrol,4.36,2013,16228,2021
+m-3056832h,Kia Rio,economy,petrol,6.64,2014,10638,2019
+L15304610m,VW Polo,economy,petrol,3.9,2015,16563,2020
+m-8554219y,Hyundai Solaris,economy,petrol,5.0,2014,3559,2015
+c-1616742A,VW Polo,economy,petrol,4.62,2015,19571,2018
+I13109239Y,Kia Rio,economy,petrol,4.98,2015,19424,2016
+F68062162k,Renault Sandero,standart,petrol,3.74,2015,23585,2020
+c14962213J,Kia Rio X-line,economy,petrol,2.48,2012,41389,2020
+P54703896a,VW Polo VI,economy,petrol,4.48,2014,4044,2021
+I-2084651w,Smart Coupe,economy,petrol,4.42,2013,20272,2017
+V-1377446Y,Renault Kaptur,standart,petrol,5.38,2014,4279,2015
+V-1513777S,Kia Sportage,standart,petrol,5.0,2013,11992,2016
+e-9245662v,Smart ForFour,economy,petrol,4.28,2017,44968,2021
+Q13107712S,Kia Rio X,economy,petrol,4.3,2015,16454,2019
+p-1771959Y,Nissan Qashqai,standart,petrol,4.46,2015,19141,2021
+G-7595553x,Nissan Qashqai,standart,petrol,4.36,2014,7620,2015
+j-2094114R,Nissan Qashqai,standart,petrol,4.74,2013,21548,2015
+e-6694200q,Nissan Qashqai,standart,petrol,6.56,2011,48393,2019
+v-2282620M,Skoda Rapid,economy,petrol,4.76,2014,1384,2020
+G44873288o,Smart ForFour,economy,petrol,2.68,2017,46916,2017
+X14483697B,Smart Coupe,economy,petrol,3.7,2015,16149,2015
+U27832427d,Kia Sportage,standart,petrol,2.72,2011,47581,2018
+w10528617K,Nissan Qashqai,standart,petrol,4.3,2014,926,2017
+d-2270572G,Kia Rio,economy,petrol,4.96,2013,13932,2021
+T16080663v,Fiat 500,business,petrol,4.1,2011,52755,2021
+l18954256S,Renault Kaptur,standart,petrol,4.34,2011,54538,2020
+k95607787j,VW Polo,economy,petrol,3.24,2014,2721,2015
+y26461324C,Audi A3,premium,petrol,4.34,2017,51752,2020
+S-1492988b,Renault Sandero,standart,petrol,4.5,2014,7584,2019
+i-2265070B,Renault Kaptur,standart,petrol,5.46,2011,51708,2018
+g-1820506Q,Smart ForTwo,economy,petrol,4.66,2015,29692,2021
+F-6051277R,Smart Coupe,economy,petrol,5.08,2013,22297,2020
+B-6772851A,Kia Rio,economy,petrol,5.96,2012,34743,2021
+S11481937C,Skoda Rapid,economy,petrol,2.0,2014,9022,2019
+v21419444H,Nissan Qashqai,standart,petrol,2.9,2013,20322,2019
+m-1579495O,MINI CooperSE,business,electro,4.76,2014,6731,2016
+D16075760P,Audi A4,premium,petrol,3.72,2015,14451,2021
+l-1316396C,Skoda Rapid,economy,petrol,5.14,2017,50560,2022
+J-1836752L,Kia Rio,economy,petrol,4.12,2013,16145,2014
+T-1149943J,Hyundai Solaris,economy,petrol,4.88,2013,14511,2020
+l13487906Z,Smart ForFour,economy,petrol,4.28,2013,14612,2020
+a11867112k,Audi Q3,premium,petrol,3.66,2013,20415,2018
+W38883683P,Kia Sportage,standart,petrol,2.06,2011,60659,2021
+j-4739253a,Kia Rio X-line,economy,petrol,3.16,2011,52946,2016
+c42054816u,VW Tiguan,economy,petrol,3.66,2016,27874,2019
+R11399272P,Kia Rio,economy,petrol,1.84,2011,54642,2015
+q10311005F,Skoda Rapid,economy,petrol,3.84,2016,33423,2016
+A20839315g,VW Polo VI,economy,petrol,3.22,2012,34323,2018
+h-1670348n,VW Tiguan,economy,petrol,4.7,2014,997,2019
+W-4324320u,Smart Coupe,economy,petrol,5.34,2013,24488,2018
+U24429146s,VW Polo,economy,petrol,3.2,2012,38886,2017
+x-9387501D,Mercedes-Benz GLC,business,petrol,6.48,2013,13806,2015
+Y10273758P,Kia Rio X,economy,petrol,2.98,2015,11685,2020
+p11757819W,Nissan Qashqai,standart,petrol,4.14,2015,12112,2017
+C-1323804r,Renault Kaptur,standart,petrol,4.62,2013,17569,2017
+b-1058660E,Renault Sandero,standart,petrol,4.12,2011,55792,2014
+H36623439K,VW Polo,economy,petrol,4.16,2014,527,2016
+Q-5115546r,Smart ForFour,economy,petrol,4.94,2014,6877,2014
+Q-1533160k,Hyundai Solaris,economy,petrol,4.26,2015,17286,2018
+z10591393O,VW Polo VI,economy,petrol,3.12,2013,22153,2018
+N-9368463W,Hyundai Solaris,economy,petrol,3.5,2015,12292,2019
+S45781103L,Skoda Rapid,economy,petrol,4.58,2016,36528,2019
+B17992033o,Volkswagen ID.4 ,premium,electro,3.78,2013,18966,2019
+T-5017471R,Audi A4,premium,petrol,5.76,2013,18021,2020
+A-2048936O,VW Polo,economy,petrol,4.92,2014,7889,2016
+O-1353622X,Skoda Rapid,economy,petrol,4.46,2016,36922,2017
+b15700398U,Hyundai Solaris,economy,petrol,3.38,2014,3118,2015
+P-8488365K,VW Tiguan,economy,petrol,5.4,2016,33940,2018
+G-1706512j,VW Polo VI,economy,petrol,4.64,2014,403,2018
+d11857046P,Nissan Qashqai,standart,petrol,4.06,2012,40080,2015
+x-1788508I,Kia Rio X-line,economy,petrol,4.52,2015,16276,2020
+L25627005I,Kia Rio X-line,economy,petrol,4.58,2015,9629,2017
+Z-1700891S,Kia Rio X,economy,petrol,6.2,2012,38887,2021
+S22394539Y,Kia Rio X-line,economy,petrol,3.62,2013,18630,2016
+v-3063900c,Hyundai Solaris,economy,petrol,5.94,2013,13873,2021
+n41601340c,VW Polo VI,economy,petrol,4.5,2013,18278,2021
+Z16441198S,Kia Rio X,economy,petrol,3.74,2015,23581,2018
+r77105700R,Renault Sandero,standart,petrol,4.36,2011,54228,2016
+k-4141363j,Renault Kaptur,standart,petrol,3.0,2015,14859,2017
+Z-1633512G,Smart ForFour,economy,petrol,5.1,2017,52584,2016
+e99057990L,Renault Kaptur,standart,petrol,3.88,2014,875,2017
+e-1276427t,Hyundai Solaris,economy,petrol,5.46,2014,3938,2022
+p10170573x,Kia Rio X,economy,petrol,4.98,2011,51674,2014
+D12513174Q,VW Tiguan,economy,petrol,4.02,2017,55922,2022
+Z10167594w,Kia Sportage,standart,petrol,3.06,2013,18679,2018
+Y52141897j,Renault Sandero,standart,petrol,2.86,2011,48388,2020
+V-1966579c,Smart ForFour,economy,petrol,4.94,2016,33802,2016
+b-1007961r,Renault Sandero,standart,petrol,4.46,2015,18730,2019
+c81855914T,Renault Kaptur,standart,petrol,4.22,2013,19809,2018
+k83104678F,Smart ForTwo,economy,petrol,4.02,2014,5712,2020
+z14265413F,Kia Sportage,standart,petrol,2.08,2012,32971,2015
+c58436059x,Hyundai Solaris,economy,petrol,4.16,2012,33805,2022
+Z29953421o,Kia Sportage,standart,petrol,5.1,2013,19315,2015
+W22479387v,Hyundai Solaris,economy,petrol,3.88,2014,4930,2021
+D19898624h,VW Polo VI,economy,petrol,3.76,2011,54923,2016
+g-2107474q,Kia Rio X,economy,petrol,5.74,2011,56002,2020
+F88701561a,Smart Coupe,economy,petrol,3.08,2015,5087,2017
+T17006688f,Kia Sportage,standart,petrol,3.94,2015,21789,2020
+k22777538m,MINI CooperSE,business,electro,4.3,2011,52944,2020
+U-1733432s,VW Polo VI,economy,petrol,4.92,2015,16024,2021
+h10365943a,Smart Coupe,economy,petrol,3.58,2016,32016,2017
+f81525374O,Renault Kaptur,standart,petrol,2.94,2012,39462,2020
+t-2936866j,Nissan Qashqai,standart,petrol,4.5,2012,39280,2016
+I12098411a,Kia Rio X-line,economy,petrol,4.06,2015,21843,2022
+o-1829013e,Renault Sandero,standart,petrol,5.16,2014,3278,2018
+q14155844O,Renault Sandero,standart,petrol,3.78,2012,36346,2019
+L89956190C,Kia Rio X,economy,petrol,4.74,2013,13158,2021
+I-1161243n,Kia Sportage,standart,petrol,5.1,2014,1110,2021
+k16297876E,VW Polo VI,economy,petrol,3.4,2015,15704,2017
+O10291955W,Nissan Qashqai,standart,petrol,4.22,2015,15604,2020
+U91064420f,Kia Rio,economy,petrol,4.0,2011,59566,2019
+l17683690d,Audi Q3,premium,petrol,4.06,2017,46440,2018
+n-2688615M,Smart ForTwo,economy,petrol,4.38,2017,49882,2020
+A-1988575b,Kia Sportage,standart,petrol,4.68,2014,2220,2019
+d-8403729E,Kia Rio X,economy,petrol,4.7,2013,21050,2017
+V-5236151D,Kia Rio X,economy,petrol,5.1,2011,49009,2016
+W12405203C,Smart ForFour,economy,petrol,4.14,2015,14098,2014
+K37281597S,Smart ForFour,economy,petrol,4.26,2015,16106,2015
+Q-1133553z,Kia Rio X-line,economy,petrol,5.74,2014,8773,2021
+V29750553Y,Mercedes-Benz GLC,business,petrol,3.32,2011,56314,2016
+f32343198S,Renault Sandero,standart,petrol,4.74,2011,50928,2018
+j10861426X,Skoda Rapid,economy,petrol,3.68,2015,21593,2017
+J87905704A,VW Polo VI,economy,petrol,4.16,2013,17900,2020
+f33472955D,Smart ForFour,economy,petrol,3.94,2017,50607,2019
+K-1902485B,Hyundai Solaris,economy,petrol,5.92,2011,56311,2021
+t-2064334z,Kia Rio X-line,economy,petrol,6.84,2012,31679,2018
+V13087409F,Kia Rio X-line,economy,petrol,3.94,2015,11811,2022
+V18315149F,Hyundai Solaris,economy,petrol,2.74,2012,34312,2020
+d21178020R,Smart ForFour,economy,petrol,3.74,2015,13989,2017
+k68347856g,Smart Coupe,economy,petrol,3.98,2016,38715,2022
+q22536275I,Kia Rio,economy,petrol,3.8,2011,58443,2016
+v-2238682c,Renault Kaptur,standart,petrol,4.7,2012,40620,2020
+p88892538N,Nissan Qashqai,standart,petrol,3.0,2013,18404,2014
+t-1935293o,Audi A3,premium,petrol,5.36,2017,46975,2021
+k33619141e,Kia Rio,economy,petrol,2.56,2012,39968,2019
+Q-4235325b,Tesla Model 3,premium,electro,5.26,2014,3857,2022
+h12795825l,Kia Rio,economy,petrol,3.26,2015,20056,2017
+r-5031787m,VW Polo VI,economy,petrol,4.78,2013,22176,2018
+F15036625v,VW Tiguan,economy,petrol,3.06,2015,10825,2020
+V12238476D,Kia Sportage,standart,petrol,3.98,2013,18103,2021
+Y17165410n,Mini Cooper,business,petrol,3.54,2012,36383,2022
+u-3415077k,Skoda Rapid,economy,petrol,4.32,2016,35009,2020
+B93836278G,Smart ForFour,economy,petrol,3.56,2014,496,2017
+m51349033g,MINI CooperSE,business,electro,3.08,2011,55522,2020
+y22828803L,Kia Rio,economy,petrol,3.42,2013,11752,2021
+G17627715y,Kia Rio,economy,petrol,3.12,2012,31384,2018
+J50447161v,Smart ForTwo,economy,petrol,4.6,2013,15473,2016
+H16682486L,Hyundai Solaris,economy,petrol,3.32,2014,3943,2022
+B-7689386o,Kia Rio X-line,economy,petrol,4.6,2011,52524,2020
+y-1752726V,Smart Coupe,economy,petrol,4.96,2016,30643,2017
+M80697331d,Hyundai Solaris,economy,petrol,5.1,2014,7893,2021
+o-4497181P,Nissan Qashqai,standart,petrol,4.88,2013,9555,2022
+t17322729k,Smart ForFour,economy,petrol,3.88,2013,13633,2020
+H16154897D,Kia Sportage,standart,petrol,3.02,2015,16791,2017
+J59960663p,Smart Coupe,economy,petrol,3.18,2015,12571,2019
+p-1214399c,Kia Rio X-line,economy,petrol,4.94,2012,32317,2016
+e-1414540Y,Smart ForFour,economy,petrol,3.84,2016,30077,2016
+W-6138244S,Smart ForFour,economy,petrol,5.32,2015,19922,2016
+G17377477X,Skoda Rapid,economy,petrol,4.14,2014,2008,2016
+J-4530260f,Kia Rio X,economy,petrol,6.62,2015,22236,2019
+I58074593r,Renault Kaptur,standart,petrol,5.8,2013,18625,2017
+H32038736L,Smart Coupe,economy,petrol,4.6,2017,51186,2020
+Q11756802t,Smart ForFour,economy,petrol,4.96,2017,59309,2018
+i17129600C,Renault Sandero,standart,petrol,3.52,2013,20457,2016
+a-1696631F,Kia Rio X,economy,petrol,4.7,2012,36265,2021
+W20143618n,Skoda Rapid,economy,petrol,5.06,2015,15086,2017
+y31807857l,Kia Rio X-line,economy,petrol,3.82,2015,18241,2019
+Y29800232Q,Renault Sandero,standart,petrol,2.72,2015,15572,2019
+i22358408E,Kia Rio,economy,petrol,3.5,2015,10921,2016
+L15514463h,Kia Rio X-line,economy,petrol,3.46,2012,36278,2021
+N85638940k,Kia Sportage,standart,petrol,3.72,2013,19119,2019
+q-1340086Z,Kia Sportage,standart,petrol,4.86,2014,2372,2018
+G79172033R,MINI CooperSE,business,electro,3.0,2013,16967,2020
+A-1566689g,Renault Kaptur,standart,petrol,4.2,2014,13261,2020
+G10850998t,Nissan Qashqai,standart,petrol,3.6,2015,21745,2018
+h-1292613A,Kia Rio,economy,petrol,6.36,2015,16177,2019
+M20203885K,Hyundai Solaris,economy,petrol,2.98,2013,18703,2017
+Q-3829039h,VW Polo VI,economy,petrol,3.78,2012,36489,2017
+T-9486823A,VW Polo,economy,petrol,4.46,2014,2658,2016
+Z-2188998G,Smart Coupe,economy,petrol,5.14,2017,54392,2019
+j-1190360H,Skoda Rapid,economy,petrol,3.12,2013,21806,2020
+B-3501276O,Kia Rio,economy,petrol,4.6,2015,9959,2019
+L-1144050J,Kia Rio X-line,economy,petrol,5.56,2015,23811,2019
+R18897906H,VW Tiguan,economy,petrol,3.28,2014,6680,2019
+e51824650T,VW Polo VI,economy,petrol,3.26,2014,403,2019
+U-2060984k,Kia Rio X-line,economy,petrol,4.2,2013,18794,2016
+G-1819418O,Smart Coupe,economy,petrol,4.92,2015,16460,2021
+C17802282f,Smart ForFour,economy,petrol,3.34,2017,51655,2018
+k-1974790a,Volkswagen ID.4 ,premium,electro,4.12,2015,12914,2021
+z-3648532G,Renault Kaptur,standart,petrol,5.22,2013,11632,2020
+P56912937h,Renault Kaptur,standart,petrol,3.38,2013,14385,2021
+y15351106P,Kia Sportage,standart,petrol,3.98,2011,52542,2019
+O12689844c,Audi Q3,premium,petrol,4.0,2013,15625,2022
+J16173623I,Smart ForFour,economy,petrol,1.2,2017,45155,2018
+F10890097Y,Kia Rio X-line,economy,petrol,4.28,2014,11092,2016
+r20381242I,Kia Rio X,economy,petrol,4.1,2015,15849,2016
+x18421305i,Renault Kaptur,standart,petrol,4.46,2015,20979,2018
+A39859325e,Smart Coupe,economy,petrol,5.22,2016,36128,2018
+U-1569256E,VW Polo VI,economy,petrol,4.82,2011,48638,2019
+W-5848110b,Skoda Rapid,economy,petrol,4.54,2017,53452,2017
+H-2914163J,Renault Kaptur,standart,petrol,4.18,2015,21375,2017
+l76181487g,Kia Rio X,economy,petrol,4.36,2013,16814,2020
+U-2282415d,VW Polo VI,economy,petrol,5.06,2015,19628,2019
+B-2098737J,Smart ForTwo,economy,petrol,5.08,2014,9592,2018
+o-2230333Q,Hyundai Solaris,economy,petrol,4.26,2015,10228,2015
+p-1160446i,Smart ForTwo,economy,petrol,4.5,2015,11629,2015
+D11260751D,Smart ForTwo,economy,petrol,3.64,2015,12151,2018
+b-2158473x,Renault Sandero,standart,petrol,4.72,2014,1677,2019
+w15701330N,VW Polo,economy,petrol,3.3,2014,4137,2021
+h22227850J,VW Tiguan,economy,petrol,2.64,2013,19103,2019
+S-8654837Q,VW Polo,economy,petrol,4.74,2014,1940,2014
+x17156082D,Smart ForFour,economy,petrol,4.04,2016,32965,2019
+i-1455247U,Skoda Rapid,economy,petrol,5.18,2017,52723,2018
+s-1787096m,Renault Kaptur,standart,petrol,5.8,2013,9805,2018
+M-1877176C,Kia Rio,economy,petrol,5.36,2015,13545,2018
+x52290229G,VW Tiguan,economy,petrol,4.68,2014,550,2020
+A-5805466z,Kia Rio,economy,petrol,4.76,2012,34039,2017
+A-6665790h,Renault Kaptur,standart,petrol,4.26,2011,51525,2020
+h-5787803i,Nissan Qashqai,standart,petrol,5.64,2013,19056,2019
+l21410378l,Nissan Qashqai,standart,petrol,3.36,2015,13295,2019
+y-1768601Z,Renault Sandero,standart,petrol,5.58,2012,38244,2019
+K66799417V,Skoda Rapid,economy,petrol,3.32,2013,23523,2021
+j22413222H,Nissan Qashqai,standart,petrol,3.28,2012,31346,2016
+k16764672J,Hyundai Solaris,economy,petrol,2.8,2012,27348,2019
+V86140479X,Hyundai Solaris,economy,petrol,4.7,2015,12771,2015
+G83794308Q,Nissan Qashqai,standart,petrol,3.72,2011,49492,2018
+x11011048v,Smart ForTwo,economy,petrol,3.88,2014,2299,2021
+K-2076329d,Smart ForTwo,economy,petrol,4.34,2014,2245,2015
+P-1725410v,VW Polo VI,economy,petrol,5.26,2015,15250,2018
+f-1105506T,Kia Rio,economy,petrol,4.68,2011,48419,2018
+b-1568586Y,Skoda Rapid,economy,petrol,5.68,2013,20382,2018
+u40569419R,Nissan Qashqai,standart,petrol,2.18,2014,6600,2020
+N15355965m,Smart ForTwo,economy,petrol,4.68,2017,57381,2017
+o-9051008H,Renault Sandero,standart,petrol,5.42,2014,798,2020
+z20967349y,Kia Rio,economy,petrol,3.28,2014,7815,2015
+j-1306818d,Kia Rio X,economy,petrol,5.24,2011,55253,2021
+e12675591w,Renault Kaptur,standart,petrol,4.04,2015,20542,2018
+b18515381b,VW Tiguan,economy,petrol,2.78,2013,16342,2019
+C-4998351a,Renault Kaptur,standart,petrol,4.44,2013,9935,2018
+e-1871336X,Smart ForTwo,economy,petrol,5.34,2014,344,2022
+T92680225s,Nissan Qashqai,standart,petrol,3.86,2015,20647,2017
+l-1748228K,Smart ForFour,economy,petrol,5.02,2014,332,2021
+l-1859342b,Audi Q3,premium,petrol,4.48,2016,30794,2018
+D-1122681x,Hyundai Solaris,economy,petrol,3.58,2011,60650,2021
+i-2022631d,Smart ForTwo,economy,petrol,5.4,2013,15668,2016
+O10613376t,Smart Coupe,economy,petrol,3.92,2017,50927,2022
+V92847840W,Skoda Rapid,economy,petrol,4.22,2017,50984,2022
+n10445794R,Renault Kaptur,standart,petrol,3.84,2015,18188,2018
+i12665289i,Skoda Rapid,economy,petrol,3.3,2017,50696,2020
+T-2642054C,Skoda Rapid,economy,petrol,4.52,2017,54002,2021
+T68006714M,Kia Sportage,standart,petrol,4.0,2015,15813,2014
+r-1568397k,Smart ForFour,economy,petrol,5.54,2015,14057,2020
+Q42518050I,Kia Rio,economy,petrol,3.88,2014,6126,2015
+a12422801H,Renault Kaptur,standart,petrol,3.26,2015,16432,2014
+f46840353k,Mini Cooper,business,petrol,2.26,2014,1400,2022
+v12185505J,VW Polo,economy,petrol,3.68,2014,122,2021
+n-1368001h,Smart ForTwo,economy,petrol,5.3,2017,45324,2016
+O-5383026a,Kia Rio,economy,petrol,5.56,2015,23923,2018
+U-3634156o,Kia Rio X-line,economy,petrol,4.46,2014,2354,2021
+x-1143596N,VW Polo VI,economy,petrol,4.48,2014,219,2019
+n-1233890Z,Kia Rio X-line,economy,petrol,6.26,2013,4347,2016
+q-4058651W,VW Tiguan,economy,petrol,5.2,2016,38445,2020
+x90312827R,VW Tiguan,economy,petrol,4.54,2016,30157,2019
+x-9041668O,VW Polo VI,economy,petrol,5.0,2011,51175,2022
+m20866849Z,Renault Sandero,standart,petrol,3.9,2012,33967,2016
+q21780828Y,Kia Rio X,economy,petrol,4.44,2015,19645,2019
+a-8576862P,Smart Coupe,economy,petrol,5.3,2014,5695,2018
+c16315117g,Smart ForTwo,economy,petrol,4.3,2017,56800,2018
+P-1094526k,Kia Rio X,economy,petrol,5.48,2014,3302,2015
+x-1493139c,Kia Sportage,standart,petrol,3.58,2012,40170,2019
+W-3259914D,Audi Q3,premium,petrol,3.68,2015,12908,2020
+I-2241275u,Nissan Qashqai,standart,petrol,3.8,2015,15356,2016
+q22580202A,Kia Rio X,economy,petrol,3.1,2015,16913,2017
+y23026497f,Nissan Qashqai,standart,petrol,2.64,2013,13389,2020
+w-2112661C,Kia Rio X,economy,petrol,5.32,2015,13151,2014
+T10200726h,Renault Kaptur,standart,petrol,4.5,2014,5200,2018
+q22218172t,VW Polo,economy,petrol,3.46,2015,23577,2020
+Q-2132058H,VW Tiguan,economy,petrol,5.2,2013,19826,2020
+m-2037133b,Kia Sportage,standart,petrol,4.42,2015,30677,2016
+h-1321922k,Kia Sportage,standart,petrol,5.66,2011,44865,2019
+q35395828L,VW Polo,economy,petrol,5.0,2015,17000,2018
+M-1947033a,Kia Rio X-line,economy,petrol,4.7,2015,16711,2014
+I-1492683j,Kia Sportage,standart,petrol,5.74,2013,17199,2016
+H68447296f,Skoda Rapid,economy,petrol,4.38,2015,18720,2019
+V19188921q,VW Polo,economy,petrol,4.36,2013,16400,2021
+j-9598737b,Skoda Rapid,economy,petrol,4.82,2017,52815,2021
+V22193049E,VW Polo,economy,petrol,3.46,2015,16372,2021
+q-2142544l,VW Polo,economy,petrol,5.82,2012,37557,2020
+U20882342w,Smart ForTwo,economy,petrol,3.9,2015,14756,2017
+g-5078493Z,Kia Rio,economy,petrol,4.0,2012,43963,2015
+s-1393901l,VW Polo,economy,petrol,3.78,2015,12871,2018
+d10268044f,VW Polo,economy,petrol,4.1,2014,67,2018
+w-1598234p,VW Tiguan,economy,petrol,4.68,2016,37704,2019
+p97980263e,Kia Rio X,economy,petrol,4.22,2015,14418,2021
+Z-1180856j,VW Polo,economy,petrol,4.78,2014,8630,2019
+N-1299016o,Skoda Rapid,economy,petrol,5.78,2013,12592,2019
+h18952058T,VW Polo VI,economy,petrol,4.12,2012,40979,2016
+K-1736339Q,Renault Kaptur,standart,petrol,4.5,2013,17675,2021
+v-6042449W,VW Tiguan,economy,petrol,5.4,2013,10923,2017
+D12146227c,Kia Rio X,economy,petrol,4.44,2015,16600,2018
+m33245163a,VW Tiguan,economy,petrol,3.18,2017,49715,2020
+j-5389257x,Skoda Rapid,economy,petrol,4.76,2017,51073,2017
+L71211076E,Renault Sandero,standart,petrol,5.14,2015,16046,2016
+g73979515Z,VW Polo VI,economy,petrol,4.08,2011,48553,2018
+j46101673m,VW Polo,economy,petrol,4.36,2014,1114,2017
+c-1602472r,Smart ForFour,economy,petrol,5.64,2016,38462,2017
+R20697419c,Kia Rio X,economy,petrol,3.62,2013,17604,2021
+B77025690s,VW Polo VI,economy,petrol,4.26,2015,13730,2017
+P-8028087s,Hyundai Solaris,economy,petrol,3.78,2014,4645,2021
+I-1772657v,Kia Rio X-line,economy,petrol,4.4,2011,58836,2019
+a-1894898M,Kia Sportage,standart,petrol,4.92,2014,847,2014
+a11178858F,Audi A4,premium,petrol,3.42,2017,59688,2018
+L-9991410s,Kia Sportage,standart,petrol,4.8,2014,1659,2019
+a20620126x,VW Tiguan,economy,petrol,3.02,2014,4250,2019
+A72839897C,Renault Sandero,standart,petrol,3.96,2012,32776,2020
+W16596288U,Smart ForFour,economy,petrol,2.8,2013,21941,2022
+q-2053839X,Hyundai Solaris,economy,petrol,4.8,2014,818,2020
+R78861270c,Mercedes-Benz E200,business,petrol,4.76,2015,11572,2019
+D18773099z,Renault Sandero,standart,petrol,3.72,2011,52682,2020
+F-2526747A,Kia Rio X,economy,petrol,4.94,2012,34346,2020
+h76434296R,Smart ForFour,economy,petrol,3.38,2017,45379,2019
+b-3667918d,Renault Sandero,standart,petrol,5.1,2013,25076,2021
+F-8101220A,Smart ForTwo,economy,petrol,4.1,2013,19872,2014
+v20377219e,Kia Rio,economy,petrol,3.64,2015,16229,2017
+a11989906m,Renault Kaptur,standart,petrol,4.14,2013,23632,2016
+F21050898K,Smart ForTwo,economy,petrol,2.58,2015,16882,2022
+F19681686r,VW Polo,economy,petrol,2.88,2015,21671,2016
+T-1916322Z,Mercedes-Benz GLC,business,petrol,5.08,2015,13168,2019
+l-1124430J,Renault Kaptur,standart,petrol,6.06,2015,10060,2019
+L-1131798K,Nissan Qashqai,standart,petrol,6.18,2014,1874,2022
+c-1365756i,Kia Rio,economy,petrol,4.42,2015,13191,2019
+r-6152196I,Skoda Rapid,economy,petrol,5.42,2017,53149,2015
+B15184184E,VW Polo VI,economy,petrol,4.28,2013,18686,2022
+D-2288304t,VW Tiguan,economy,petrol,5.36,2016,27674,2020
+F-7776319i,VW Polo,economy,petrol,4.56,2012,35988,2020
+A-4426946l,Hyundai Solaris,economy,petrol,4.74,2015,18089,2016
+v-1766292Y,Kia Sportage,standart,petrol,4.92,2015,16439,2017
+h-1471406A,Kia Rio X-line,economy,petrol,5.12,2011,56120,2015
+J98973509x,Kia Rio X,economy,petrol,4.64,2013,18068,2019
+H14165491a,Mini Cooper,business,petrol,3.36,2014,1218,2019
+q-5468889T,VW Polo VI,economy,petrol,4.6,2015,23796,2015
+P26059761M,Skoda Rapid,economy,petrol,4.4,2016,36432,2016
+q12031503a,Kia Sportage,standart,petrol,3.72,2011,57679,2016
+E20564354p,VW Polo,economy,petrol,3.86,2015,20647,2017
+Z-4896792x,Smart Coupe,economy,petrol,5.06,2016,38091,2018
+E-2275155c,Renault Sandero,standart,petrol,4.72,2013,13660,2017
+G12063774z,Renault Sandero,standart,petrol,4.6,2013,23003,2018
+P21284735k,Kia Rio,economy,petrol,3.26,2011,52835,2018
+x11159773u,BMW 320i,business,petrol,1.4,2017,46306,2017
+o-1090618b,Kia Rio X,economy,petrol,5.52,2013,27201,2019
+q16326656K,Renault Sandero,standart,petrol,4.02,2015,17965,2020
+n-9873216L,VW Polo,economy,petrol,5.3,2015,21368,2017
+z-2001931W,Tesla Model 3,premium,electro,5.32,2015,15329,2018
+o80112898n,VW Tiguan,economy,petrol,4.26,2016,34527,2019
+Y28768431s,Kia Sportage,standart,petrol,4.1,2013,21263,2019
+S15966260E,Kia Rio X-line,economy,petrol,3.86,2015,17222,2022
+F31844002X,Skoda Rapid,economy,petrol,3.82,2014,5063,2014
+A12174694K,VW Polo VI,economy,petrol,4.16,2014,3754,2014
+d-1500196l,Renault Kaptur,standart,petrol,6.62,2015,15621,2014
+W-1876680E,Smart Coupe,economy,petrol,4.26,2015,14554,2016
+Y-3623566j,Skoda Rapid,economy,petrol,4.74,2016,35304,2018
+g-1283680Z,Smart ForTwo,economy,petrol,5.92,2017,53981,2015
+H59221079E,Kia Sportage,standart,petrol,4.86,2013,13547,2020
+I13202703o,Nissan Qashqai,standart,petrol,4.08,2013,19671,2020
+r22536570x,Audi A4,premium,petrol,2.7,2016,27652,2019
+O48028003A,Kia Rio X,economy,petrol,4.3,2011,51581,2020
+q-1979397h,Skoda Rapid,economy,petrol,4.54,2016,41607,2018
+v94672745O,Kia Rio,economy,petrol,4.66,2015,20719,2020
+j-1074316F,Fiat 500,business,petrol,6.28,2013,18429,2015
+d-1776332w,Smart ForFour,economy,petrol,4.0,2014,1501,2019
+w-8914037c,Renault Kaptur,standart,petrol,4.88,2011,48603,2020
+E22507752K,Kia Rio X-line,economy,petrol,4.58,2011,57197,2022
+g-9866529F,Smart ForFour,economy,petrol,6.06,2017,51865,2018
+N-1753767y,Kia Rio X,economy,petrol,5.12,2015,21662,2017
+r-5322180a,Smart Coupe,economy,petrol,5.4,2013,19585,2019
+i18175752F,VW Polo,economy,petrol,5.22,2015,10863,2017
+D44036145e,Smart Coupe,economy,petrol,4.2,2016,41306,2020
+w-1208786A,Smart Coupe,economy,petrol,5.56,2016,38998,2017
+B78687474H,Kia Rio,economy,petrol,2.46,2015,17993,2014
+Q-2389686F,VW Polo VI,economy,petrol,3.96,2012,40102,2018
+e-3821193K,Kia Rio X-line,economy,petrol,5.22,2011,55723,2015
+S34927504A,Kia Rio X-line,economy,petrol,1.82,2015,10196,2017
+u-8179417J,VW Polo,economy,petrol,4.54,2015,15795,2020
+K15776715i,MINI CooperSE,business,electro,2.9,2011,59297,2016
+Y-1758834n,Smart ForFour,economy,petrol,5.06,2017,46080,2019
+i13383584B,Volkswagen ID.4 ,premium,electro,4.12,2017,54713,2022
+Y76010787I,Kia Rio,economy,petrol,4.82,2012,36903,2019
+Q10792601U,Nissan Qashqai,standart,petrol,3.74,2015,15079,2017
+w22635773k,VW Polo VI,economy,petrol,4.48,2014,1963,2017
+e-1949670A,Hyundai Solaris,economy,petrol,6.9,2015,12478,2021
+z-1084004C,VW Polo VI,economy,petrol,5.12,2015,16900,2016
+J-6128519w,VW Polo,economy,petrol,5.0,2013,18822,2018
+X59377610U,Kia Sportage,standart,petrol,3.9,2015,14561,2018
+r-7797891i,VW Tiguan,economy,petrol,5.12,2017,52208,2021
+H-1835486R,Kia Rio X,economy,petrol,3.66,2012,46341,2022
+O60150657v,VW Polo VI,economy,petrol,4.02,2015,21012,2018
+R-1017691X,Smart Coupe,economy,petrol,4.2,2017,47431,2020
+d-1516174t,Fiat 500,business,petrol,4.78,2013,16994,2019
+w18905349b,Kia Sportage,standart,petrol,3.4,2014,490,2016
+q16697749e,Smart ForTwo,economy,petrol,3.52,2017,49451,2016
+w-1585800T,Nissan Qashqai,standart,petrol,5.38,2012,37101,2017
+a15758562P,VW Polo,economy,petrol,3.98,2015,16567,2014
+k18934286O,Kia Rio X-line,economy,petrol,4.24,2015,14462,2022
+Y-5760242e,Smart ForTwo,economy,petrol,5.3,2013,20591,2019
+a17820702D,Kia Sportage,standart,petrol,3.54,2013,14520,2019
+c99808378X,Renault Kaptur,standart,petrol,3.72,2011,52931,2016
+b-1593841Y,BMW 320i,business,petrol,4.92,2017,51559,2019
+D21260151i,Nissan Qashqai,standart,petrol,3.38,2014,451,2021
+P-2262215c,Smart Coupe,economy,petrol,5.76,2014,1844,2019
+J12735397W,BMW 320i,business,petrol,3.82,2015,19090,2021
+C-1852509t,Nissan Qashqai,standart,petrol,4.28,2015,15733,2022
+L-1707296P,Renault Sandero,standart,petrol,5.64,2013,15254,2022
+R36754064s,Renault Sandero,standart,petrol,4.08,2015,17096,2014
+H23605706L,VW Polo,economy,petrol,3.46,2013,22044,2020
+t10331708v,Hyundai Solaris,economy,petrol,3.32,2014,6326,2017
+B-1539010P,BMW 320i,business,petrol,5.64,2015,13966,2019
+Q15363859f,Renault Sandero,standart,petrol,4.26,2012,32070,2016
+a-1407613u,Kia Rio X-line,economy,petrol,3.94,2012,37100,2017
+k-1911265L,Renault Kaptur,standart,petrol,4.7,2015,15410,2020
+Z-1287554l,VW Polo VI,economy,petrol,4.48,2013,17400,2019
+o-8032278j,Smart Coupe,economy,petrol,6.22,2017,45403,2017
+O-4898966f,VW Polo VI,economy,petrol,4.22,2013,20832,2019
+F21210270i,Kia Rio,economy,petrol,3.4,2014,644,2017
+J54713179I,Kia Rio X-line,economy,petrol,3.62,2013,15641,2022
+S-8148844g,Hyundai Solaris,economy,petrol,5.08,2015,13725,2020
+r19708929l,Smart Coupe,economy,petrol,3.08,2017,48802,2018
+F12167296S,Hyundai Solaris,economy,petrol,3.72,2011,50636,2019
+I46670472g,Renault Sandero,standart,petrol,3.26,2013,21302,2017
+N11825845x,VW Polo VI,economy,petrol,3.82,2014,1086,2021
+g-2239384n,Smart ForTwo,economy,petrol,3.82,2015,12507,2018
+j12695032H,Nissan Qashqai,standart,petrol,3.54,2013,19690,2018
+I-1135614V,Renault Kaptur,standart,petrol,5.5,2015,17539,2015
+L10168006L,Kia Rio,economy,petrol,3.2,2014,11649,2018
+g15329114X,BMW 320i,business,petrol,3.78,2017,50515,2017
+l-8544262K,Kia Rio,economy,petrol,5.1,2012,36021,2014
+U59616808c,Smart Coupe,economy,petrol,4.14,2014,1640,2016
+Q-2100569t,Smart ForTwo,economy,petrol,4.22,2016,32650,2018
+w25092414b,Smart Coupe,economy,petrol,4.8,2015,9902,2014
+d-2101982A,Smart Coupe,economy,petrol,2.94,2017,47376,2019
+X16364064j,BMW 320i,business,petrol,3.06,2013,20721,2021
+L-1372314X,Renault Kaptur,standart,petrol,5.06,2013,16993,2015
+K12664360V,VW Polo VI,economy,petrol,2.44,2014,4829,2018
+I17977972t,VW Polo,economy,petrol,3.68,2014,3929,2016
+x81882320F,Smart ForTwo,economy,petrol,4.52,2015,13313,2018
+B-1482786S,Skoda Rapid,economy,petrol,5.38,2014,3804,2016
+D-9013719R,VW Polo,economy,petrol,4.62,2015,17058,2022
+Z-1317479D,VW Tiguan,economy,petrol,5.12,2013,22717,2019
+K-5790587s,Renault Kaptur,standart,petrol,5.52,2014,1058,2016
+H-1013742y,VW Polo VI,economy,petrol,6.0,2015,17002,2016
+X12794614y,Volkswagen ID.4 ,premium,electro,3.5,2017,56188,2019
+W14728584I,MINI CooperSE,business,electro,4.02,2014,7794,2019
+X15956829g,Hyundai Solaris,economy,petrol,4.52,2013,19526,2016
+c-1721405I,Skoda Rapid,economy,petrol,5.46,2015,22027,2020
+Y13305983h,Mini Cooper,business,petrol,3.78,2012,41172,2019
+F21735829Q,Audi Q3,premium,petrol,3.26,2017,58500,2019
+A21434112a,Kia Rio,economy,petrol,3.02,2015,26011,2016
+J15380865S,Skoda Rapid,economy,petrol,2.92,2014,9375,2018
+R15619674P,VW Tiguan,economy,petrol,1.54,2016,41057,2017
+P-4672497G,Kia Rio X-line,economy,petrol,4.16,2011,51609,2019
+O18969021a,Nissan Qashqai,standart,petrol,3.54,2015,15503,2018
+v-7093033t,VW Polo VI,economy,petrol,4.58,2015,18293,2020
+J-2203695i,Smart ForFour,economy,petrol,5.74,2017,55231,2019
+m21742392m,VW Polo VI,economy,petrol,5.02,2013,14146,2018
+M66190719B,Smart ForFour,economy,petrol,3.06,2017,53398,2017
+Z-1044427A,Audi Q3,premium,petrol,4.28,2014,2265,2021
+d96039712O,Smart ForFour,economy,petrol,3.46,2014,1665,2019
+a-6871842e,Mercedes-Benz E200,business,petrol,4.44,2015,12472,2015
+r88999804B,Smart ForFour,economy,petrol,4.88,2015,19713,2016
+Z10318427g,Hyundai Solaris,economy,petrol,3.94,2015,22583,2020
+w-1041556E,Kia Rio X-line,economy,petrol,4.98,2011,54701,2017
+o61979873R,Kia Rio,economy,petrol,3.38,2012,37022,2020
+A15738781U,Kia Rio,economy,petrol,3.22,2012,34440,2021
+F96005467Y,Renault Sandero,standart,petrol,2.7,2015,9867,2017
+d-1981672O,MINI CooperSE,business,electro,4.6,2015,22102,2018
+q94030730T,Renault Sandero,standart,petrol,3.38,2012,30325,2016
+D56241199P,Renault Kaptur,standart,petrol,2.22,2011,43836,2017
+k36811829m,VW Polo VI,economy,petrol,2.56,2015,11958,2017
+f21602036v,Nissan Qashqai,standart,petrol,3.34,2011,53991,2016
+D-1117388z,Kia Rio X-line,economy,petrol,3.84,2015,13793,2015
+w-3833434S,VW Polo VI,economy,petrol,5.5,2013,17196,2018
+L-6979067B,Kia Rio,economy,petrol,5.54,2012,33635,2016
+o94396039n,Renault Sandero,standart,petrol,3.42,2012,32045,2018
+o13323515Q,Smart Coupe,economy,petrol,3.4,2013,13230,2021
+C19426899W,Mercedes-Benz E200,business,petrol,3.6,2011,49463,2014
+k60309684A,MINI CooperSE,business,electro,3.98,2013,19855,2021
+I-8241451k,Hyundai Solaris,economy,petrol,4.84,2015,18557,2015
+H11237000m,Nissan Qashqai,standart,petrol,4.02,2015,11971,2018
+T15464044D,Smart Coupe,economy,petrol,3.74,2015,16741,2020
+M54355620G,Hyundai Solaris,economy,petrol,3.52,2015,18893,2016
+Q-3554806K,Kia Rio X,economy,petrol,5.3,2012,30132,2016
+e70210061M,Kia Rio X-line,economy,petrol,3.66,2013,22496,2019
+C-6728036v,Audi A3,premium,petrol,4.56,2015,14480,2021
+g-2219510u,Kia Sportage,standart,petrol,4.22,2012,37385,2020
+D-2783935b,VW Polo VI,economy,petrol,4.52,2011,56312,2020
+p-1837253J,Kia Sportage,standart,petrol,6.42,2013,14897,2016
+T-1330042o,VW Tiguan,economy,petrol,5.6,2015,17453,2019
+T-4233717D,VW Tiguan,economy,petrol,5.5,2014,108,2020
+L-3091113U,Renault Sandero,standart,petrol,4.78,2015,8826,2020
+F-1926530y,VW Polo,economy,petrol,4.7,2014,2420,2019
+K10443664p,Kia Rio,economy,petrol,3.7,2015,13565,2018
+U-1568643w,Smart ForFour,economy,petrol,5.16,2015,13580,2017
+s-1182980S,Smart Coupe,economy,petrol,5.54,2013,20821,2019
+h-2253449B,Kia Rio X-line,economy,petrol,3.94,2011,53584,2018
+h10705090Z,Kia Sportage,standart,petrol,3.64,2011,52448,2016
+w-1633330m,Kia Rio X-line,economy,petrol,4.54,2015,17162,2017
+F73781957Y,Kia Rio,economy,petrol,5.0,2011,56536,2016
+F15530997T,MINI CooperSE,business,electro,3.42,2014,6203,2014
+R50619702K,Skoda Rapid,economy,petrol,5.12,2015,16646,2017
+b-2155843H,Smart ForTwo,economy,petrol,4.16,2014,9352,2021
+T-5408339J,Renault Sandero,standart,petrol,4.4,2013,24771,2016
+r23001350T,VW Tiguan,economy,petrol,3.26,2013,20382,2019
+E-9839861K,VW Tiguan,economy,petrol,4.96,2014,582,2022
+w94953435R,Renault Sandero,standart,petrol,4.22,2011,53424,2020
+s-2211759I,Hyundai Solaris,economy,petrol,4.5,2011,49131,2019
+Z49652122w,Smart Coupe,economy,petrol,3.22,2014,3495,2018
+p-1678814o,MINI CooperSE,business,electro,5.04,2012,30149,2015
+T-2734848b,VW Polo,economy,petrol,4.72,2012,39286,2015
+p-1822183R,Renault Kaptur,standart,petrol,3.34,2012,40149,2014
+A-2071631v,Kia Rio X,economy,petrol,4.22,2015,15239,2017
+O-1797266I,Renault Sandero,standart,petrol,3.72,2015,24236,2015
+I-1561639S,VW Tiguan,economy,petrol,5.14,2015,18966,2021
+g-6188047b,Kia Sportage,standart,petrol,5.12,2015,14175,2020
+t98852932i,Smart ForFour,economy,petrol,2.62,2015,16003,2020
+p-4437905U,Audi A4,premium,petrol,4.98,2017,48799,2020
+P-1054048H,VW Polo,economy,petrol,4.88,2015,21298,2014
+n13394286N,VW Tiguan,economy,petrol,3.9,2016,37719,2021
+q49133373E,BMW 320i,business,petrol,2.98,2016,35642,2022
+s12636553X,VW Polo,economy,petrol,4.02,2012,26713,2020
+x96684486X,Kia Rio X,economy,petrol,2.34,2011,51318,2021
+l-1991241S,Smart ForFour,economy,petrol,4.04,2017,56623,2018
+e18969039R,Smart Coupe,economy,petrol,3.7,2016,36148,2017
+w-4103199X,Skoda Rapid,economy,petrol,5.04,2017,51083,2017
+S-3967798D,Smart ForTwo,economy,petrol,3.84,2013,17175,2017
+Q-2218643T,VW Tiguan,economy,petrol,5.78,2013,31767,2021
+g65176738J,VW Tiguan,economy,petrol,3.84,2017,49252,2020
+n10680799I,Kia Rio,economy,petrol,2.96,2012,26282,2021
+g-1044413r,Smart Coupe,economy,petrol,6.1,2015,21274,2020
+g-5833894q,Kia Rio,economy,petrol,4.5,2015,15426,2016
+U21265886a,Kia Rio X,economy,petrol,4.48,2011,57196,2019
+B-3609628p,VW Polo VI,economy,petrol,5.28,2013,19380,2017
+C-1198137u,Kia Rio,economy,petrol,4.46,2011,53381,2021
+H-1449170D,Smart ForTwo,economy,petrol,4.32,2016,35595,2016
+n-1285735Z,VW Polo,economy,petrol,5.68,2015,19081,2017
+a99207462U,Skoda Rapid,economy,petrol,3.9,2016,39246,2021
+I-2256541X,Fiat 500,business,petrol,4.64,2014,361,2017
+y22434283E,Nissan Qashqai,standart,petrol,2.9,2011,54603,2016
+O19590202k,Renault Sandero,standart,petrol,4.7,2011,47812,2015
+M10545363A,Smart ForFour,economy,petrol,3.74,2015,15527,2016
+i22691390m,VW Tiguan,economy,petrol,3.48,2014,1113,2020
+T78332652Y,Hyundai Solaris,economy,petrol,2.56,2015,14399,2020
+j14357183b,VW Polo VI,economy,petrol,4.36,2013,20550,2021
+z11232966H,Kia Rio X-line,economy,petrol,3.4,2011,53948,2017
+p-2155843b,Nissan Qashqai,standart,petrol,4.84,2015,13840,2016
+T19485331v,Kia Rio,economy,petrol,4.78,2014,1731,2018
+y21714726w,Nissan Qashqai,standart,petrol,4.02,2011,55578,2015
+E14772643o,Smart Coupe,economy,petrol,4.08,2013,15645,2015
+Z12410202T,Kia Rio X,economy,petrol,4.98,2015,16214,2017
+u-1486990w,Renault Sandero,standart,petrol,7.08,2015,17878,2016
+W16124617T,VW Polo VI,economy,petrol,3.44,2015,15003,2021
+q14214057U,VW Tiguan,economy,petrol,4.92,2013,19202,2017
+e-7906347v,VW Tiguan,economy,petrol,5.7,2016,35592,2019
+y-1856463L,Smart ForFour,economy,petrol,5.36,2017,53111,2021
+u-2352460F,Kia Rio X,economy,petrol,5.06,2014,5533,2014
+t-8873282d,Kia Rio,economy,petrol,4.34,2015,16227,2021
+o-2039763P,Kia Rio X-line,economy,petrol,4.1,2013,19355,2016
+g-1581292O,Smart ForTwo,economy,petrol,4.84,2015,7017,2018
+Y-1199437R,Hyundai Solaris,economy,petrol,4.4,2013,21108,2016
+C17802108G,VW Polo VI,economy,petrol,3.22,2012,29678,2020
+C69731358F,Smart ForTwo,economy,petrol,4.04,2017,51020,2017
+f-1878241V,Audi A4,premium,petrol,4.78,2013,19062,2019
+G-1849415j,Smart ForTwo,economy,petrol,4.64,2017,46878,2019
+h-4222920s,Hyundai Solaris,economy,petrol,4.64,2014,2233,2019
+d-1058068Z,Smart Coupe,economy,petrol,4.42,2014,5398,2020
+v-1285979e,Smart ForTwo,economy,petrol,4.38,2013,18869,2015
+a17278475t,Hyundai Solaris,economy,petrol,5.14,2014,6570,2022
+W-1452539Y,Skoda Rapid,economy,petrol,4.5,2016,32419,2015
+b-7700745A,Smart ForFour,economy,petrol,4.44,2016,30878,2021
+E19203100z,VW Polo,economy,petrol,4.42,2015,21070,2018
+y-4453217w,Smart Coupe,economy,petrol,4.42,2014,2489,2021
+D-1454108Y,VW Tiguan,economy,petrol,4.56,2013,15777,2020
+z47761316R,Hyundai Solaris,economy,petrol,3.36,2015,12637,2016
+J11997824T,Renault Kaptur,standart,petrol,4.04,2012,37097,2018
+m15219255g,Skoda Rapid,economy,petrol,3.12,2016,39861,2016
+q51056666l,Kia Sportage,standart,petrol,2.64,2013,12860,2020
+R21438205f,Kia Rio,economy,petrol,4.06,2015,13481,2017
+M42816370V,Renault Sandero,standart,petrol,3.6,2015,17360,2018
+Z-1145425F,Kia Rio X-line,economy,petrol,3.82,2011,55233,2021
+q-1599804v,VW Polo VI,economy,petrol,5.16,2014,7869,2015
+c19954751i,BMW 320i,business,petrol,5.28,2015,19733,2022
+l95277536X,VW Tiguan,economy,petrol,3.36,2016,26287,2019
+v11014457F,Kia Sportage,standart,petrol,4.14,2011,52420,2022
+g-1557233Z,Nissan Qashqai,standart,petrol,5.1,2013,18887,2020
+j-1885233P,Kia Sportage,standart,petrol,5.28,2015,20170,2018
+I-8355494d,Smart Coupe,economy,petrol,5.1,2017,52194,2017
+I-1209820d,Kia Rio X-line,economy,petrol,4.12,2015,16172,2020
+l15623077U,Audi A3,premium,petrol,4.64,2014,2227,2018
+K-1526528s,Kia Rio,economy,petrol,3.86,2013,25093,2020
+l-5898323X,VW Tiguan,economy,petrol,4.96,2015,10728,2019
+u18524601J,Kia Rio X,economy,petrol,3.92,2015,16083,2016
+J-1135478V,Smart ForTwo,economy,petrol,3.92,2015,15629,2016
+e75743577H,Fiat 500,business,petrol,2.76,2014,6409,2015
+i69196932L,Mini Cooper,business,petrol,3.84,2013,22522,2018
+U74919532t,BMW 320i,business,petrol,3.14,2016,27989,2016
+Z86393284X,Smart Coupe,economy,petrol,2.44,2016,28451,2019
+L71411549c,VW Tiguan,economy,petrol,4.02,2016,35866,2021
+M35763499d,Nissan Qashqai,standart,petrol,4.12,2014,3731,2019
+u-1975531C,Smart ForFour,economy,petrol,5.76,2016,45975,2020
+u53852226k,Audi A3,premium,petrol,4.28,2015,12525,2020
+N17342730U,VW Tiguan,economy,petrol,3.58,2013,17368,2020
+G-1661077K,Kia Rio,economy,petrol,5.4,2014,2973,2016
+D-8034107B,Smart Coupe,economy,petrol,5.68,2014,483,2015
+w53453105M,Smart Coupe,economy,petrol,4.04,2017,49300,2016
+C-1713288C,VW Polo VI,economy,petrol,5.52,2014,746,2021
+c-7588375I,Audi A4,premium,petrol,5.92,2016,33032,2017
+d-1081940H,VW Tiguan,economy,petrol,5.02,2017,54003,2018
+C-2702793y,Kia Rio X,economy,petrol,5.12,2013,10340,2019
+N-1749238S,VW Polo VI,economy,petrol,4.54,2015,14195,2022
+U-1108643K,VW Tiguan,economy,petrol,4.56,2013,13447,2018
+W-5050438R,VW Polo VI,economy,petrol,4.34,2012,33929,2021
+p-9778853Z,Renault Kaptur,standart,petrol,7.04,2014,16527,2020
+P14276370b,Audi Q3,premium,petrol,4.0,2017,48860,2018
+F-1725738F,Skoda Rapid,economy,petrol,6.9,2017,57934,2015
+x10335002f,Kia Rio,economy,petrol,2.06,2013,10984,2019
+e-1144933c,Kia Rio,economy,petrol,4.48,2011,55793,2019
+Z75591230n,VW Polo VI,economy,petrol,2.76,2015,14859,2015
+j58420379v,Smart Coupe,economy,petrol,3.72,2017,54283,2017
+C-1474923V,Smart ForFour,economy,petrol,5.38,2014,4179,2019
+b10588212c,Hyundai Solaris,economy,petrol,4.36,2012,32216,2017
+A13378826n,Skoda Rapid,economy,petrol,3.58,2015,19148,2017
+c-2792341Y,VW Polo VI,economy,petrol,4.92,2012,36047,2017
+N87045921w,Kia Rio,economy,petrol,3.54,2014,6232,2019
+O76467449C,Renault Sandero,standart,petrol,4.1,2011,53121,2019
+R-5173610U,Nissan Qashqai,standart,petrol,4.24,2015,18073,2018
+K82809565h,Smart ForTwo,economy,petrol,2.94,2017,50115,2016
+H12570672p,VW Polo,economy,petrol,2.94,2011,56294,2019
+h19380681t,Mercedes-Benz E200,business,petrol,4.24,2015,19211,2021
+c-2660233Y,Hyundai Solaris,economy,petrol,5.06,2014,2105,2020
+E12981388n,Smart ForFour,economy,petrol,3.44,2015,11375,2016
+R14071183O,Skoda Rapid,economy,petrol,3.46,2017,51043,2018
+w12757163w,Kia Rio X-line,economy,petrol,4.32,2011,59718,2014
+R-6906944z,Smart ForTwo,economy,petrol,4.76,2017,45927,2015
+B-1793570y,Skoda Rapid,economy,petrol,6.92,2015,13933,2019
+b-2126197P,VW Tiguan,economy,petrol,4.58,2017,58647,2019
+p-1831098q,Smart Coupe,economy,petrol,4.46,2017,54005,2020
+y-2161088r,VW Polo VI,economy,petrol,4.5,2014,3271,2015
+l81574150w,Mini Cooper,business,petrol,4.52,2015,19823,2015
+f20716555r,Hyundai Solaris,economy,petrol,3.64,2011,47670,2017
+B-1789228s,Smart ForFour,economy,petrol,5.18,2017,54723,2018
+b-1220332h,Renault Sandero,standart,petrol,5.48,2015,16280,2016
+e-7581220a,VW Tiguan,economy,petrol,4.46,2017,48596,2017
+I-1219239E,Kia Sportage,standart,petrol,4.56,2014,2416,2014
+S-4571416R,Smart Coupe,economy,petrol,6.0,2017,59901,2015
+N46867519s,Kia Rio X,economy,petrol,3.86,2011,57499,2016
+V-9801703A,VW Polo VI,economy,petrol,5.1,2013,17795,2020
+q79775069v,VW Polo,economy,petrol,3.54,2013,16848,2018
+r14225363l,Hyundai Solaris,economy,petrol,3.98,2013,16700,2020
+C-1065863f,Hyundai Solaris,economy,petrol,6.6,2015,23282,2016
+a-1876648f,Kia Sportage,standart,petrol,5.62,2015,18538,2020
+D-4903718n,Smart ForTwo,economy,petrol,4.04,2015,22501,2014
+U-1683372s,Smart Coupe,economy,petrol,5.28,2017,50258,2017
+G15907365H,Kia Rio X,economy,petrol,2.92,2013,18776,2017
+N-2179508r,Smart Coupe,economy,petrol,6.34,2013,22955,2017
+S-1507600Y,Hyundai Solaris,economy,petrol,4.74,2014,2724,2016
+P-6438275P,Audi A3,premium,petrol,4.94,2017,53851,2018
+j-2218519L,Kia Sportage,standart,petrol,4.86,2011,57131,2017
+z22088966Y,Renault Sandero,standart,petrol,3.76,2014,5034,2019
+Y12771932L,Mercedes-Benz GLC,business,petrol,2.12,2013,13642,2020
+m20146080T,Renault Sandero,standart,petrol,4.26,2015,17267,2018
+X-1044519H,Hyundai Solaris,economy,petrol,5.0,2012,33578,2020
+x75733428L,VW Tiguan,economy,petrol,5.26,2017,52901,2019
+K10921761v,Renault Kaptur,standart,petrol,4.2,2013,18365,2021
+q14419296Q,Smart ForTwo,economy,petrol,4.18,2013,19938,2018
+L-1170611X,VW Polo,economy,petrol,3.56,2014,1454,2018
+b15307806P,Renault Kaptur,standart,petrol,3.58,2011,62052,2017
+S-2715286s,Renault Kaptur,standart,petrol,5.86,2013,16079,2021
+F-6595677t,Skoda Rapid,economy,petrol,5.84,2017,53466,2020
+d29182443g,VW Polo VI,economy,petrol,4.5,2013,18772,2016
+Q19656421o,Renault Sandero,standart,petrol,4.6,2011,61988,2021
+S12938984p,Nissan Qashqai,standart,petrol,4.52,2015,17032,2016
+y39540948E,Renault Sandero,standart,petrol,3.86,2012,44530,2016
+e-3102229r,Skoda Rapid,economy,petrol,5.4,2016,37319,2022
+q-1260275Y,Renault Kaptur,standart,petrol,3.46,2012,29272,2020
+w-1301976d,Smart Coupe,economy,petrol,4.78,2016,33363,2022
+I19519230g,Hyundai Solaris,economy,petrol,2.66,2011,48011,2022
+t22235272v,Kia Rio X,economy,petrol,2.5,2015,15632,2020
+o-9707538W,Smart ForTwo,economy,petrol,6.2,2014,4082,2019
+m10878287G,Skoda Rapid,economy,petrol,4.08,2017,49740,2017
+U-2143621E,Smart ForFour,economy,petrol,4.74,2017,51066,2019
+b12243787s,Hyundai Solaris,economy,petrol,4.72,2013,14118,2016
+j34462577F,Smart Coupe,economy,petrol,4.12,2017,50272,2020
+T-1999957T,Smart ForFour,economy,petrol,5.0,2017,51451,2015
+w-1779576y,VW Polo,economy,petrol,4.16,2011,54581,2019
+C-1329917t,BMW 320i,business,petrol,5.78,2014,569,2020
+Z18506004w,VW Polo VI,economy,petrol,4.64,2014,3693,2015
+N48543459D,Skoda Rapid,economy,petrol,3.9,2016,34374,2015
+C15813690y,Smart Coupe,economy,petrol,3.92,2015,14626,2021
+J-1527239B,Kia Rio,economy,petrol,4.26,2012,34955,2016
+m16510617d,Renault Kaptur,standart,petrol,4.88,2015,13200,2017
+X-2025425S,Renault Kaptur,standart,petrol,5.06,2011,60458,2017
+d43487396u,Smart ForTwo,economy,petrol,4.48,2015,21535,2014
+H28026315X,Kia Rio,economy,petrol,3.82,2011,47450,2021
+A-5579878A,Hyundai Solaris,economy,petrol,4.46,2013,20765,2014
+b36595641v,Smart ForFour,economy,petrol,3.72,2017,47904,2015
+o33665076b,VW Tiguan,economy,petrol,2.54,2015,9386,2021
+A-2046849N,Kia Rio,economy,petrol,5.12,2011,52141,2018
+E19589052p,Nissan Qashqai,standart,petrol,4.56,2014,368,2021
+Q70965073y,Hyundai Solaris,economy,petrol,2.78,2013,22104,2020
+r13820062y,Kia Rio X-line,economy,petrol,4.5,2015,17899,2017
+I-6362276z,VW Polo,economy,petrol,4.72,2015,19387,2019
+A-2113761p,Renault Kaptur,standart,petrol,6.36,2011,46159,2019
+W-8642753Q,VW Tiguan,economy,petrol,4.84,2017,52395,2018
+T-1635369O,Skoda Rapid,economy,petrol,5.1,2013,20667,2021
+R22808612M,Smart ForFour,economy,petrol,2.34,2017,54157,2020
+u-6450550p,Kia Rio X-line,economy,petrol,5.72,2012,36032,2014
+H20136223w,Hyundai Solaris,economy,petrol,3.5,2011,56081,2014
+I-1586449J,VW Tiguan,economy,petrol,6.08,2017,51617,2020
+F79333536H,Kia Rio X,economy,petrol,3.8,2013,11272,2015
+p-2218108h,VW Tiguan,economy,petrol,4.84,2013,19262,2022
+e-1898319c,Smart ForTwo,economy,petrol,4.5,2017,46527,2022
+d-1027344D,Kia Rio X,economy,petrol,6.22,2012,36569,2015
+K11837605D,VW Polo VI,economy,petrol,3.64,2014,3757,2016
+Y12364799W,Renault Kaptur,standart,petrol,3.78,2012,44195,2014
+Z-1007765V,Smart ForFour,economy,petrol,5.04,2014,2111,2020
+W-4153931H,Fiat 500,business,petrol,4.86,2015,20882,2018
+g39252084i,Renault Kaptur,standart,petrol,4.86,2014,7572,2021
+o26286492Y,Renault Sandero,standart,petrol,4.38,2014,2480,2021
+v10269733i,Kia Rio X,economy,petrol,4.24,2014,1093,2018
+z61450124x,Smart ForFour,economy,petrol,3.88,2017,45727,2020
+p30719780S,Kia Sportage,standart,petrol,3.3,2011,56354,2015
+X-5522505j,Mercedes-Benz E200,business,petrol,4.32,2012,29853,2016
+N-5139295J,Mercedes-Benz GLC,business,petrol,4.08,2012,42506,2017
+f83687177D,Renault Sandero,standart,petrol,4.34,2012,38038,2021
+R-6415708v,Nissan Qashqai,standart,petrol,4.86,2014,37,2016
+Q13601864X,Renault Sandero,standart,petrol,4.28,2012,38079,2021
+f-1035445H,Nissan Qashqai,standart,petrol,4.4,2013,19914,2022
+l16419188x,Nissan Qashqai,standart,petrol,2.84,2011,46451,2017
+x15546422W,Hyundai Solaris,economy,petrol,3.72,2015,23869,2015
+c73034627Q,Smart Coupe,economy,petrol,4.38,2016,35688,2019
+w-5789927U,Skoda Rapid,economy,petrol,4.8,2017,52219,2020
+g68542625z,VW Tiguan,economy,petrol,4.36,2017,54637,2022
+T-1960693r,Kia Rio X,economy,petrol,5.26,2015,13746,2020
+M-3697552i,Kia Rio X-line,economy,petrol,4.54,2013,7063,2015
+X38472104g,Smart Coupe,economy,petrol,4.12,2013,15969,2014
+f-3187999B,Smart Coupe,economy,petrol,5.4,2015,9821,2015
+k34605574I,VW Polo,economy,petrol,4.04,2012,35642,2019
+j13123003i,Skoda Rapid,economy,petrol,3.16,2015,12096,2020
+H-2153182E,VW Polo,economy,petrol,5.48,2014,2374,2015
+V-1379906N,VW Polo VI,economy,petrol,5.56,2013,23085,2019
+p18082093o,Mercedes-Benz GLC,business,petrol,3.18,2012,39551,2017
+z-1232521d,VW Tiguan,economy,petrol,6.0,2013,13811,2018
+A-1428986u,Renault Sandero,standart,petrol,4.18,2012,33118,2020
+o-6795859q,Kia Sportage,standart,petrol,5.42,2013,19700,2020
+U11495954u,Smart ForFour,economy,petrol,3.46,2016,31678,2020
+x68172783m,VW Tiguan,economy,petrol,5.14,2017,49908,2019
+T14929547D,Kia Rio,economy,petrol,4.1,2013,20931,2022
+c-1394869y,Smart ForTwo,economy,petrol,4.6,2015,13161,2017
+H-1457652m,VW Polo,economy,petrol,5.62,2015,24203,2016
+y11410075D,Renault Sandero,standart,petrol,4.3,2012,32748,2014
+j-1504120d,Hyundai Solaris,economy,petrol,5.18,2013,12621,2017
+Z40913589r,VW Polo,economy,petrol,4.38,2013,19245,2022
+q-1529400C,Kia Rio,economy,petrol,4.22,2014,1452,2022
+G22522007T,VW Polo,economy,petrol,3.28,2015,19106,2018
+g90471173m,Kia Rio X,economy,petrol,3.7,2014,2694,2020
+s19442526d,Hyundai Solaris,economy,petrol,4.32,2013,13884,2021
+p-2947842u,MINI CooperSE,business,electro,5.06,2011,57199,2018
+v-1313255l,Renault Kaptur,standart,petrol,4.2,2011,53669,2014
+H21645757W,Nissan Qashqai,standart,petrol,3.4,2013,27137,2018
+V-1544188i,VW Polo,economy,petrol,3.82,2015,15842,2015
+d-7866984W,Smart ForTwo,economy,petrol,5.58,2015,8188,2019
+S43878673f,Skoda Rapid,economy,petrol,3.76,2016,35429,2014
+x17870277F,VW Polo,economy,petrol,3.86,2012,37174,2020
+U19709090c,Kia Rio X-line,economy,petrol,2.8,2011,57352,2020
+T-1496266y,Tesla Model 3,premium,electro,5.62,2013,15978,2021
+h28233096w,Tesla Model 3,premium,electro,3.76,2017,50756,2020
+a-8946670V,VW Polo VI,economy,petrol,6.02,2012,38319,2020
+U14005928o,Kia Rio,economy,petrol,3.0,2011,43333,2015
+i-1941199h,Renault Sandero,standart,petrol,5.84,2012,37513,2020
+l-7417314S,MINI CooperSE,business,electro,4.42,2012,40972,2019
+k-9948390V,Renault Sandero,standart,petrol,4.54,2012,35323,2020
+v-9044160p,Hyundai Solaris,economy,petrol,4.04,2011,53682,2018
+J-4289485j,VW Polo VI,economy,petrol,6.7,2011,44503,2016
+t-1915162R,Kia Rio X-line,economy,petrol,5.28,2012,31142,2020
+L-5943473W,VW Tiguan,economy,petrol,4.24,2014,773,2020
+E12187268q,VW Polo,economy,petrol,4.32,2012,34482,2020
+l-2140012q,Renault Sandero,standart,petrol,3.8,2011,51334,2016
+r15445448l,BMW 320i,business,petrol,2.82,2014,5744,2018
+c-6803942q,MINI CooperSE,business,electro,4.9,2014,1283,2020
+d19956466e,Smart ForFour,economy,petrol,4.28,2017,50223,2019
+V-1265719r,Kia Rio X,economy,petrol,5.68,2014,1233,2019
+I55028665H,Smart Coupe,economy,petrol,3.34,2015,12033,2018
+l-1457543l,Smart ForTwo,economy,petrol,5.48,2015,24592,2019
+G21905071j,VW Tiguan,economy,petrol,3.9,2016,37378,2017
+T98819832e,Mercedes-Benz GLC,business,petrol,4.44,2012,30783,2016
+K18390834D,Smart ForTwo,economy,petrol,3.28,2013,20302,2015
+h-3093238B,VW Tiguan,economy,petrol,5.58,2016,34584,2020
+m-1582742x,Kia Rio,economy,petrol,5.4,2014,2958,2020
+I12382769A,Smart ForFour,economy,petrol,3.84,2013,19549,2017
+Q19152310P,Nissan Qashqai,standart,petrol,3.4,2014,4478,2020
+o-8272191m,Kia Rio,economy,petrol,4.74,2015,12618,2017
+R-8111410k,VW Polo,economy,petrol,5.66,2015,4335,2018
+T20628120Z,VW Polo VI,economy,petrol,4.38,2011,53103,2019
+J13533588v,Hyundai Solaris,economy,petrol,4.1,2012,33095,2020
+j13604535M,Kia Rio,economy,petrol,3.08,2012,37314,2020
+S24363950p,Kia Rio X-line,economy,petrol,3.82,2011,49342,2021
+O14511996m,Smart ForTwo,economy,petrol,4.08,2017,52742,2015
+S-7378506t,Kia Rio,economy,petrol,4.44,2012,33538,2018
+w79214795A,VW Polo,economy,petrol,3.6,2015,18431,2020
+X-8295624q,Kia Sportage,standart,petrol,3.84,2014,2078,2022
+L16221715U,Kia Rio X,economy,petrol,2.74,2011,52133,2017
+C14433776U,Kia Rio X-line,economy,petrol,4.7,2011,54179,2018
+E-1241650W,Smart ForFour,economy,petrol,4.36,2013,20687,2021
+A-3162091V,Renault Sandero,standart,petrol,6.66,2011,51379,2020
+i16975028y,MINI CooperSE,business,electro,3.36,2015,12852,2018
+v-5504037Z,Nissan Qashqai,standart,petrol,4.96,2015,10726,2019
+Y-6420899e,VW Polo VI,economy,petrol,6.18,2012,36808,2018
+N65119111f,Kia Rio,economy,petrol,4.3,2015,16044,2021
+B13674380N,VW Polo VI,economy,petrol,3.3,2014,109,2020
+G-1142740Y,Audi A3,premium,petrol,5.44,2016,38145,2022
+t-1112128X,Nissan Qashqai,standart,petrol,5.38,2014,9137,2021
+L-5538150j,Nissan Qashqai,standart,petrol,5.38,2015,21150,2015
+H12315186G,Kia Rio X-line,economy,petrol,3.3,2013,18163,2016
+H13220247u,Kia Rio X,economy,petrol,2.74,2014,2452,2017
+W26059105i,Skoda Rapid,economy,petrol,3.44,2017,49423,2014
+H21245612R,Kia Rio,economy,petrol,4.0,2013,19831,2017
+n-2109985N,Renault Sandero,standart,petrol,5.66,2011,49100,2017
+i14015952w,Smart ForTwo,economy,petrol,4.86,2014,83,2017
+H21507119L,VW Tiguan,economy,petrol,4.68,2015,16284,2020
+g19202083E,Renault Kaptur,standart,petrol,3.8,2012,37917,2020
+f-1080221t,Nissan Qashqai,standart,petrol,5.94,2014,3914,2017
+N-1210918j,Mercedes-Benz GLC,business,petrol,4.84,2013,19513,2016
+Y-1333695S,VW Polo,economy,petrol,4.4,2015,16436,2019
+J-1375350s,Skoda Rapid,economy,petrol,5.66,2013,16760,2018
+B-1296144m,Audi Q3,premium,petrol,4.66,2017,50523,2021
+w-1486429Q,Nissan Qashqai,standart,petrol,4.54,2012,29654,2018
+K-7673680m,MINI CooperSE,business,electro,5.96,2013,15987,2022
+g-1350860x,Kia Rio X,economy,petrol,5.06,2015,20169,2018
+u13835403R,Kia Rio X,economy,petrol,5.66,2015,22607,2021
+F-1185894j,Smart ForFour,economy,petrol,4.44,2015,17690,2022
+h-7581595i,Kia Rio X-line,economy,petrol,4.9,2011,51384,2018
+W-1537055Z,MINI CooperSE,business,electro,4.12,2011,53453,2015
+D-3887912Y,VW Tiguan,economy,petrol,4.66,2017,53391,2020
+g-5890473U,Renault Sandero,standart,petrol,5.98,2012,34717,2016
+j17645095Z,Renault Kaptur,standart,petrol,4.42,2015,19398,2015
+w56514594s,Kia Rio X,economy,petrol,3.54,2014,810,2019
+J-8404692b,VW Polo VI,economy,petrol,4.0,2011,51277,2016
+K-1692495U,Smart ForTwo,economy,petrol,4.2,2015,19967,2019
+r11444430K,Smart Coupe,economy,petrol,2.38,2016,26933,2017
+C-1824427C,Renault Kaptur,standart,petrol,4.72,2011,44284,2021
+b-2132772I,Smart ForFour,economy,petrol,5.0,2014,5181,2016
+D-3317036j,Fiat 500,business,petrol,3.74,2013,22474,2021
+H56556338G,BMW 320i,business,petrol,3.9,2015,21089,2019
+A-1124426f,Kia Rio,economy,petrol,4.12,2015,19332,2022
+F18166403G,Nissan Qashqai,standart,petrol,2.68,2015,13300,2016
+j-5469991Z,Kia Rio X,economy,petrol,4.76,2011,48394,2015
+m-2123901S,Nissan Qashqai,standart,petrol,4.74,2015,12166,2018
+X-1041123X,VW Tiguan,economy,petrol,3.62,2016,33692,2017
+d18202701N,Nissan Qashqai,standart,petrol,3.28,2011,51852,2015
+l-1607198I,Kia Rio X,economy,petrol,4.48,2011,56004,2017
+G22045309C,VW Polo VI,economy,petrol,4.74,2015,19716,2017
+D41203669R,Kia Rio,economy,petrol,5.02,2015,22954,2019
+O-2287213n,Smart Coupe,economy,petrol,5.72,2015,18074,2020
+t41912002G,Skoda Rapid,economy,petrol,4.26,2015,20666,2019
+t14335482Y,Mercedes-Benz E200,business,petrol,3.28,2014,2212,2019
+D-1983899f,Volkswagen ID.4 ,premium,electro,4.68,2015,16753,2017
+x-1075849i,Kia Sportage,standart,petrol,6.58,2012,37703,2017
+c-4815727p,Skoda Rapid,economy,petrol,4.38,2013,19693,2019
+t-1102690s,Smart ForTwo,economy,petrol,5.26,2015,14982,2019
+U-1736822u,Smart ForFour,economy,petrol,4.58,2016,32186,2020
+D18500770s,Renault Kaptur,standart,petrol,3.76,2015,21298,2020
+t39837629b,VW Polo VI,economy,petrol,2.96,2014,4335,2021
+d-3211369o,Renault Sandero,standart,petrol,4.1,2014,4696,2017
+O18149041Y,Kia Rio X-line,economy,petrol,3.8,2013,19160,2016
+A18805600k,VW Tiguan,economy,petrol,2.88,2013,17650,2018
+s-2057628E,Mini Cooper,business,petrol,3.98,2015,10990,2022
+h19277454w,Smart ForTwo,economy,petrol,3.82,2015,13603,2019
+S19171002i,Renault Sandero,standart,petrol,4.74,2011,57386,2022
+F60433469q,Smart ForTwo,economy,petrol,3.7,2016,39572,2019
+y27436066L,Hyundai Solaris,economy,petrol,4.44,2012,30594,2019
+T43510189s,Nissan Qashqai,standart,petrol,4.58,2013,20096,2019
+O22278795N,Kia Sportage,standart,petrol,3.26,2011,59392,2018
+K42000849A,Renault Kaptur,standart,petrol,2.92,2013,15061,2017
+L10196492C,MINI CooperSE,business,electro,3.06,2012,32331,2016
+d47436292f,Tesla Model 3,premium,electro,4.62,2017,50887,2020
+r-1087324P,Kia Sportage,standart,petrol,4.7,2011,44053,2019
+C-1267754a,Kia Sportage,standart,petrol,5.76,2015,18902,2020
+D-3847732c,Kia Rio,economy,petrol,4.04,2014,457,2019
+o-9572028N,Kia Sportage,standart,petrol,5.36,2014,1603,2021
+D44514341D,Smart Coupe,economy,petrol,4.08,2017,54347,2021
+C-5760910R,Kia Rio,economy,petrol,6.02,2012,33198,2020
+X11360112k,VW Polo,economy,petrol,3.44,2012,31712,2019
+P34301301c,Renault Kaptur,standart,petrol,2.3,2015,14751,2020
+J18647373A,Smart Coupe,economy,petrol,3.64,2015,16000,2019
+a-2058721k,Skoda Rapid,economy,petrol,5.52,2017,48775,2014
+Z-1855288m,Kia Rio X-line,economy,petrol,5.08,2015,16174,2018
+q48662373i,Kia Sportage,standart,petrol,4.6,2012,33435,2014
+O18574236Q,Skoda Rapid,economy,petrol,2.9,2017,52810,2021
+c-4341404T,VW Polo,economy,petrol,3.74,2011,56964,2017
+U15168124m,VW Polo,economy,petrol,3.68,2012,36374,2018
+u-1742755p,Smart Coupe,economy,petrol,5.38,2013,18910,2016
+n97144977W,Renault Kaptur,standart,petrol,4.44,2014,3265,2016
+g15847628y,Renault Kaptur,standart,petrol,5.36,2012,33436,2016
+x10307711s,Renault Kaptur,standart,petrol,3.3,2014,8964,2019
+W-1910417Y,Nissan Qashqai,standart,petrol,5.06,2015,18824,2016
+n-9458444G,Skoda Rapid,economy,petrol,4.86,2017,60233,2017
+k11650386n,Kia Rio X,economy,petrol,3.56,2011,49009,2017
+B15245292B,Renault Sandero,standart,petrol,3.3,2013,20427,2015
+y70425477q,VW Tiguan,economy,petrol,2.04,2015,20128,2018
+P-7549504k,Mini Cooper,business,petrol,5.06,2013,17917,2021
+Y16052800n,Renault Kaptur,standart,petrol,2.66,2013,8914,2015
+u-4423575D,Renault Sandero,standart,petrol,6.62,2014,2535,2018
+n-4687229I,Smart ForTwo,economy,petrol,5.7,2015,19897,2014
+y-1078960R,Nissan Qashqai,standart,petrol,6.06,2014,5851,2018
+s-2378217A,Kia Rio,economy,petrol,3.98,2014,1016,2020
+B-1457004X,VW Polo,economy,petrol,4.84,2015,12155,2018
+C-1373204b,Skoda Rapid,economy,petrol,5.64,2017,39699,2021
+b21019388M,Kia Rio X,economy,petrol,3.02,2011,50985,2019
+j-7748163z,Kia Rio X,economy,petrol,5.06,2014,3962,2015
+N20760279J,VW Polo VI,economy,petrol,4.24,2015,10140,2020
+P-6801244y,VW Polo,economy,petrol,4.48,2014,2557,2015
+I-6003605Z,VW Polo VI,economy,petrol,5.72,2014,4493,2018
+t-4021005Y,Nissan Qashqai,standart,petrol,5.36,2011,56305,2017
+m-2237726a,Tesla Model 3,premium,electro,4.0,2015,11505,2019
+I-1653043h,Smart ForFour,economy,petrol,5.88,2017,61888,2019
+E13202386P,VW Polo,economy,petrol,3.34,2013,15118,2019
+I-1897028S,Kia Rio X-line,economy,petrol,4.52,2012,38476,2018
+x16661909i,Mercedes-Benz E200,business,petrol,4.22,2015,8653,2021
+e-1988310t,Kia Sportage,standart,petrol,5.9,2014,2212,2015
+s-1314113K,Renault Sandero,standart,petrol,5.88,2015,9352,2021
+l-7588456W,Kia Rio X-line,economy,petrol,5.4,2012,38681,2021
+v40680256b,Renault Sandero,standart,petrol,4.44,2015,19278,2015
+Y-3357473Z,Kia Sportage,standart,petrol,5.08,2013,23830,2020
+l13199480i,Smart ForTwo,economy,petrol,3.98,2014,6731,2016
+q55506559Z,VW Tiguan,economy,petrol,3.84,2013,16315,2021
+L-8256087x,Smart Coupe,economy,petrol,4.88,2016,30872,2016
+Q15915754K,VW Tiguan,economy,petrol,4.5,2017,57673,2017
+E11260129N,Renault Kaptur,standart,petrol,4.28,2013,14406,2016
+p61105476m,VW Polo VI,economy,petrol,3.22,2014,2112,2021
+P19449608m,VW Polo,economy,petrol,4.46,2012,29890,2015
+H30028163n,Smart ForFour,economy,petrol,3.78,2017,51499,2017
+e-2100881I,Smart ForTwo,economy,petrol,4.64,2016,31635,2017
+u-1247729H,Renault Kaptur,standart,petrol,4.58,2012,36006,2016
+H-9008199m,Smart ForTwo,economy,petrol,5.42,2014,1173,2020
+E-1601387S,Hyundai Solaris,economy,petrol,4.26,2015,23529,2015
+d-1297818M,Kia Sportage,standart,petrol,3.8,2015,15915,2019
+U10196977w,VW Polo,economy,petrol,3.78,2012,30162,2017
+S-5146740r,Smart Coupe,economy,petrol,5.16,2015,15009,2017
+h-1306561Z,Smart Coupe,economy,petrol,4.98,2014,17,2015
+k-5381127D,Smart ForTwo,economy,petrol,5.66,2017,51388,2017
+c19164814K,Renault Kaptur,standart,petrol,3.5,2012,37303,2019
+L20677480F,VW Polo,economy,petrol,4.5,2015,12395,2020
+Z-8634128D,Hyundai Solaris,economy,petrol,4.94,2012,41524,2021
+H-2195623g,Skoda Rapid,economy,petrol,5.18,2016,29551,2021
+l-1727800n,VW Tiguan,economy,petrol,5.56,2017,55091,2020
+w17690054C,Smart ForTwo,economy,petrol,3.26,2017,51312,2018
+K57498526Z,Kia Rio X,economy,petrol,4.08,2015,12261,2017
+m12940409x,Renault Kaptur,standart,petrol,2.46,2013,19440,2019
+H47559741d,Renault Kaptur,standart,petrol,4.22,2012,34558,2019
+b-1781021e,Skoda Rapid,economy,petrol,5.7,2017,57714,2019
+g69617784k,Smart ForFour,economy,petrol,2.9,2017,53393,2018
+w16240047R,Kia Rio X,economy,petrol,2.86,2015,15340,2019
+h-1791671w,VW Polo VI,economy,petrol,4.94,2015,17677,2017
+d17810004e,Skoda Rapid,economy,petrol,4.32,2014,4615,2020
+u10387892L,VW Polo VI,economy,petrol,3.14,2011,51442,2015
+F-1146472F,BMW 320i,business,petrol,4.54,2016,36196,2017
+A-1685037o,Kia Sportage,standart,petrol,4.04,2013,20957,2017
+p-7985900F,Renault Kaptur,standart,petrol,5.8,2013,11460,2018
+A12677539a,Kia Rio,economy,petrol,2.46,2015,18080,2018
+d-9343733m,Kia Rio,economy,petrol,4.32,2015,15620,2014
+p-1318279Y,Audi A3,premium,petrol,4.6,2014,2982,2020
+O-1464430H,Renault Kaptur,standart,petrol,3.98,2013,21990,2020
+G-1307544k,Kia Rio X-line,economy,petrol,3.56,2013,21110,2019
+d11365028k,BMW 320i,business,petrol,4.22,2017,49312,2020
+X10959714t,Kia Rio X,economy,petrol,4.22,2012,41665,2022
+q-1608590a,Kia Rio X,economy,petrol,5.0,2012,39798,2019
+n-1623433s,Kia Rio X,economy,petrol,4.42,2011,52942,2016
+w19299776U,Kia Rio X,economy,petrol,3.48,2013,21102,2016
+X92542067O,Audi A4,premium,petrol,3.06,2013,14109,2020
+c-2141476U,VW Polo,economy,petrol,4.56,2015,16462,2018
+V15006679q,Kia Rio X,economy,petrol,4.48,2015,13041,2016
+J19944134O,Kia Sportage,standart,petrol,3.78,2014,5940,2016
+n14558536i,Smart ForTwo,economy,petrol,3.38,2015,10521,2017
+B-1742567n,Smart ForFour,economy,petrol,3.44,2014,4749,2017
+a29484185D,Smart ForTwo,economy,petrol,4.3,2017,54124,2014
+U53958225T,VW Polo,economy,petrol,4.0,2015,18454,2020
+D-7505453Y,VW Polo VI,economy,petrol,4.32,2011,41218,2019
+N-1869235t,Hyundai Solaris,economy,petrol,5.08,2014,5228,2020
+r20801969d,Renault Sandero,standart,petrol,4.18,2013,13823,2018
+Z-7887707C,Kia Sportage,standart,petrol,4.06,2014,1818,2015
+L-1025778S,VW Polo,economy,petrol,4.86,2014,4362,2021
+O-3888138r,Mercedes-Benz E200,business,petrol,4.78,2014,1534,2020
+v-2086510N,Smart ForFour,economy,petrol,5.08,2017,44729,2016
+P46212517q,VW Polo,economy,petrol,1.4,2015,11154,2017
+C-3355823T,Kia Rio X,economy,petrol,4.6,2015,15879,2015
+s-2348164i,Renault Kaptur,standart,petrol,4.24,2014,1718,2017
+D-9876139m,Nissan Qashqai,standart,petrol,5.7,2013,17372,2018
+n22454433j,VW Tiguan,economy,petrol,3.02,2017,52640,2019
+N-2123154F,Smart ForTwo,economy,petrol,5.0,2013,16890,2016
+Q14802263P,VW Polo VI,economy,petrol,3.92,2012,40896,2019
+d51929035l,Skoda Rapid,economy,petrol,4.14,2016,34943,2016
+c13969666t,Smart ForTwo,economy,petrol,3.22,2015,18811,2014
+e15577510h,Kia Rio X-line,economy,petrol,3.64,2011,50928,2019
+o20067347Y,VW Polo,economy,petrol,3.9,2013,13397,2016
+V70882348D,Kia Rio X-line,economy,petrol,5.14,2015,17709,2014
+M-1550999l,Renault Kaptur,standart,petrol,5.8,2013,21759,2017
+m-9118742h,Skoda Rapid,economy,petrol,3.16,2017,50044,2021
+l-1093239y,Kia Sportage,standart,petrol,4.3,2012,35366,2017
+u52620065r,Mini Cooper,business,petrol,3.42,2014,1186,2020
+D11927721X,Kia Rio X,economy,petrol,3.22,2014,295,2019
+q50725384M,VW Polo,economy,petrol,3.32,2013,27470,2015
+l-2101812r,Fiat 500,business,petrol,4.04,2014,1320,2017
+z10460215v,VW Tiguan,economy,petrol,3.84,2015,18686,2018
+H20210411t,Kia Rio X,economy,petrol,4.28,2014,582,2019
+k-1553925j,Renault Sandero,standart,petrol,5.46,2015,22252,2015
+B28792715M,Smart Coupe,economy,petrol,3.76,2017,55096,2019
+T15855972S,Nissan Qashqai,standart,petrol,5.16,2012,31649,2020
+p81655957z,Smart Coupe,economy,petrol,2.66,2016,28096,2018
+d-2065915F,MINI CooperSE,business,electro,4.42,2015,18972,2014
+Z10854115J,VW Tiguan,economy,petrol,3.78,2017,57467,2017
+J-5507967X,VW Polo VI,economy,petrol,4.88,2013,11317,2017
+d11870153q,Smart ForTwo,economy,petrol,4.12,2016,37760,2016
+q12833181U,Smart ForTwo,economy,petrol,3.96,2017,53388,2018
+z-7202742I,Renault Kaptur,standart,petrol,4.92,2014,1697,2017
+M-1183039y,Kia Rio,economy,petrol,5.7,2013,22640,2016
+Y-4013519J,Smart ForTwo,economy,petrol,4.02,2015,17039,2022
+Y61817778d,Kia Rio,economy,petrol,3.42,2013,15043,2018
+W13629629m,Smart ForFour,economy,petrol,4.02,2016,40051,2022
+A68628872f,Hyundai Solaris,economy,petrol,3.76,2015,16940,2015
+b-1306701n,Smart ForFour,economy,petrol,4.72,2016,33593,2019
+f-1289012y,Smart ForTwo,economy,petrol,6.38,2014,2972,2014
+r-5993474d,VW Polo VI,economy,petrol,5.02,2014,3009,2021
+y59113856C,Smart ForTwo,economy,petrol,4.08,2017,55076,2019
+u-8020516c,Kia Rio X-line,economy,petrol,4.6,2015,13488,2017
+s12028635m,Renault Kaptur,standart,petrol,3.28,2013,20853,2017
+G-2348821R,VW Polo VI,economy,petrol,3.78,2015,4234,2021
+f-3702455X,VW Polo,economy,petrol,4.52,2014,3875,2014
+P-1883197B,Smart Coupe,economy,petrol,5.68,2016,34141,2020
+I22440337b,VW Tiguan,economy,petrol,4.0,2017,58138,2018
+v10863170k,Skoda Rapid,economy,petrol,3.72,2013,16112,2016
+C46495848v,Audi Q3,premium,petrol,4.48,2017,50671,2021
+S51862418Z,Hyundai Solaris,economy,petrol,3.4,2014,4125,2021
+Z-1919446h,Renault Kaptur,standart,petrol,4.48,2012,39137,2016
+i-1704589X,Skoda Rapid,economy,petrol,4.22,2016,35709,2019
+z96586459k,Renault Kaptur,standart,petrol,4.02,2013,20776,2021
+N-1987442q,Skoda Rapid,economy,petrol,5.7,2015,20022,2022
+s22191275d,Nissan Qashqai,standart,petrol,3.84,2013,21543,2016
+d60594973w,VW Polo,economy,petrol,3.44,2012,30559,2021
+q-1063718E,Smart ForTwo,economy,petrol,5.66,2016,24629,2020
+A60379401c,Audi A3,premium,petrol,3.32,2017,55383,2022
+m-1537869D,VW Polo VI,economy,petrol,5.44,2015,20867,2020
+S-8847076x,Smart Coupe,economy,petrol,5.0,2014,4429,2020
+P36016044b,Renault Sandero,standart,petrol,4.74,2013,27997,2020
+E18596175G,Kia Rio X-line,economy,petrol,2.84,2014,1203,2019
+X-8739887n,Kia Rio,economy,petrol,4.68,2013,22248,2017
+m-9987492f,VW Polo VI,economy,petrol,5.98,2012,37128,2017
+I-1161327G,Skoda Rapid,economy,petrol,5.14,2017,54108,2017
+Q11540764k,VW Polo VI,economy,petrol,3.62,2011,48498,2022
+j-1953740b,Smart Coupe,economy,petrol,5.38,2014,514,2019
+E-6570771S,VW Tiguan,economy,petrol,4.46,2017,52304,2020
+B-1779073Q,Kia Sportage,standart,petrol,3.9,2013,18499,2017
+I15882731o,VW Polo,economy,petrol,3.88,2015,16388,2014
+R86360617S,Smart Coupe,economy,petrol,2.4,2017,57376,2020
+b48732452S,Nissan Qashqai,standart,petrol,3.92,2014,7846,2015
+K-1868948B,Smart ForTwo,economy,petrol,5.7,2014,823,2018
+V12440632n,Kia Rio,economy,petrol,3.28,2011,54292,2020
+Z22805586L,Kia Rio X,economy,petrol,4.36,2015,18137,2020
+c-1450159d,Smart Coupe,economy,petrol,3.96,2017,47199,2014
+F16943799N,Kia Rio X,economy,petrol,3.42,2013,20041,2019
+d71502477Z,Volkswagen ID.4 ,premium,electro,4.22,2015,17994,2020
+R-1139811i,Smart ForTwo,economy,petrol,6.08,2016,42941,2021
+G-5334935K,Kia Rio X,economy,petrol,5.12,2011,60176,2022
+I12476979c,Skoda Rapid,economy,petrol,2.34,2017,50777,2021
+C17915761Y,Kia Sportage,standart,petrol,3.56,2013,19329,2015
+H-1178766O,Kia Rio X-line,economy,petrol,4.3,2013,15652,2014
+c-1441676f,Smart ForTwo,economy,petrol,5.88,2017,56030,2019
+f13166101u,Audi A4,premium,petrol,3.96,2016,32702,2020
+I16841016h,Kia Rio,economy,petrol,3.58,2013,21599,2018
+U-1077267T,Kia Rio,economy,petrol,4.68,2014,200,2020
+I14037000L,VW Tiguan,economy,petrol,3.7,2015,16366,2020
+K77413224C,VW Polo,economy,petrol,3.24,2014,1859,2017
+F19759755s,Kia Sportage,standart,petrol,2.72,2013,15403,2014
+W-1482006Z,Kia Sportage,standart,petrol,7.54,2013,14272,2020
+J-8062324q,Nissan Qashqai,standart,petrol,5.54,2011,52605,2019
+B-3410652R,Kia Rio X-line,economy,petrol,4.54,2015,19017,2020
+p-2185471q,Smart ForTwo,economy,petrol,5.42,2017,54633,2016
+w-1340073O,VW Polo VI,economy,petrol,4.44,2015,19761,2016
+J86155688b,Smart ForTwo,economy,petrol,3.42,2013,20806,2022
+u-3380027f,Renault Sandero,standart,petrol,6.34,2015,19867,2020
+W17689652L,Kia Sportage,standart,petrol,4.84,2014,787,2020
+m14495400B,Renault Sandero,standart,petrol,4.38,2013,20833,2019
+v10838666V,Smart ForTwo,economy,petrol,3.1,2017,47629,2014
+q-2178074r,Renault Kaptur,standart,petrol,4.84,2014,1203,2022
+w-1650130C,Kia Rio X-line,economy,petrol,3.82,2015,2550,2017
+h-1468960s,Mini Cooper,business,petrol,4.9,2013,19664,2019
+a12414847L,Kia Rio,economy,petrol,3.32,2015,21647,2022
+x-2172378r,VW Polo,economy,petrol,4.94,2015,17202,2016
+S-2881986L,Hyundai Solaris,economy,petrol,4.54,2013,23464,2020
+P84532245x,VW Polo VI,economy,petrol,4.36,2015,16990,2017
+G-3827758v,Smart Coupe,economy,petrol,4.74,2015,18830,2017
+q-1507500f,Hyundai Solaris,economy,petrol,5.12,2012,38265,2017
+u92848218h,Nissan Qashqai,standart,petrol,4.38,2015,17212,2016
+T-1045398l,Smart ForFour,economy,petrol,4.68,2015,18800,2015
+t93483106f,Hyundai Solaris,economy,petrol,3.44,2014,1271,2021
+P-8878725c,Smart ForFour,economy,petrol,4.94,2014,4346,2020
+q-1110238R,VW Polo,economy,petrol,4.66,2015,19260,2017
+L-1008139l,Renault Kaptur,standart,petrol,5.32,2015,17273,2015
+U-3421863c,VW Polo VI,economy,petrol,4.18,2015,18086,2019
+D80715931S,Nissan Qashqai,standart,petrol,3.92,2015,13535,2021
+I-5287840z,Hyundai Solaris,economy,petrol,4.68,2014,2083,2015
+o88345223o,Smart ForFour,economy,petrol,3.66,2013,20735,2020
+x11789518k,Smart Coupe,economy,petrol,3.58,2016,33114,2020
+X-4982283g,VW Polo VI,economy,petrol,4.36,2013,18039,2020
+x22625386b,Kia Rio X-line,economy,petrol,1.64,2012,46337,2022
+m20059199I,Kia Rio,economy,petrol,2.74,2015,21237,2018
+g-1321555l,Renault Kaptur,standart,petrol,5.94,2011,49778,2020
+k-1224817B,Smart Coupe,economy,petrol,5.12,2013,18756,2017
+A21912248o,Renault Kaptur,standart,petrol,4.2,2012,31314,2014
+Z-1695543G,Hyundai Solaris,economy,petrol,4.58,2013,15312,2017
+k-1457149F,VW Tiguan,economy,petrol,4.28,2017,50294,2019
+L-1994070b,VW Tiguan,economy,petrol,4.66,2017,50360,2020
+Y-9861324X,Kia Rio X,economy,petrol,5.98,2011,57127,2016
+v-9373200W,VW Polo,economy,petrol,5.36,2011,61742,2017
+d-8438464b,VW Polo VI,economy,petrol,4.38,2015,17695,2021
+E-1187466g,VW Polo,economy,petrol,4.56,2011,55633,2019
+D20835585D,VW Polo,economy,petrol,4.18,2014,2775,2020
+y88147043Q,Kia Rio X,economy,petrol,3.68,2012,38841,2018
+w-1149045h,Smart ForTwo,economy,petrol,4.44,2017,53270,2017
+w-1400458s,Renault Kaptur,standart,petrol,5.14,2011,57595,2020
+b-1808325g,Mercedes-Benz E200,business,petrol,3.62,2013,21940,2019
+L-2225378U,Renault Kaptur,standart,petrol,6.1,2014,2639,2019
+Q-1617879x,Audi Q3,premium,petrol,4.46,2017,57247,2019
+l12547883C,Kia Rio X-line,economy,petrol,3.74,2012,46279,2022
+s12225533X,Kia Rio X,economy,petrol,3.1,2014,895,2018
+w20450386b,VW Polo,economy,petrol,5.32,2014,2415,2019
+L-4323126q,Nissan Qashqai,standart,petrol,4.94,2012,44154,2019
+j33753081h,Hyundai Solaris,economy,petrol,3.64,2015,20521,2017
+k21171246w,Renault Kaptur,standart,petrol,4.0,2012,40583,2018
+a88552102m,Smart ForTwo,economy,petrol,3.22,2013,7318,2020
+A88504410B,Hyundai Solaris,economy,petrol,5.1,2015,17871,2020
+M63593296Y,Smart ForFour,economy,petrol,4.22,2015,13876,2015
+a83711958o,Kia Rio X-line,economy,petrol,4.88,2015,20452,2016
+I-6373354n,Skoda Rapid,economy,petrol,7.0,2017,44223,2019
+t-2150368G,Mini Cooper,business,petrol,4.36,2015,15632,2018
+U32168571f,Smart ForFour,economy,petrol,5.48,2014,9065,2017
+Y-1212866H,Renault Kaptur,standart,petrol,4.02,2015,18292,2016
+l34195185B,VW Polo,economy,petrol,2.96,2012,39867,2019
+E22669027t,Smart Coupe,economy,petrol,3.0,2017,58205,2016
+y17382405W,Kia Rio X-line,economy,petrol,2.9,2013,19572,2020
+s-7946671G,VW Tiguan,economy,petrol,4.6,2017,50428,2021
+L12649483P,VW Polo VI,economy,petrol,2.82,2015,20518,2020
+F-1765024P,Nissan Qashqai,standart,petrol,5.48,2015,18026,2014
+s14935289x,Smart Coupe,economy,petrol,4.24,2017,56169,2019
+e22065734r,Smart ForTwo,economy,petrol,3.88,2015,14869,2021
+q14259713T,Skoda Rapid,economy,petrol,4.7,2015,20510,2017
+Q-2064956U,VW Polo VI,economy,petrol,5.54,2012,27986,2016
+z-2072270c,Hyundai Solaris,economy,petrol,3.94,2014,5494,2020
+J-7365319o,VW Polo,economy,petrol,5.02,2013,21582,2018
+u33605793C,Nissan Qashqai,standart,petrol,3.0,2015,13661,2020
+M-1943823o,VW Polo VI,economy,petrol,4.8,2015,15772,2014
+H-2027180a,Skoda Rapid,economy,petrol,6.38,2015,7725,2021
+w-6809933k,Smart Coupe,economy,petrol,6.96,2015,18561,2020
+V-2305654z,VW Polo VI,economy,petrol,5.06,2015,17794,2019
+N49174717T,Kia Rio,economy,petrol,4.7,2013,15563,2019
+C83133666a,Hyundai Solaris,economy,petrol,5.3,2015,24072,2017
+y-1992010c,VW Tiguan,economy,petrol,4.98,2017,42490,2019
+I92240674S,Kia Rio X-line,economy,petrol,4.74,2013,18447,2017
+K22744977S,Kia Sportage,standart,petrol,3.16,2015,16226,2019
+l19335541v,Kia Rio X-line,economy,petrol,3.62,2014,9998,2021
+F-9227715i,Renault Kaptur,standart,petrol,4.74,2012,35552,2022
+b16503420a,Kia Rio X,economy,petrol,3.3,2015,20195,2017
+v84573539V,Fiat 500,business,petrol,3.6,2014,462,2016
+R-9911907c,Smart Coupe,economy,petrol,4.9,2015,14715,2019
+B16647340L,Skoda Rapid,economy,petrol,4.16,2013,20191,2016
+q22782800r,Volkswagen ID.4 ,premium,electro,3.14,2016,31283,2021
+c43380323t,VW Tiguan,economy,petrol,3.56,2017,54371,2020
+b43216533p,VW Polo,economy,petrol,4.24,2011,49729,2019
+f-8629356d,Smart Coupe,economy,petrol,4.24,2014,504,2016
+K43064429W,VW Tiguan,economy,petrol,3.04,2017,55258,2019
+i-2205007N,Kia Sportage,standart,petrol,4.6,2014,139,2020
+f71353756t,VW Tiguan,economy,petrol,3.16,2015,16592,2021
+g16323425R,Smart ForTwo,economy,petrol,4.16,2017,53211,2018
+K38567453U,Smart ForFour,economy,petrol,2.96,2013,15334,2015
+H-2272925O,Nissan Qashqai,standart,petrol,4.24,2011,52457,2015
+a10758139R,Renault Kaptur,standart,petrol,4.28,2015,11262,2015
+s60028413Z,Hyundai Solaris,economy,petrol,1.98,2015,16268,2019
+Z17010114c,VW Tiguan,economy,petrol,2.38,2016,32736,2018
+q19730200B,Kia Rio X,economy,petrol,4.72,2015,13557,2018
+V-1687462f,Renault Kaptur,standart,petrol,4.54,2014,1131,2019
+q-1136311u,Renault Kaptur,standart,petrol,4.54,2012,37236,2020
+Q19104895y,VW Polo,economy,petrol,4.38,2011,48363,2021
+c-4218281W,VW Polo,economy,petrol,4.1,2014,173,2018
+m21397826M,VW Polo VI,economy,petrol,3.06,2015,23000,2020
+d-3094095j,VW Polo VI,economy,petrol,5.06,2015,8399,2014
+i-3912946s,VW Polo,economy,petrol,4.76,2011,50794,2022
+e14219161F,Renault Sandero,standart,petrol,3.14,2015,16452,2019
+Z17531625l,Smart ForFour,economy,petrol,3.68,2017,52047,2014
+G99382945X,Skoda Rapid,economy,petrol,2.96,2017,51900,2017
+B10938328K,VW Polo,economy,petrol,2.66,2011,52336,2021
+j16440752X,Smart ForFour,economy,petrol,3.78,2015,13658,2016
+B-7836698E,Skoda Rapid,economy,petrol,5.1,2017,53628,2016
+j-1325837g,Kia Rio X-line,economy,petrol,5.88,2011,49458,2020
+t97649767m,VW Polo VI,economy,petrol,4.06,2012,34041,2017
+Q11107340o,Renault Sandero,standart,petrol,3.86,2015,14474,2019
+Y13429625G,VW Tiguan,economy,petrol,4.06,2017,53506,2021
+f16243602V,Nissan Qashqai,standart,petrol,4.16,2013,19900,2020
+H-9842525x,Nissan Qashqai,standart,petrol,4.54,2015,19707,2017
+W-2084026P,Kia Sportage,standart,petrol,5.18,2013,18282,2015
+l-8343790h,Hyundai Solaris,economy,petrol,5.48,2012,33911,2016
+p-3603637k,Kia Rio X-line,economy,petrol,5.62,2012,30747,2020
+q-1010333c,Hyundai Solaris,economy,petrol,6.66,2015,6433,2021
+D-1444214l,Audi A3,premium,petrol,4.2,2016,35282,2018
+y77483892v,Hyundai Solaris,economy,petrol,3.38,2014,2221,2021
+m-6096249A,Smart ForTwo,economy,petrol,5.86,2015,13992,2019
+K20647243E,Kia Rio X-line,economy,petrol,2.92,2013,22734,2015
+l56840654k,Kia Sportage,standart,petrol,4.46,2011,54773,2014
+c37578468d,Fiat 500,business,petrol,2.64,2015,13216,2020
+F-1541679D,Kia Rio X,economy,petrol,5.04,2014,12,2016
+M-1758994W,Kia Sportage,standart,petrol,7.06,2015,17558,2016
+D-2162206v,VW Tiguan,economy,petrol,4.16,2013,19918,2022
+r85976056X,Kia Rio,economy,petrol,2.84,2012,38427,2016
+R50880701A,VW Tiguan,economy,petrol,3.82,2017,57389,2022
+f-1990174W,Smart Coupe,economy,petrol,5.0,2017,46923,2020
+P-6446176U,Smart ForTwo,economy,petrol,3.7,2017,58280,2020
+o-1147532B,Volkswagen ID.4 ,premium,electro,4.88,2016,33349,2021
+X10418984q,Smart Coupe,economy,petrol,2.92,2015,13593,2017
+f-2198918d,VW Polo VI,economy,petrol,4.72,2013,14451,2015
+A-4538079m,Skoda Rapid,economy,petrol,4.46,2017,55092,2021
+Q74209403K,Smart ForFour,economy,petrol,3.22,2013,23770,2022
+C22801516n,Kia Sportage,standart,petrol,2.8,2013,22739,2016
+Y20725165N,VW Polo,economy,petrol,4.0,2015,16491,2022
+i17414994r,Smart ForFour,economy,petrol,3.44,2016,33230,2018
+C-7682357N,Skoda Rapid,economy,petrol,4.44,2015,21379,2014
+H81278299s,Audi A4,premium,petrol,4.24,2016,27924,2020
+A13133619i,Nissan Qashqai,standart,petrol,2.72,2013,18958,2020
+a-1038532F,Skoda Rapid,economy,petrol,4.76,2017,55000,2022
+Z15630506f,Nissan Qashqai,standart,petrol,3.36,2012,34360,2016
+m15529207T,Smart ForFour,economy,petrol,2.8,2013,29481,2018
+f-9478926P,Kia Rio,economy,petrol,4.68,2014,624,2021
+B-7538666a,Audi Q3,premium,petrol,4.62,2014,8191,2017
+W-1824201L,VW Tiguan,economy,petrol,4.78,2017,53962,2020
+K-7561049S,Smart Coupe,economy,petrol,4.06,2013,14555,2021
+U-6370581q,Hyundai Solaris,economy,petrol,4.18,2013,9991,2016
+U21357241Q,Kia Rio X,economy,petrol,2.42,2014,2228,2021
+m17238174V,BMW 320i,business,petrol,3.68,2015,19416,2019
+N11264845a,VW Polo,economy,petrol,3.0,2014,3163,2022
+I19111984X,Skoda Rapid,economy,petrol,3.68,2017,55465,2017
+s-8404175T,Skoda Rapid,economy,petrol,5.28,2017,56281,2014
+f15751251l,VW Polo,economy,petrol,3.32,2011,53907,2015
+c-1333082V,Smart ForFour,economy,petrol,5.52,2017,47339,2021
+c-8312768O,VW Polo,economy,petrol,3.68,2015,17418,2017
+q-9666642j,Kia Rio,economy,petrol,5.72,2011,50966,2020
+h22143155t,Renault Sandero,standart,petrol,5.64,2014,1913,2021
+T63544999T,Renault Kaptur,standart,petrol,4.4,2014,1376,2020
+B-1014343c,Renault Sandero,standart,petrol,3.86,2011,49097,2018
+b-3892356B,Volkswagen ID.4 ,premium,electro,4.44,2017,51998,2022
+C12753423d,Skoda Rapid,economy,petrol,5.82,2013,22717,2018
+X-2145994R,VW Polo,economy,petrol,4.88,2012,28621,2016
+i57656268d,Smart ForTwo,economy,petrol,3.32,2015,17231,2017
+w-4302417Z,Renault Sandero,standart,petrol,3.56,2012,38538,2016
+O15245300h,Kia Rio X-line,economy,petrol,4.34,2011,49696,2019
+E-1087710l,VW Polo VI,economy,petrol,4.34,2011,54250,2016
+s-3156021r,Kia Rio X,economy,petrol,5.12,2015,18217,2015
+Y14702530b,Smart Coupe,economy,petrol,4.2,2013,19512,2022
+m63863077W,Smart ForTwo,economy,petrol,4.92,2017,52770,2021
+D-1368831T,Kia Rio,economy,petrol,5.64,2012,37465,2022
+u19070280z,VW Polo VI,economy,petrol,4.5,2013,18611,2015
+C18825267T,Smart ForFour,economy,petrol,3.72,2014,5211,2016
+R68393260o,Audi A4,premium,petrol,3.3,2017,52263,2019
+V-1914841n,VW Polo VI,economy,petrol,3.32,2013,15628,2021
+r15411173L,Kia Rio X-line,economy,petrol,4.5,2014,5816,2018
+v-7335662p,VW Tiguan,economy,petrol,4.68,2017,48397,2018
+t-3141199G,Kia Rio X-line,economy,petrol,3.88,2012,38005,2019
+U-4573055C,Mini Cooper,business,petrol,5.16,2012,38083,2018
+R61130133E,Kia Sportage,standart,petrol,3.78,2015,22329,2017
+P-2207351R,VW Polo,economy,petrol,5.22,2014,1724,2017
+x-1323473j,MINI CooperSE,business,electro,5.22,2013,18305,2021
+R-2041919i,Kia Rio X,economy,petrol,5.46,2013,19823,2018
+I-1076572F,Skoda Rapid,economy,petrol,5.38,2017,51568,2014
+Y25711088v,Kia Rio X,economy,petrol,3.66,2011,52542,2018
+J-1451370X,Kia Rio X,economy,petrol,5.92,2012,42096,2021
+z17566636u,Kia Sportage,standart,petrol,3.62,2012,32803,2021
+M-6075066J,Skoda Rapid,economy,petrol,4.26,2015,16509,2020
+p79382240t,Nissan Qashqai,standart,petrol,4.82,2011,55784,2020
+W17715701O,VW Tiguan,economy,petrol,2.42,2016,29415,2017
+F14693961T,VW Polo,economy,petrol,3.38,2015,7452,2016
+S-1445792n,Kia Sportage,standart,petrol,5.3,2011,53821,2018
+J-6194042F,Smart ForFour,economy,petrol,4.4,2017,54161,2016
+E-1695887r,Kia Rio,economy,petrol,5.08,2014,6451,2020
+y17174649n,Kia Rio,economy,petrol,3.52,2014,1080,2018
+c15895893k,VW Polo,economy,petrol,3.86,2011,52364,2015
+d20701685y,Renault Kaptur,standart,petrol,2.42,2015,20090,2016
+h20479788m,Kia Sportage,standart,petrol,3.9,2015,14460,2018
+T-2307492Y,VW Polo VI,economy,petrol,5.04,2015,11979,2016
+r13780532k,Nissan Qashqai,standart,petrol,3.66,2014,1073,2017
+V13631948u,VW Polo VI,economy,petrol,4.08,2015,20603,2018
+L-1657531W,Kia Rio,economy,petrol,4.24,2015,9066,2017
+K13179432U,VW Tiguan,economy,petrol,4.58,2013,17063,2019
+y-5962726Q,Kia Rio X,economy,petrol,4.62,2013,19539,2020
+s17987725N,VW Tiguan,economy,petrol,3.6,2017,49087,2019
+I15820206Y,Kia Sportage,standart,petrol,4.0,2014,4017,2017
+T59776447T,Smart Coupe,economy,petrol,4.36,2015,21370,2022
+x12638591x,Hyundai Solaris,economy,petrol,4.44,2014,3354,2016
+L13637259X,Hyundai Solaris,economy,petrol,3.96,2014,369,2018
+N11934116O,Renault Kaptur,standart,petrol,2.36,2013,23448,2014
+y25363088v,Nissan Qashqai,standart,petrol,4.2,2014,1512,2019
+C12898646D,VW Polo,economy,petrol,3.54,2015,8601,2014
+h-9670277k,Smart ForFour,economy,petrol,5.48,2017,42983,2016
+H53991237H,Renault Kaptur,standart,petrol,2.54,2011,59669,2017
+l-6603413d,Renault Sandero,standart,petrol,5.24,2013,12887,2017
+h88940894y,VW Polo VI,economy,petrol,4.1,2014,2307,2016
+m-6622998d,Renault Kaptur,standart,petrol,4.62,2015,16199,2020
+Q38378798R,Smart ForFour,economy,petrol,4.98,2014,4034,2020
+Z15077547I,Smart ForFour,economy,petrol,4.68,2016,36924,2019
+g-4685025A,BMW 320i,business,petrol,5.12,2015,15501,2019
+N-4034296q,Smart ForTwo,economy,petrol,3.44,2015,11283,2018
+Y19594451x,Nissan Qashqai,standart,petrol,4.18,2015,20464,2020
+N-8610260E,Nissan Qashqai,standart,petrol,5.94,2012,27120,2019
+I19698046e,Renault Kaptur,standart,petrol,2.86,2013,17592,2015
+C12756350X,Nissan Qashqai,standart,petrol,4.58,2014,69,2020
+J20652348i,Renault Sandero,standart,petrol,4.0,2014,3455,2016
+l13874233M,VW Polo,economy,petrol,2.78,2012,33192,2014
+K12554081r,Audi A3,premium,petrol,4.04,2017,58433,2021
+V-4019160K,Renault Sandero,standart,petrol,5.54,2015,17089,2021
+R48693721d,Smart ForFour,economy,petrol,4.06,2017,56121,2021
+n-1676003p,Smart ForFour,economy,petrol,5.64,2017,52781,2016
+j-1847489G,VW Polo,economy,petrol,6.44,2015,13358,2016
+d-1035730m,BMW 320i,business,petrol,4.42,2016,25711,2015
+A20523662B,VW Polo,economy,petrol,4.26,2015,17529,2019
+t93326399g,VW Polo VI,economy,petrol,1.94,2012,43992,2016
+g96404664L,VW Tiguan,economy,petrol,3.04,2017,47613,2019
+x-1238367h,Kia Rio X,economy,petrol,4.94,2011,51736,2020
+u13468455v,VW Polo,economy,petrol,4.18,2014,4184,2021
+x97096369H,Skoda Rapid,economy,petrol,3.88,2016,35974,2016
+a-1951473F,Nissan Qashqai,standart,petrol,4.32,2013,17164,2021
+C19390315p,VW Polo,economy,petrol,4.28,2015,19507,2018
+u-9314451t,Kia Rio,economy,petrol,4.2,2015,18536,2019
+r12728928j,VW Polo,economy,petrol,4.14,2013,18595,2022
+b-7699023s,Skoda Rapid,economy,petrol,4.4,2013,16702,2016
+h35908645P,Nissan Qashqai,standart,petrol,3.38,2015,20577,2020
+I-2277714Y,Fiat 500,business,petrol,5.32,2015,8309,2018
+h-5225935C,Smart Coupe,economy,petrol,5.26,2015,21390,2022
+O-1119661a,Audi Q3,premium,petrol,4.64,2014,2298,2017
+i71461439r,Renault Sandero,standart,petrol,3.82,2014,2081,2020
+r40197494N,Smart Coupe,economy,petrol,3.58,2016,39383,2015
+u21311341W,Smart ForFour,economy,petrol,4.66,2017,45397,2018
+r-1747802Y,Hyundai Solaris,economy,petrol,4.82,2011,53302,2018
+b-8043423A,Smart ForFour,economy,petrol,4.66,2017,47726,2019
+y20074895s,Kia Rio X,economy,petrol,3.56,2015,17762,2019
+E-9896043c,Skoda Rapid,economy,petrol,4.9,2017,55307,2020
+E14732289P,Skoda Rapid,economy,petrol,5.04,2016,37764,2018
+S19700765q,Kia Sportage,standart,petrol,3.4,2014,88,2020
+R16945420W,Nissan Qashqai,standart,petrol,3.16,2014,3285,2021
+F-7224631t,Kia Rio,economy,petrol,5.74,2013,20871,2015
+B14385339j,VW Polo VI,economy,petrol,2.86,2011,52617,2019
+V73783619o,Nissan Qashqai,standart,petrol,5.48,2011,54570,2019
+k16350822r,VW Polo VI,economy,petrol,2.52,2011,55091,2017
+x-1608657E,Kia Rio,economy,petrol,4.2,2011,60813,2018
+M11884433z,Kia Rio X-line,economy,petrol,3.5,2014,188,2016
+n66334020o,Renault Sandero,standart,petrol,2.86,2015,20769,2016
+j20167167H,VW Tiguan,economy,petrol,4.36,2013,20036,2022
+E-1885482e,Smart Coupe,economy,petrol,5.5,2016,31146,2021
+i-1801797j,Kia Rio X,economy,petrol,3.88,2015,13639,2020
+U18212146p,Kia Sportage,standart,petrol,3.28,2013,18323,2021
+c-8275406B,Smart Coupe,economy,petrol,4.64,2013,22691,2021
+D11583941D,Renault Kaptur,standart,petrol,3.04,2013,20733,2021
+t-1004686t,Smart Coupe,economy,petrol,4.58,2013,20533,2014
+u80035261l,Renault Sandero,standart,petrol,3.18,2012,51189,2019
+N16820938I,VW Polo,economy,petrol,3.68,2013,15334,2020
+N82355902d,Smart ForTwo,economy,petrol,3.46,2017,44234,2017
+V42973440X,Smart ForTwo,economy,petrol,4.3,2016,38124,2016
+u12950371y,Fiat 500,business,petrol,3.88,2012,35619,2018
+W-2190664R,Kia Rio X,economy,petrol,4.34,2012,30445,2020
+C27005604C,Kia Sportage,standart,petrol,4.0,2014,7133,2017
+M27525581S,Kia Rio X-line,economy,petrol,2.42,2012,45565,2021
+L-4572727P,Kia Sportage,standart,petrol,4.62,2013,23831,2019
+D-6997369D,Kia Rio,economy,petrol,4.88,2011,58836,2019
+t14723269B,Skoda Rapid,economy,petrol,5.36,2016,41047,2019
+o21824393O,VW Polo,economy,petrol,3.36,2011,48422,2014
+G12052150e,Skoda Rapid,economy,petrol,4.24,2014,4951,2015
+g19540383M,Smart Coupe,economy,petrol,4.32,2016,35125,2020
+n-2891162E,Renault Kaptur,standart,petrol,4.58,2015,13699,2018
+y20906527i,Renault Sandero,standart,petrol,3.62,2014,9263,2022
+k-1252575j,VW Polo,economy,petrol,5.48,2011,54053,2019
+f14852360T,Mercedes-Benz E200,business,petrol,4.16,2015,13829,2016
+b88151018v,Mini Cooper,business,petrol,4.64,2015,18091,2016
+x20295353U,Smart ForFour,economy,petrol,3.7,2015,13081,2018
+N-1247317I,Kia Rio X-line,economy,petrol,4.44,2013,12696,2020
+T-1819805r,Kia Rio,economy,petrol,5.72,2013,19430,2020
+i47848099E,Smart Coupe,economy,petrol,1.84,2016,30841,2014
+c48490818S,Hyundai Solaris,economy,petrol,3.62,2014,6962,2017
+d14075533H,Renault Sandero,standart,petrol,3.26,2015,11313,2015
+g51887035V,Hyundai Solaris,economy,petrol,4.22,2013,21012,2016
+F-2187232k,Renault Kaptur,standart,petrol,4.06,2015,14169,2017
+M-1180316x,Kia Rio X-line,economy,petrol,4.7,2015,20437,2018
+A18084049L,Nissan Qashqai,standart,petrol,4.36,2014,1042,2017
+A12634147f,Kia Rio X-line,economy,petrol,4.04,2014,1694,2018
+J-7489304L,Hyundai Solaris,economy,petrol,4.94,2014,393,2020
+R-1966964c,Renault Sandero,standart,petrol,4.46,2014,4308,2017
+q-2120110P,Renault Kaptur,standart,petrol,5.3,2015,18316,2020
+s21454224x,Kia Rio,economy,petrol,2.76,2014,3149,2016
+U18899000A,Hyundai Solaris,economy,petrol,2.2,2015,18994,2021
+A-7045241C,VW Polo VI,economy,petrol,4.74,2011,59883,2015
+V-1467886h,VW Tiguan,economy,petrol,4.18,2015,16916,2021
+Q16295489g,Renault Kaptur,standart,petrol,4.26,2012,28022,2021
+P-7572030Q,Hyundai Solaris,economy,petrol,4.32,2013,21260,2021
+A14947123r,VW Polo,economy,petrol,2.92,2013,12787,2022
+F-8104950d,Renault Sandero,standart,petrol,4.26,2014,804,2021
+N16432036x,Skoda Rapid,economy,petrol,4.14,2017,49698,2017
+z22974305j,VW Polo,economy,petrol,3.38,2011,49499,2015
+z-5335793q,Nissan Qashqai,standart,petrol,4.26,2015,14012,2017
+v11353136a,Smart ForTwo,economy,petrol,3.1,2017,48607,2015
+U-8316679F,Tesla Model 3,premium,electro,3.86,2016,30068,2018
+l20924854G,Smart ForFour,economy,petrol,4.2,2015,13305,2019
+s76075239K,Renault Kaptur,standart,petrol,3.52,2014,4968,2018
+W-9258132q,Smart ForFour,economy,petrol,5.4,2017,48371,2021
+S-2714514N,Kia Rio X-line,economy,petrol,6.12,2013,19709,2021
+O-3223532A,VW Polo VI,economy,petrol,3.9,2013,18958,2017
+c10312253r,Kia Rio X-line,economy,petrol,4.1,2015,25582,2016
+F46229050o,VW Polo,economy,petrol,4.04,2015,15724,2017
+N-2047717q,Smart Coupe,economy,petrol,5.56,2014,4320,2015
+K21261348W,Kia Rio X,economy,petrol,4.38,2012,37247,2019
+L-9852514t,Audi A3,premium,petrol,4.56,2017,49985,2022
+X19388457E,Renault Kaptur,standart,petrol,3.2,2011,47640,2020
+f-8111071y,Hyundai Solaris,economy,petrol,3.24,2015,18471,2015
+Z33677936N,VW Polo VI,economy,petrol,4.82,2014,3460,2018
+p-8643562T,Kia Rio X,economy,petrol,4.7,2015,17738,2017
+c50288585r,Hyundai Solaris,economy,petrol,4.06,2014,2355,2018
+u-8046795Y,Skoda Rapid,economy,petrol,4.02,2014,1111,2018
+W49677486g,Kia Rio X,economy,petrol,3.3,2013,17415,2018
+n-3206129O,Kia Rio X-line,economy,petrol,4.6,2015,12882,2020
+u13787532i,Smart Coupe,economy,petrol,4.38,2017,54816,2019
+A-2910421k,Nissan Qashqai,standart,petrol,5.34,2012,31470,2017
+e-5714453m,Kia Rio X,economy,petrol,5.66,2015,10929,2014
+g12622585Y,Kia Rio,economy,petrol,2.82,2011,52058,2016
+c90097323W,Kia Rio X-line,economy,petrol,3.6,2013,23120,2017
+z10904042m,VW Polo,economy,petrol,3.38,2014,1879,2019
+d12115643S,Kia Sportage,standart,petrol,3.32,2015,17309,2016
+Y-1453450v,Kia Rio,economy,petrol,6.52,2013,18632,2021
+g17523173R,VW Polo VI,economy,petrol,2.14,2015,14740,2017
+E-1357909A,Smart Coupe,economy,petrol,4.52,2014,2496,2014
+d-1053887u,Mercedes-Benz E200,business,petrol,4.48,2013,17141,2020
+K-1761100w,Kia Sportage,standart,petrol,4.06,2014,736,2018
+e-1057735X,MINI CooperSE,business,electro,4.54,2013,15312,2019
+W-1166665x,VW Polo VI,economy,petrol,5.18,2012,40972,2021
+c-8935968J,Kia Sportage,standart,petrol,3.18,2012,36592,2016
+A82537484Y,Renault Kaptur,standart,petrol,4.12,2014,3351,2020
+t50558392T,Skoda Rapid,economy,petrol,4.04,2017,53218,2014
+a-9045954r,VW Tiguan,economy,petrol,5.0,2016,28996,2019
+s-1672322C,Renault Sandero,standart,petrol,5.68,2014,674,2021
+n25253535E,Fiat 500,business,petrol,4.48,2011,54199,2019
+I41333284R,Kia Sportage,standart,petrol,4.06,2015,11987,2018
+U-1871842y,VW Polo VI,economy,petrol,4.76,2015,14078,2020
+l-1268341P,Skoda Rapid,economy,petrol,4.82,2015,27577,2014
+B-9461457X,Kia Sportage,standart,petrol,4.32,2013,19254,2020
+c-2186740v,Smart ForFour,economy,petrol,5.18,2016,36118,2015
+B84297276W,Nissan Qashqai,standart,petrol,3.84,2013,23087,2015
+s19469963b,Audi Q3,premium,petrol,3.86,2013,16696,2022
+r17726474S,VW Polo,economy,petrol,4.36,2014,3026,2019
+b49637665P,Smart ForTwo,economy,petrol,3.48,2015,14229,2020
+C54264804e,Smart Coupe,economy,petrol,3.8,2017,46627,2017
+P-2260040s,Kia Rio,economy,petrol,4.26,2011,51148,2021
+O-1023170l,Renault Sandero,standart,petrol,3.72,2012,37087,2019
+C-1756372B,Renault Sandero,standart,petrol,4.68,2015,19567,2018
+u-4511086A,VW Polo VI,economy,petrol,4.46,2014,4916,2016
+f-2002950g,VW Polo VI,economy,petrol,4.44,2013,12602,2020
+O-2251459M,Skoda Rapid,economy,petrol,6.48,2015,14070,2018
+b11308176C,Tesla Model 3,premium,electro,3.34,2013,6576,2020
+N55801514h,Smart ForFour,economy,petrol,4.96,2016,41014,2019
+D21044561K,Renault Sandero,standart,petrol,3.84,2013,14388,2018
+I12068478z,Kia Rio X,economy,petrol,4.1,2011,52018,2016
+u-2286443D,Kia Sportage,standart,petrol,5.0,2015,15397,2021
+C13307202S,Kia Rio,economy,petrol,3.32,2011,55612,2019
+U-2168810W,Hyundai Solaris,economy,petrol,4.4,2011,51158,2016
+g19710330Z,Kia Sportage,standart,petrol,3.9,2011,52809,2022
+z17101490j,VW Polo VI,economy,petrol,2.86,2012,36031,2019
+C-3315216a,VW Tiguan,economy,petrol,4.58,2017,57964,2017
+v-1558403h,Renault Sandero,standart,petrol,4.08,2012,35015,2021
+S16839233K,VW Polo,economy,petrol,4.38,2014,6021,2014
+X64280496g,Smart ForFour,economy,petrol,3.38,2016,34418,2021
+J-4723298K,Mini Cooper,business,petrol,4.28,2014,1225,2019
+A-6886670y,Smart ForTwo,economy,petrol,4.54,2016,35352,2021
+p-3089599K,Kia Sportage,standart,petrol,4.84,2015,11787,2016
+O17158733J,Smart Coupe,economy,petrol,3.16,2013,15097,2018
+U64974092g,Kia Rio,economy,petrol,2.42,2015,13053,2019
+H76495678O,Smart Coupe,economy,petrol,3.0,2013,19106,2019
+n-5845621V,Renault Kaptur,standart,petrol,5.2,2015,19111,2016
+j-2248857F,Fiat 500,business,petrol,5.68,2013,20200,2018
+N88530548O,Renault Sandero,standart,petrol,3.82,2015,15378,2017
+b-1162432N,Kia Rio,economy,petrol,5.24,2014,1965,2017
+i11808136B,Kia Rio X,economy,petrol,4.02,2011,48117,2015
+f-6574900d,Kia Rio,economy,petrol,4.36,2015,14444,2016
+d-1711215d,VW Polo,economy,petrol,4.94,2015,18875,2019
+x81725323B,Kia Rio X-line,economy,petrol,4.06,2013,18238,2015
+a-2019037V,Kia Rio X,economy,petrol,5.7,2013,17351,2015
+D-1182072u,Audi A3,premium,petrol,4.7,2016,32570,2019
+v-1933500B,Kia Rio X-line,economy,petrol,5.2,2013,15812,2017
+w32749800c,Smart Coupe,economy,petrol,3.74,2017,53875,2018
+r33066975p,MINI CooperSE,business,electro,2.62,2014,647,2022
+a15999261w,Renault Kaptur,standart,petrol,2.38,2013,25771,2020
+f-4146675F,Audi Q3,premium,petrol,4.36,2016,28196,2020
+S-1361001t,Hyundai Solaris,economy,petrol,4.74,2014,436,2020
+I22695125h,VW Polo VI,economy,petrol,4.52,2012,35373,2016
+i61330923K,Skoda Rapid,economy,petrol,4.46,2014,534,2020
+x63445697C,Hyundai Solaris,economy,petrol,3.22,2012,33682,2014
+U20483455L,Audi Q3,premium,petrol,3.16,2016,28847,2017
+c-1645931V,Renault Kaptur,standart,petrol,4.28,2014,6848,2019
+P-1900077s,Renault Kaptur,standart,petrol,4.9,2011,51114,2017
+B43576568k,Smart Coupe,economy,petrol,4.0,2015,19886,2016
+A31597572w,Renault Kaptur,standart,petrol,2.98,2014,11656,2020
+j46710215F,Kia Rio X,economy,petrol,3.4,2011,53043,2018
+v-2607177p,Smart Coupe,economy,petrol,4.22,2013,17551,2018
+l19044167y,Kia Rio X,economy,petrol,3.98,2012,32486,2020
+N-1408548p,Smart ForTwo,economy,petrol,5.78,2017,57779,2018
+X-8424456A,Smart Coupe,economy,petrol,5.2,2017,48574,2018
+j15521867d,Nissan Qashqai,standart,petrol,2.4,2012,30738,2017
+F-4386204z,Kia Rio X-line,economy,petrol,5.46,2013,24305,2021
+Q16273278a,Smart Coupe,economy,petrol,2.14,2016,30733,2016
+e-9920457S,Renault Kaptur,standart,petrol,4.96,2015,14330,2020
+J-2228052H,VW Polo,economy,petrol,4.06,2015,15329,2020
+O-1900291n,Smart Coupe,economy,petrol,4.74,2017,46680,2018
+J-2271698z,Skoda Rapid,economy,petrol,6.4,2017,54742,2017
+D12567123b,Nissan Qashqai,standart,petrol,4.72,2012,35727,2018
+i-3526731o,Kia Sportage,standart,petrol,3.96,2015,13974,2020
+c19812510D,Skoda Rapid,economy,petrol,3.92,2017,55767,2016
+h60420180I,Kia Rio X-line,economy,petrol,3.9,2014,1282,2017
+R22507872r,Kia Sportage,standart,petrol,4.7,2015,15406,2018
+B10117278m,VW Tiguan,economy,petrol,4.46,2015,20984,2022
+n-3695964I,Hyundai Solaris,economy,petrol,4.48,2011,47207,2018
+d22959377W,VW Tiguan,economy,petrol,3.66,2013,20297,2019
+G22857198W,MINI CooperSE,business,electro,3.28,2011,54557,2014
+t12862550R,Skoda Rapid,economy,petrol,3.68,2017,48353,2019
+f-1313024M,Skoda Rapid,economy,petrol,4.9,2017,60569,2016
+c-1309603W,Hyundai Solaris,economy,petrol,4.94,2011,49501,2019
+t-1714288V,MINI CooperSE,business,electro,3.9,2015,9483,2016
+w21611278j,Renault Kaptur,standart,petrol,3.82,2013,17240,2019
+a30238641t,Renault Kaptur,standart,petrol,4.66,2011,54206,2017
+J14274215o,VW Tiguan,economy,petrol,3.74,2016,33826,2019
+g-8315064e,Smart ForTwo,economy,petrol,4.6,2015,20285,2020
+S19161282u,Nissan Qashqai,standart,petrol,3.22,2014,5456,2021
+q-3652939k,VW Polo VI,economy,petrol,3.74,2015,15427,2019
+f21869010W,Nissan Qashqai,standart,petrol,3.92,2013,21777,2020
+O99267691o,Skoda Rapid,economy,petrol,3.92,2015,23965,2019
+i-4682325z,Nissan Qashqai,standart,petrol,5.34,2013,19122,2020
+s-1801527Q,VW Tiguan,economy,petrol,4.7,2017,46732,2018
+f-1012201G,Smart Coupe,economy,petrol,4.14,2015,15046,2018
+l10303703L,Hyundai Solaris,economy,petrol,3.58,2013,18290,2016
+E16616682t,Kia Rio X,economy,petrol,3.88,2015,20760,2019
+E-8496379l,Audi A4,premium,petrol,4.48,2014,2497,2021
+l13064932H,Smart ForFour,economy,petrol,4.04,2016,35728,2018
+A-3330229X,Smart Coupe,economy,petrol,4.46,2016,38722,2018
+l22658238H,Kia Rio X-line,economy,petrol,3.28,2014,6533,2018
+Q-1318461y,Smart ForTwo,economy,petrol,3.38,2014,838,2020
+e-1509925G,Tesla Model 3,premium,electro,4.62,2015,12906,2019
+m-1180127O,Skoda Rapid,economy,petrol,4.38,2017,49622,2021
+W-1845226P,Hyundai Solaris,economy,petrol,4.44,2013,26100,2018
+j48730967J,Skoda Rapid,economy,petrol,2.56,2016,29300,2016
+I-1899814S,VW Polo,economy,petrol,4.64,2012,35232,2020
+f26163689i,VW Tiguan,economy,petrol,4.52,2016,34323,2017
+K-1592439I,Smart ForFour,economy,petrol,5.74,2014,1405,2018
+f-1296013R,Smart Coupe,economy,petrol,4.56,2017,44547,2015
+x17775800h,Kia Rio X-line,economy,petrol,3.32,2015,10645,2019
+n16674090m,Kia Sportage,standart,petrol,4.02,2013,20048,2018
+a18281567Q,Smart Coupe,economy,petrol,1.06,2016,45229,2017
+g43782420x,Nissan Qashqai,standart,petrol,4.98,2011,47416,2016
+X-1132319h,Skoda Rapid,economy,petrol,4.62,2017,46470,2022
+Q49713395m,Renault Sandero,standart,petrol,3.44,2015,16729,2020
+j67859481S,Nissan Qashqai,standart,petrol,4.08,2014,579,2021
+T33565127y,Kia Rio,economy,petrol,3.24,2012,37058,2016
+P71808656h,Kia Rio X,economy,petrol,3.76,2015,16981,2020
+q-1211136t,Nissan Qashqai,standart,petrol,5.02,2011,53785,2019
+T-6190503K,Kia Sportage,standart,petrol,4.84,2014,3461,2019
+W-1180391B,Smart ForFour,economy,petrol,4.86,2016,30232,2019
+l-5044253K,Renault Kaptur,standart,petrol,4.66,2015,15741,2020
+x94191656P,Audi A3,premium,petrol,2.66,2017,55354,2018
+F-1813249r,Kia Rio X,economy,petrol,4.88,2015,15716,2020
+b85837115o,Smart ForFour,economy,petrol,3.68,2014,3073,2021
+j19827066D,Smart ForTwo,economy,petrol,3.3,2013,18057,2018
+X12526908k,Smart ForFour,economy,petrol,2.98,2017,50818,2016
+B13217035v,Smart ForTwo,economy,petrol,4.38,2015,19122,2022
+H-4806682s,Kia Sportage,standart,petrol,4.22,2014,2428,2015
+R58685992d,Hyundai Solaris,economy,petrol,4.78,2014,2367,2014
+V36111854l,Nissan Qashqai,standart,petrol,4.2,2015,20971,2018
+I75959867K,Smart ForTwo,economy,petrol,3.56,2014,5050,2017
+q11874185M,Skoda Rapid,economy,petrol,4.06,2017,60935,2019
+l21899595L,Nissan Qashqai,standart,petrol,2.98,2013,15210,2015
+b34762732b,Kia Rio X,economy,petrol,5.22,2013,19476,2016
+G-1620353B,Hyundai Solaris,economy,petrol,4.18,2013,24020,2019
+g17234839f,Kia Rio X-line,economy,petrol,3.68,2014,7318,2015
+K-1989970h,Renault Kaptur,standart,petrol,3.94,2012,23644,2016
+A-5841856p,VW Tiguan,economy,petrol,5.76,2014,3065,2020
+q38756340O,Volkswagen ID.4 ,premium,electro,3.94,2013,16747,2019
+u-7923814E,Hyundai Solaris,economy,petrol,5.52,2012,40725,2022
+p36403563J,Audi A3,premium,petrol,3.08,2014,6605,2019
+M-4506627y,Renault Sandero,standart,petrol,5.28,2012,34680,2019
+Q17206148B,Kia Rio X-line,economy,petrol,5.72,2012,35295,2017
+T10147503F,VW Tiguan,economy,petrol,2.98,2014,3448,2020
+c64160493w,Nissan Qashqai,standart,petrol,3.8,2014,4950,2017
+P-9247649C,VW Polo,economy,petrol,3.22,2011,59275,2016
+i-1792521P,Nissan Qashqai,standart,petrol,6.12,2015,14453,2016
+m18622639b,Kia Rio X-line,economy,petrol,3.58,2015,20441,2014
+W-1013261o,Nissan Qashqai,standart,petrol,4.94,2011,56357,2018
+z21392913B,Skoda Rapid,economy,petrol,3.86,2017,49364,2019
+S-1901033u,Hyundai Solaris,economy,petrol,5.52,2014,627,2016
+d-1144359j,Skoda Rapid,economy,petrol,4.88,2015,16147,2016
+s10480500N,Smart Coupe,economy,petrol,4.64,2016,35524,2016
+W84591292c,Kia Rio X,economy,petrol,3.92,2015,14857,2018
+a-5636004X,VW Polo,economy,petrol,5.56,2013,17426,2020
+D-1815797g,Kia Rio,economy,petrol,4.28,2011,58142,2019
+z13834114d,Renault Sandero,standart,petrol,4.14,2012,37132,2017
+Y-4651657C,Mini Cooper,business,petrol,3.8,2013,18330,2018
+B99812683U,Renault Sandero,standart,petrol,2.98,2011,58661,2018
+L-1951706L,Tesla Model 3,premium,electro,5.98,2017,42773,2019
+S-3750149q,Mercedes-Benz GLC,business,petrol,7.06,2011,51965,2020
+V14435257f,Skoda Rapid,economy,petrol,3.2,2014,2153,2020
+P-2032059x,Skoda Rapid,economy,petrol,5.9,2015,18483,2020
+b95352453P,Kia Rio,economy,petrol,3.14,2015,15476,2016
+x-2244509r,Renault Kaptur,standart,petrol,4.6,2015,17743,2018
+d-1325096X,VW Polo VI,economy,petrol,4.88,2014,2417,2017
+u11881329Q,Smart Coupe,economy,petrol,3.96,2017,60910,2019
+B-1342364U,Skoda Rapid,economy,petrol,4.84,2016,40152,2017
+R18745713m,Smart ForTwo,economy,petrol,3.58,2016,43425,2019
+B-4639982Q,Nissan Qashqai,standart,petrol,4.86,2014,2194,2014
+D10482583t,Hyundai Solaris,economy,petrol,4.16,2011,46293,2016
+T48213114G,Smart Coupe,economy,petrol,3.98,2013,28233,2018
+D17679522E,Hyundai Solaris,economy,petrol,2.36,2015,14949,2016
+t-1739940p,Skoda Rapid,economy,petrol,4.98,2016,37687,2019
+J-1499062M,VW Polo VI,economy,petrol,4.46,2013,14726,2017
+G20230547x,Kia Sportage,standart,petrol,2.14,2015,20764,2021
+r-2053724o,VW Polo VI,economy,petrol,4.34,2015,14779,2015
+T-1003767L,Renault Kaptur,standart,petrol,7.3,2015,20343,2019
+t10762089y,Renault Sandero,standart,petrol,4.34,2012,41877,2018
+y54716579G,VW Tiguan,economy,petrol,4.9,2013,20478,2019
+S-1357975t,Smart ForTwo,economy,petrol,4.2,2013,15034,2016
+j-6126111B,Skoda Rapid,economy,petrol,5.0,2016,35202,2022
+h-1279624m,VW Tiguan,economy,petrol,5.92,2013,20031,2019
+A-8722732Y,Hyundai Solaris,economy,petrol,2.12,2012,36745,2022
+j-1675469N,MINI CooperSE,business,electro,5.04,2014,4531,2020
+k-8455129n,Renault Sandero,standart,petrol,4.06,2011,58483,2022
+w-1885530g,VW Polo VI,economy,petrol,4.58,2012,32361,2022
+R-2604531w,Kia Rio X,economy,petrol,4.58,2012,35162,2021
+Y-2223970K,Audi A3,premium,petrol,5.64,2014,2653,2018
+S12180556n,VW Tiguan,economy,petrol,3.72,2013,18629,2019
+M10018610V,Hyundai Solaris,economy,petrol,4.3,2015,18367,2018
+n12112871d,MINI CooperSE,business,electro,2.94,2012,36820,2017
+R14898028Q,Kia Rio X-line,economy,petrol,4.34,2015,17173,2020
+Q14257920p,Smart Coupe,economy,petrol,4.84,2016,34089,2017
+q-6855803g,Renault Sandero,standart,petrol,5.28,2015,8696,2014
+o-2258846M,Kia Rio,economy,petrol,4.92,2013,15484,2018
+B-4108326C,VW Polo VI,economy,petrol,5.12,2014,3943,2022
+F19574703m,Kia Rio X,economy,petrol,5.0,2013,21292,2020
+P-5943827p,Smart ForFour,economy,petrol,3.22,2015,12096,2016
+T-2008584f,Smart ForFour,economy,petrol,3.84,2015,16534,2018
+e11980907z,Kia Rio X-line,economy,petrol,3.66,2012,39367,2020
+P-6314664B,Skoda Rapid,economy,petrol,4.58,2015,16544,2018
+F-1846204X,Smart ForTwo,economy,petrol,5.2,2015,21376,2016
+V92944450D,Smart Coupe,economy,petrol,4.74,2015,18775,2018
+j19399094D,Renault Kaptur,standart,petrol,3.66,2011,50283,2020
+x22923359G,Renault Kaptur,standart,petrol,4.08,2012,37007,2020
+Y-1323987e,Nissan Qashqai,standart,petrol,4.18,2015,17931,2018
+K-1269595L,VW Tiguan,economy,petrol,7.46,2013,24522,2021
+n20639465A,VW Tiguan,economy,petrol,4.18,2017,43904,2020
+a21656080v,Kia Rio X,economy,petrol,5.16,2012,25396,2021
+U-1992717t,Nissan Qashqai,standart,petrol,4.26,2015,11821,2015
+R30128601K,Renault Kaptur,standart,petrol,3.88,2011,55320,2018
+u16314704r,Hyundai Solaris,economy,petrol,3.04,2013,29094,2021
+s-2436543G,Skoda Rapid,economy,petrol,4.4,2015,7212,2019
+c16550272Z,VW Tiguan,economy,petrol,4.28,2016,30495,2020
+P-1346097W,Smart ForTwo,economy,petrol,3.8,2014,150,2020
+g16024987m,Audi A4,premium,petrol,4.38,2013,19034,2020
+U-1752971J,Kia Rio,economy,petrol,5.24,2012,38538,2015
+r-1905989S,Smart Coupe,economy,petrol,5.02,2015,17320,2022
+z77468044J,VW Polo,economy,petrol,2.5,2012,39019,2018
+A-1270146E,Kia Sportage,standart,petrol,4.28,2013,16740,2015
+V25420898f,VW Tiguan,economy,petrol,3.86,2016,36169,2021
+L-1797985u,Smart ForFour,economy,petrol,5.42,2014,1574,2016
+R-6331321w,Smart ForTwo,economy,petrol,4.92,2017,45616,2016
+T-1709421u,Kia Rio X-line,economy,petrol,5.14,2015,19259,2020
+B15568172t,Smart Coupe,economy,petrol,3.98,2015,17635,2021
+Y-8790654J,Tesla Model 3,premium,electro,5.16,2015,15362,2020
+T20515718O,VW Polo,economy,petrol,1.66,2015,11323,2018
+t10904137c,Hyundai Solaris,economy,petrol,3.16,2011,47839,2020
+B15495157d,Skoda Rapid,economy,petrol,4.18,2017,51139,2016
+w11600818r,Kia Rio X,economy,petrol,4.0,2014,494,2022
+J50742620Y,Kia Rio X-line,economy,petrol,3.82,2015,17844,2022
+X19109733F,Kia Sportage,standart,petrol,4.2,2013,24263,2014
+K77789149b,Kia Sportage,standart,petrol,2.14,2015,8092,2019
+u-3262166Q,Smart ForFour,economy,petrol,5.22,2015,19459,2021
+M-1815101H,Skoda Rapid,economy,petrol,6.5,2017,51988,2014
+i-1031975B,Kia Rio X-line,economy,petrol,4.74,2015,15752,2017
+x-1402597i,Renault Sandero,standart,petrol,5.82,2015,12672,2014
+W21903363q,VW Polo,economy,petrol,4.12,2013,15404,2021
+R78116644f,VW Polo VI,economy,petrol,4.36,2013,24018,2017
+v74110085I,Kia Rio X,economy,petrol,3.32,2014,539,2015
+y13613087K,Smart ForTwo,economy,petrol,2.84,2015,12603,2018
+F11876873F,Kia Sportage,standart,petrol,4.22,2015,20452,2019
+d-2098314Y,Renault Kaptur,standart,petrol,5.26,2015,11025,2014
+S-8849274i,Smart ForFour,economy,petrol,3.8,2017,44632,2017
+h-2046413f,Audi Q3,premium,petrol,5.88,2016,30827,2019
+w-1802080f,VW Tiguan,economy,petrol,4.34,2013,17411,2019
+M-1496604j,Smart Coupe,economy,petrol,5.36,2015,20679,2019
+k-1257348Z,Smart ForTwo,economy,petrol,7.02,2016,36210,2019
+r-1527131R,Kia Rio,economy,petrol,6.24,2014,6076,2015
+v16874119M,Kia Sportage,standart,petrol,4.12,2015,15940,2020
+P-3469531b,Kia Rio,economy,petrol,5.5,2015,16942,2015
+M16034243A,Nissan Qashqai,standart,petrol,3.18,2015,24738,2019
+w16821630R,Kia Sportage,standart,petrol,3.54,2014,2578,2017
+u13249025K,MINI CooperSE,business,electro,3.26,2015,16831,2018
+z66753488b,Smart ForFour,economy,petrol,3.86,2016,46313,2020
+x15961460f,Kia Rio X,economy,petrol,2.96,2012,32996,2018
+S-6486828x,Kia Rio X,economy,petrol,4.62,2013,15835,2020
+g-1092971o,Hyundai Solaris,economy,petrol,4.42,2015,17655,2020
+L17388179m,Nissan Qashqai,standart,petrol,3.2,2014,876,2018
+A-3038491B,Renault Sandero,standart,petrol,5.12,2015,16442,2017
+c22698377T,VW Polo,economy,petrol,1.86,2015,8615,2017
+y62649713S,Kia Rio X-line,economy,petrol,2.42,2014,6204,2015
+L-4421886M,Kia Rio,economy,petrol,4.12,2015,12388,2017
+G45451931y,Smart ForFour,economy,petrol,4.48,2014,3025,2017
+u18704139L,Smart ForTwo,economy,petrol,2.26,2013,20599,2018
+Z-1820438v,VW Polo,economy,petrol,6.38,2014,5334,2017
+V-4266636A,Kia Sportage,standart,petrol,4.76,2015,13276,2017
+N19798078u,VW Polo VI,economy,petrol,3.54,2014,897,2021
+Y33598548t,Smart ForFour,economy,petrol,4.44,2013,21460,2018
+J-3079878g,Hyundai Solaris,economy,petrol,4.96,2013,14610,2022
+q21224514K,Renault Sandero,standart,petrol,2.82,2011,55114,2016
+U16491469E,Kia Sportage,standart,petrol,4.18,2012,34920,2021
+l-1777483G,Skoda Rapid,economy,petrol,4.28,2017,52876,2020
+Q21069704t,Smart Coupe,economy,petrol,3.04,2017,49011,2019
+h-1384351F,Kia Sportage,standart,petrol,4.86,2015,20808,2021
+g30626267Q,Kia Rio X-line,economy,petrol,4.28,2011,46169,2015
+q12243577G,Kia Rio X,economy,petrol,3.6,2015,21424,2022
+y42918132m,Mercedes-Benz E200,business,petrol,3.0,2015,8326,2019
+I11309962s,Mercedes-Benz GLC,business,petrol,2.72,2015,16753,2019
+p-6575392u,Kia Rio,economy,petrol,5.18,2011,59091,2019
+j16297646Q,VW Polo VI,economy,petrol,3.44,2014,1074,2014
+t17381633e,Nissan Qashqai,standart,petrol,4.18,2015,20146,2016
+z27061701s,Kia Rio X-line,economy,petrol,2.3,2011,51035,2018
+w-4656018X,Audi A4,premium,petrol,5.4,2017,49360,2018
+X13263890o,Kia Rio X,economy,petrol,5.16,2012,29285,2016
+p-9648241L,MINI CooperSE,business,electro,4.66,2012,38527,2020
+S13138944k,Smart ForFour,economy,petrol,2.38,2017,46346,2018
+E21805541Y,VW Polo VI,economy,petrol,2.86,2011,49843,2020
+C-5124485K,Renault Kaptur,standart,petrol,4.58,2013,14891,2018
+Q20152079M,Nissan Qashqai,standart,petrol,4.42,2015,10766,2014
+i14645783b,Hyundai Solaris,economy,petrol,4.0,2015,14628,2022
+Q-1815410s,Skoda Rapid,economy,petrol,4.58,2015,20283,2017
+W-2056430t,Smart Coupe,economy,petrol,5.34,2017,57209,2022
