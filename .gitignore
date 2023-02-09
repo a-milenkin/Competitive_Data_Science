@@ -1,0 +1,31 @@
+
+utils.cpython-39.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Folders
+do_not_commit_this/
+tmp_data/
+wandb/
+test/
+catboost_info/
+gauss-rank-scaler/
+data/demo_car_train.csv
+data/demo_driver_info.csv
+data/demo_fix_info.csv
+data/demo_rides_info.csv
+data/fs_task1_10f.csv
+data/fs_task2_45f.csv
+data/fs_task3_310f.csv
+data/pivot_task.csv
+data/quickstart_train.csv
+data/stepik_rides.csv
+others/
+Parsing/
+*Solution.csv
+y_*
