@@ -1,4 +1,9 @@
-
+*.egg-info
+__pycache__
+dist/
+*.pyc
+.venv/
+.python-version
 utils.cpython-39.pyc
 
 # Jupyter Notebook
