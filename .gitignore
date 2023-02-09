@@ -20,10 +20,6 @@ wandb/
 test/
 catboost_info/
 gauss-rank-scaler/
-data/demo_car_train.csv
-data/demo_driver_info.csv
-data/demo_fix_info.csv
-data/demo_rides_info.csv
 data/fs_task1_10f.csv
 data/fs_task2_45f.csv
 data/fs_task3_310f.csv
