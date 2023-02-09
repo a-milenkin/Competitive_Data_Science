@@ -30,6 +30,7 @@ data/fs_task3_310f.csv
 data/pivot_task.csv
 data/quickstart_train.csv
 data/stepik_rides.csv
+data/test_data.csv
 others/
 Parsing/
 *Solution.csv
