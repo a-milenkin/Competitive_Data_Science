@@ -1,5 +1,5 @@
 # Competitive Data Science Course 
-Материалы по курсу 'Введение в соревновантельный анализ данных.'
+Материалы по курсу `Введение в соревновантельный анализ данных.`
 
 [![Code style: black](/images/shot_logo.png)](https://github.com/psf/black)
 
