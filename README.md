@@ -1,6 +1,8 @@
 # Competitive Data Science Course 
 Материалы по курсу 'Введение в соревновантельный анализ данных.'
 
+[![Code style: black](/images/purpl_surf_robo_2.png)](https://github.com/psf/black)
+
 #  1. 🚀 Введение
 Введение в соревновательный Data Science
 
