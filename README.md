@@ -1,7 +1,7 @@
 # Competitive Data Science Course 
 Материалы по курсу `Введение в соревновантельный анализ данных.`
 
-Канал в телеграм [t.me/data_science_winners](https://t.me/data_science_winners)
+Канал в телеграм [t.me/data_science_winners](https://t.me/+xEKvXwTqkBBmYThi)
 
 [![Code style: black](/images/shot_logo.png)](https://github.com/psf/black)
 
