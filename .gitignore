@@ -27,7 +27,16 @@ data/pivot_task.csv
 data/stepik_rides.csv
 data/test_data.csv
 others/
+notebooks/ca
+notebooks/cacher_dir
+notebooks/catboost_info
+notebooks/runs
+notebooks/src
+notebooks/wandb
 Parsing/
 *Solution.csv
+_*
 y_*
+*.json
+Untitled*
 tmp_data.csv
