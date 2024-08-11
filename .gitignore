@@ -8,6 +8,7 @@ utils.cpython-39.pyc
 
 # Jupyter Notebook
 .ipynb_checkpoints
+images/.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -26,6 +27,7 @@ data/fs_task3_310f.csv
 data/pivot_task.csv
 data/stepik_rides.csv
 data/test_data.csv
+data/car_test_solution.csv
 others/
 notebooks/ca
 notebooks/cacher_dir
